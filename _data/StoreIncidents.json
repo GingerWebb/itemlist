@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
+		"price": 20000,
 		"karmatype": "Bad"
 	},
 	{
@@ -37,7 +37,7 @@
 	},
 	{
 		"abr": "drythunderstorm",
-		"price": 450,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -82,7 +82,7 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 6500,
+		"price": 11111,
 		"karmatype": "Doom"
 	},
 	{
@@ -111,13 +111,13 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "resourcepodcrash",
-		"price": 300,
+		"abr": "wandererjoins",
+		"price": 50,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "transportpodcrash",
-		"price": 600,
+		"abr": "resourcepodcrash",
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -137,7 +137,7 @@
 	},
 	{
 		"abr": "maninblack",
-		"price": 350,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -217,7 +217,7 @@
 	},
 	{
 		"abr": "shippartpsychic",
-		"price": 2400,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
@@ -242,7 +242,7 @@
 	},
 	{
 		"abr": "siegeraid",
-		"price": 2500,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
@@ -332,17 +332,17 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 22664,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveme",
-		"price": 2833,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healall",
-		"price": 17336,
+		"price": 3500,
 		"karmatype": "Good"
 	},
 	{
@@ -352,12 +352,12 @@
 	},
 	{
 		"abr": "healme",
-		"price": 2167,
+		"price": 1200,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -377,17 +377,17 @@
 	},
 	{
 		"abr": "fullheal",
-		"price": 2167,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "passion",
-		"price": 7000,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removepassion",
-		"price": 5000,
+		"price": 3500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -397,6 +397,11 @@
 	},
 	{
 		"abr": "settraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "cleartraits",
 		"price": 1,
 		"karmatype": "Neutral"
 	},
@@ -432,9 +437,9 @@
 	},
 	{
 		"abr": "sanctuary",
-		"price": 100000,
+		"price": 15000,
 		"karmatype": "Good"
 	}
 	],
-	"total": 87
+	"total": 88
 }
