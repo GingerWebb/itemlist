@@ -2076,8 +2076,8 @@
       "name": "xenophobe",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 1
     },
     {
@@ -2106,8 +2106,8 @@
       "name": "xenophile",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": -1
     },
     {
@@ -2166,8 +2166,8 @@
       "name": "germaphobe",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 2
     },
     {
@@ -2196,8 +2196,8 @@
       "name": "hygienic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 1
     },
     {
@@ -2226,8 +2226,8 @@
       "name": "unhygienic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": -1
     },
     {
@@ -2256,8 +2256,8 @@
       "name": "slob",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": -2
     }
   ],

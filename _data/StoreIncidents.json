@@ -82,7 +82,7 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 11111,
+		"price": 10000,
 		"karmatype": "Doom"
 	},
 	{
@@ -112,7 +112,7 @@
 	},
 	{
 		"abr": "wandererjoins",
-		"price": 50,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -347,12 +347,12 @@
 	},
 	{
 		"abr": "healanypawn",
-		"price": 2000,
+		"price": 1200,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healme",
-		"price": 1200,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -377,7 +377,7 @@
 	},
 	{
 		"abr": "fullheal",
-		"price": 2000,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
