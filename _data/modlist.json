@@ -54,16 +54,28 @@
     "version": null
   },
   {
+    "author": "Jaxe",
+    "name": "Interaction Bubbles",
+    "steamId": "1516158345",
+    "version": "1.8.0.0"
+  },
+  {
     "author": "jptrrs",
     "name": "SpeakUp",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Jaxe",
-    "name": "Interaction Bubbles",
-    "steamId": "1516158345",
-    "version": "1.8.0.0"
+    "author": "Kiame Vivacity",
+    "name": "[KV] RimFridge",
+    "steamId": "1180721235",
+    "version": "1.2.1.0"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.3.0.1"
   },
   {
     "author": "Mehni",
@@ -219,7 +231,7 @@
     "author": "saschahi",
     "name": "ToolkitAddon - More Stuff",
     "steamId": "2594931182",
-    "version": "1.1.7"
+    "version": "1.1.9"
   },
   {
     "author": "swemoney",
@@ -258,16 +270,16 @@
     "version": null
   },
   {
-    "author": "Orion",
-    "name": "Hospitality",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "erdelf",
     "name": "Humanoid Alien Races",
     "steamId": "839005762",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Dubwise",
@@ -298,12 +310,6 @@
     "name": "Smart Farming",
     "steamId": "2619652663",
     "version": "1.3"
-  },
-  {
-    "author": "Kiame Vivacity",
-    "name": "[KV] RimFridge",
-    "steamId": "1180721235",
-    "version": "1.2.1.0"
   },
   {
     "author": "民火",
@@ -358,12 +364,6 @@
     "name": "Biomes! Islands",
     "steamId": "2038001322",
     "version": "1.3.1.2"
-  },
-  {
-    "author": "Little White Mouse",
-    "name": "LWM's Deep Storage",
-    "steamId": "1617282896",
-    "version": "1.3.0.1"
   },
   {
     "author": "Netrve",
@@ -424,5 +424,89 @@
     "name": "Self Dyeing",
     "steamId": "2562859859",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki,  Taranchuk and  Chowder",
+    "name": "Vanilla Traits Expanded",
+    "steamId": "2296404655",
+    "version": "1.0.0.1"
+  },
+  {
+    "author": "Oskar Potocki and  XeoNovaDan",
+    "name": "Vanilla Factions Expanded - Medieval",
+    "steamId": "2023513450",
+    "version": "1.0.6.0"
+  },
+  {
+    "author": "jecrell and contributors",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.3.0.4"
+  },
+  {
+    "author": "Jecrell",
+    "name": "Call of Cthulhu - Cults",
+    "steamId": "815039373",
+    "version": "1.0.23.5"
+  },
+  {
+    "author": "jecrell",
+    "name": "H.P. Lovecraft Storyteller",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AveryTheKitty,  Erin and Ravenholme",
+    "name": "Xenohumans - Anthromorphs",
+    "steamId": "2349467636",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Jecrell",
+    "name": "Call of Cthulhu - Cosmic Horrors",
+    "steamId": "765890823",
+    "version": "1.3.0.2"
+  },
+  {
+    "author": "Jecrell",
+    "name": "Call of Cthulhu - Factions",
+    "steamId": "764375772",
+    "version": "1.0.3.4"
+  },
+  {
+    "author": "Jecrell and contributors",
+    "name": "Rim of Madness - Vampires",
+    "steamId": "1187010034",
+    "version": "1.23.1.0"
+  },
+  {
+    "author": "Jecrell",
+    "name": "Rim of Madness - Werewolves",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SeveralPuffins",
+    "name": "Recon And Discovery (Continued)",
+    "steamId": "2035131107",
+    "version": "1.3.1"
+  },
+  {
+    "author": "TimmyLiang",
+    "name": "TradeHelper",
+    "steamId": "2113372560",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Hob Took",
+    "name": "Trade UI Revised",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Mod Manager",
+    "steamId": "1507748539",
+    "version": "3.8.1038"
   }
 ]
