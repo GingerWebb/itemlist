@@ -10238,7 +10238,7 @@
 	},
 	{
 		"abr": "chaothrumbo",
-		"price": 16667,
+		"price": 5000,
 		"category": "Animals",
 		"defname": "PM_Chaothrumbo"
 	},
@@ -11789,7 +11789,157 @@
 		"price": 1417,
 		"category": "Scrolls",
 		"defname": "SkillOf_MedigelC"
+	},
+	{
+		"abr": "windmagespell:feywinds",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SpellOf_FeyWindsLearnable"
+	},
+	{
+		"abr": "ahuizotl",
+		"price": 583,
+		"category": "Animals",
+		"defname": "MM_Ahuizotl"
+	},
+	{
+		"abr": "basilisk",
+		"price": 750,
+		"category": "Animals",
+		"defname": "MM_Basilisk"
+	},
+	{
+		"abr": "basiliskegg(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "MM_EggBasiliskFertilized"
+	},
+	{
+		"abr": "catoblepas",
+		"price": 667,
+		"category": "Animals",
+		"defname": "MM_Catoblepas"
+	},
+	{
+		"abr": "cerberus",
+		"price": 500,
+		"category": "Animals",
+		"defname": "MM_Cerberus"
+	},
+	{
+		"abr": "ceryneianhind",
+		"price": 583,
+		"category": "Animals",
+		"defname": "MM_CeryneianHind"
+	},
+	{
+		"abr": "chimera",
+		"price": 833,
+		"category": "Animals",
+		"defname": "MM_Chimera"
+	},
+	{
+		"abr": "erymanthianboar",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "MM_ErymanthianBoar"
+	},
+	{
+		"abr": "fenghuang",
+		"price": 625,
+		"category": "Animals",
+		"defname": "MM_Fenghuang"
+	},
+	{
+		"abr": "fenghuangegg(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "MM_EggFenghuangFertilized"
+	},
+	{
+		"abr": "griffin",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "MM_Griffin"
+	},
+	{
+		"abr": "griffinegg(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "MM_EggGriffinFertilized"
+	},
+	{
+		"abr": "heavymagicalleather",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "MM_HeavyMagicalLeather"
+	},
+	{
+		"abr": "ieltxu",
+		"price": 417,
+		"category": "Animals",
+		"defname": "MM_Ieltxu"
+	},
+	{
+		"abr": "ieltxuegg(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "MM_EggIeltxuFertilized"
+	},
+	{
+		"abr": "kappa",
+		"price": 583,
+		"category": "Animals",
+		"defname": "MM_Kappa"
+	},
+	{
+		"abr": "kitsune",
+		"price": 417,
+		"category": "Animals",
+		"defname": "MM_Kitsune"
+	},
+	{
+		"abr": "lernaeanhydra",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "MM_LernaeanHydra"
+	},
+	{
+		"abr": "lesserwyvern",
+		"price": 2083,
+		"category": "Animals",
+		"defname": "MM_LesserWyvern"
+	},
+	{
+		"abr": "lightmagicalleather",
+		"price": 6,
+		"category": "Leathers",
+		"defname": "MM_LightMagicalLeather"
+	},
+	{
+		"abr": "manticore",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "MM_Manticore"
+	},
+	{
+		"abr": "pegasus",
+		"price": 917,
+		"category": "Animals",
+		"defname": "MM_Pegasus"
+	},
+	{
+		"abr": "phoenix",
+		"price": 917,
+		"category": "Animals",
+		"defname": "MM_Phoenix"
+	},
+	{
+		"abr": "phoenixegg(fert.)",
+		"price": 17,
+		"category": "Eggs (fert.)",
+		"defname": "MM_EggPhoenixFertilized"
 	}
 	],
-	"total": 1966
+	"total": 1998
 }

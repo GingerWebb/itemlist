@@ -222,12 +222,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "InfinitySamurai",
-    "name": "RimConnect",
-    "steamId": "1880784338",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "SirRandoo",
     "name": "ToolkitRaids",
     "steamId": "2091359241",
@@ -490,5 +484,47 @@
     "name": "Pawnmorpher",
     "steamId": "1786466855",
     "version": "1.12.2"
+  },
+  {
+    "author": "[KOR]Bichang",
+    "name": "More Sculpture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rainbeau Flambe - troopersmith1",
+    "name": "[RF] Advanced Bridges Continued [1.0+]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lanilor",
+    "name": "Simply More Bridges (Continued)",
+    "steamId": "2012484790",
+    "version": "1.3.4"
+  },
+  {
+    "author": "InfinitySamurai",
+    "name": "RimConnect",
+    "steamId": "1880784338",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] Trading Spot",
+    "steamId": "1180719658",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Trinity",
+    "name": "RuntimeGC [1.3]",
+    "steamId": "2559582557",
+    "version": "0.1.0.0"
+  },
+  {
+    "author": "Sarg",
+    "name": "Magical Menagerie",
+    "steamId": "1821617793",
+    "version": "1.0.0.0"
   }
 ]
