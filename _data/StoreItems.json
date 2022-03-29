@@ -3116,7 +3116,7 @@
 	},
 	{
 		"abr": "cheese",
-		"price": 17,
+		"price": 5,
 		"category": "Meals",
 		"defname": "VCE_Cheese"
 	},
@@ -10238,7 +10238,7 @@
 	},
 	{
 		"abr": "chaothrumbo",
-		"price": 5000,
+		"price": 30000,
 		"category": "Animals",
 		"defname": "PM_Chaothrumbo"
 	},
@@ -11939,7 +11939,55 @@
 		"price": 17,
 		"category": "Eggs (fert.)",
 		"defname": "MM_EggPhoenixFertilized"
-	}
+	},
+	{
+		"abr": "qilin",
+		"price": 417,
+		"category": "Animals",
+		"defname": "MM_Qilin"
+	},
+	{
+		"abr": "salamander",
+		"price": 750,
+		"category": "Animals",
+		"defname": "MM_Salamander"
+	},
+	{
+		"abr": "salamanderegg(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "MM_EggSalamanderFertilized"
+	},
+	{
+		"abr": "tlilcoatl",
+		"price": 750,
+		"category": "Animals",
+		"defname": "MM_Tlilcoatl"
+	},
+	{
+		"abr": "unicorn",
+		"price": 917,
+		"category": "Animals",
+		"defname": "MM_Unicorn"
+	},
+	{
+		"abr": "wildminotaur",
+		"price": 583,
+		"category": "Animals",
+		"defname": "MM_WildMinotaur"
+	},
+	{
+		"abr": "will-o'-wisp",
+		"price": 250,
+		"category": "Animals",
+		"defname": "MM_WillOWisp"
+	},
+	{
+		"abr": "xiezhi",
+		"price": 833,
+		"category": "Animals",
+		"defname": "MM_Xiezhi"
+	},
 	],
-	"total": 1998
+	"total": 2068
 }

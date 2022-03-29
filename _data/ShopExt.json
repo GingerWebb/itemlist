@@ -4262,9 +4262,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -43096,7 +43096,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 750
+      "price": 2000
     },
     {
       "data": {
@@ -43130,8 +43130,8 @@
       "description": "A vat-grown underling created by the Folia to act as guards and raiders.\nVery combat proficient, these fungal organisms' toxic touch lets them defeat even strong foes in hand-to-hand combat.\nTheir skill in any other labor, however, leave much to be desired.\n+ Shooting Accuracy and Speed \n+Dodge Change\n+ No food debuffs\n+ Fast injury recovery\n- very slow worker",
       "defName": "Deathkap_Race",
       "enabled": true,
-      "name": "Deathkap",
-      "price": 750
+      "name": "deathkap",
+      "price": 2000
     },
     {
       "data": {
@@ -43157,8 +43157,8 @@
       "description": "One of the regal and imposing Folia. Their plant-infused DNA lets them thrive in harsh temperatures and suppliment their diet with sunlight.\nThese xenohumans deign to involve themselves in hard labour, preferring to delegate tasks to their vat-grown underlings.\n+ Great at trade deals\n+ Low food needs\n+ Access to tech to grow worker units\n~ Huge social imapact\n- often unwilling to do many work types",
       "defName": "Folia_Race",
       "enabled": true,
-      "name": "Folia",
-      "price": 750
+      "name": "folia",
+      "price": 2000
     },
     {
       "data": {
@@ -43186,8 +43186,8 @@
       "description": "A vat-grown underling created by the Folia to perform menial tasks.\nSlow learning, yet hard working and hardy, these plant-based grunts are effective workers.\n+ Bonus work speed\n+ low break threshold\n- Slow learning\n- Dumb",
       "defName": "Potatoid_Race",
       "enabled": true,
-      "name": "Potatoid",
-      "price": 750
+      "name": "potatoid",
+      "price": 2000
     },
     {
       "data": {
@@ -43211,8 +43211,8 @@
       "description": "Whether due to scientific experimentation, occult interference, or comic fluke, these are poor souls for whom death has been abjured.",
       "defName": "ReanimatedCorpse",
       "enabled": true,
-      "name": "reanimated corpse",
-      "price": 750
+      "name": "reanimatedcorpse",
+      "price": 2000
     },
     {
       "data": {
@@ -43235,7 +43235,7 @@
       "defName": "ATK_Avianmorph",
       "enabled": true,
       "name": "avianmorph",
-      "price": 750
+      "price": 2000
     },
     {
       "data": {
@@ -43258,7 +43258,7 @@
       "defName": "ATK_Bovinemorph",
       "enabled": true,
       "name": "bovinemorph",
-      "price": 750
+      "price": 2000
     },
     {
       "data": {
@@ -43281,7 +43281,7 @@
       "defName": "ATK_Caninemorph",
       "enabled": true,
       "name": "caninemorph",
-      "price": 750
+      "price": 2000
     },
     {
       "data": {
@@ -43304,7 +43304,7 @@
       "defName": "ATK_Cervinemorph",
       "enabled": true,
       "name": "cervinemorph",
-      "price": 750
+      "price": 2000
     },
     {
       "data": {
@@ -43327,7 +43327,7 @@
       "defName": "ATK_Dragomorph",
       "enabled": true,
       "name": "dragomorph",
-      "price": 750
+      "price": 2000
     },
     {
       "data": {
@@ -43350,7 +43350,7 @@
       "defName": "ATK_Felinemorph",
       "enabled": true,
       "name": "felinemorph",
-      "price": 750
+      "price": 2000
     },
     {
       "data": {
@@ -43373,7 +43373,7 @@
       "defName": "ATK_Gnollmorph",
       "enabled": true,
       "name": "gnollmorph",
-      "price": 750
+      "price": 2000
     },
     {
       "data": {
@@ -43396,7 +43396,7 @@
       "defName": "ATK_Lagomorph",
       "enabled": true,
       "name": "lagomorph",
-      "price": 750
+      "price": 2000
     },
     {
       "data": {
@@ -43418,8 +43418,8 @@
       "description": "A xenohuman that is biosculpted to resemble an anthropomorphic fox, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
       "defName": "ATK_Vulpinemorph",
       "enabled": true,
-      "name": "Vulpinemorph",
-      "price": 750
+      "name": "vulpinemorph",
+      "price": 2000
     }
   ]
 }

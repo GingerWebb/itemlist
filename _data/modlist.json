@@ -378,12 +378,6 @@
     "version": null
   },
   {
-    "author": "avilmask",
-    "name": "Self Dyeing",
-    "steamId": "2562859859",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki,  Taranchuk and  Chowder",
     "name": "Vanilla Traits Expanded",
     "steamId": "2296404655",
@@ -525,6 +519,18 @@
     "author": "Sarg",
     "name": "Magical Menagerie",
     "steamId": "1821617793",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "miyamiya",
+    "name": "Compressed Raid",
+    "steamId": "2377478084",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "avilmask",
+    "name": "Self Dyeing",
+    "steamId": "2562859859",
     "version": "1.0.0.0"
   }
 ]

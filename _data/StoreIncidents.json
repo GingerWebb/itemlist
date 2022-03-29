@@ -111,11 +111,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "wandererjoins",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "resourcepodcrash",
 		"price": 300,
 		"karmatype": "Good"
@@ -134,11 +129,6 @@
 		"abr": "meteor",
 		"price": 150,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "maninblack",
-		"price": 1000,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
@@ -172,7 +162,7 @@
 	},
 	{
 		"abr": "wildman",
-		"price": 300,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -221,11 +211,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "militaryaid",
-		"price": 1700,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "raid",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -252,7 +237,7 @@
 	},
 	{
 		"abr": "infestation",
-		"price": 2500,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
@@ -307,7 +292,7 @@
 	},
 	{
 		"abr": "prisoner",
-		"price": 800,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -332,7 +317,7 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 5000,
+		"price": 10000,
 		"karmatype": "Good"
 	},
 	{
@@ -342,7 +327,7 @@
 	},
 	{
 		"abr": "healall",
-		"price": 3500,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
@@ -352,7 +337,7 @@
 	},
 	{
 		"abr": "healme",
-		"price": 500,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -431,15 +416,10 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "smite",
-		"price": 2500,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "sanctuary",
-		"price": 15000,
+		"price": 20000,
 		"karmatype": "Good"
 	}
 	],
-	"total": 88
+	"total": 84
 }
