@@ -5023,7 +5023,7 @@
       },
       "description": "A race of rudimentary humanlike warrior robots.\n\nUsually found guarding the homes of the wealthy and offices of mega corporations. They show no mercy upon targets who fail to identify themselves. Are traditionally armed with miniguns and core launchers.",
       "defName": "ChjBattleDroid",
-      "enabled": true,
+      "enabled": false,
       "name": "Battledroid",
       "price": 3167
     },
@@ -5741,7 +5741,7 @@
       "defName": "Alien_Moyo",
       "enabled": true,
       "name": "Moyo",
-      "price": 5333
+      "price": 3000
     },
     {
       "data": {
@@ -5779,7 +5779,7 @@
       "defName": "Ratkin",
       "enabled": true,
       "name": "Ratkin",
-      "price": 3333
+      "price": 2000
     },
     {
       "data": {
@@ -5818,7 +5818,7 @@
       "defName": "Ratkin_Su",
       "enabled": true,
       "name": "Ratkin subject",
-      "price": 3333
+      "price": 2000
     }
   ]
 }
