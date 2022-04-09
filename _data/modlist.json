@@ -129,7 +129,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.2.0.0"
+    "version": "6.2.0.3"
   },
   {
     "author": "Roolo and Updated by Ogliss",
@@ -588,12 +588,6 @@
     "version": null
   },
   {
-    "author": "Gargamiel",
-    "name": "PokéWorld",
-    "steamId": "2652029657",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "WexMan",
     "name": "Mines",
     "steamId": null,
@@ -620,6 +614,30 @@
   {
     "author": "Sierra",
     "name": "RimFantasy - Gemstones",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gargamiel",
+    "name": "PokéWorld",
+    "steamId": "2652029657",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sierra",
+    "name": "RimTraits - Vanilla Trait Colors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Arcane Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy Addon - Heroic Weapons",
     "steamId": null,
     "version": null
   }

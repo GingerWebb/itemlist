@@ -9673,24 +9673,6 @@
 		"defname": "AnimalMindImplant"
 	},
 	{
-		"abr": "abomasnow",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Abomasnow"
-	},
-	{
-		"abr": "abra",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Abra"
-	},
-	{
-		"abr": "absol",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Absol"
-	},
-	{
 		"abr": "abyssalpearl",
 		"price": 1333,
 		"category": "Manufactured",
@@ -9745,132 +9727,6 @@
 		"defname": "Moyo_Abyssteel"
 	},
 	{
-		"abr": "aerodactyl",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Aerodactyl"
-	},
-	{
-		"abr": "aggron",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Aggron"
-	},
-	{
-		"abr": "aipom",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Aipom"
-	},
-	{
-		"abr": "alakazam",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Alakazam"
-	},
-	{
-		"abr": "altaria",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Altaria"
-	},
-	{
-		"abr": "ambipom",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Ambipom"
-	},
-	{
-		"abr": "ampharos",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Ampharos"
-	},
-	{
-		"abr": "anorith",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Anorith"
-	},
-	{
-		"abr": "apricornballbelt",
-		"price": 101,
-		"category": "Poké Ball belts",
-		"defname": "PW_ApricornBallBelt"
-	},
-	{
-		"abr": "arbok",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Arbok"
-	},
-	{
-		"abr": "arcanine",
-		"price": 1083,
-		"category": "Animals",
-		"defname": "PW_Arcanine"
-	},
-	{
-		"abr": "arceus",
-		"price": 1417,
-		"category": "Animals",
-		"defname": "PW_Arceus"
-	},
-	{
-		"abr": "ariados",
-		"price": 750,
-		"category": "Animals",
-		"defname": "PW_Ariados"
-	},
-	{
-		"abr": "armaldo",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Armaldo"
-	},
-	{
-		"abr": "armorfossil",
-		"price": 167,
-		"category": "Fossils",
-		"defname": "PW_ArmorFossil"
-	},
-	{
-		"abr": "aron",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Aron"
-	},
-	{
-		"abr": "articuno",
-		"price": 1083,
-		"category": "Animals",
-		"defname": "PW_Articuno"
-	},
-	{
-		"abr": "azelf",
-		"price": 1083,
-		"category": "Animals",
-		"defname": "PW_Azelf"
-	},
-	{
-		"abr": "azumarill",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Azumarill"
-	},
-	{
-		"abr": "azurill",
-		"price": 333,
-		"category": "Animals",
-		"defname": "PW_Azurill"
-	},
-	{
-		"abr": "bagon",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Bagon"
-	},
-	{
 		"abr": "ballista",
 		"price": 1117,
 		"category": "Security",
@@ -9895,88 +9751,16 @@
 		"defname": "BallistaBolt_Normal"
 	},
 	{
-		"abr": "baltoy",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Baltoy"
-	},
-	{
-		"abr": "banette",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Banette"
-	},
-	{
-		"abr": "barboach",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Barboach"
-	},
-	{
-		"abr": "bastiodon",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Bastiodon"
-	},
-	{
-		"abr": "bayleef",
-		"price": 750,
-		"category": "Animals",
-		"defname": "PW_Bayleef"
-	},
-	{
-		"abr": "beautifly",
-		"price": 750,
-		"category": "Animals",
-		"defname": "PW_Beautifly"
-	},
-	{
-		"abr": "beedrill",
-		"price": 750,
-		"category": "Animals",
-		"defname": "PW_Beedrill"
-	},
-	{
-		"abr": "beldum",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Beldum"
-	},
-	{
 		"abr": "belial-v",
 		"price": 833,
 		"category": "Drugs",
 		"defname": "Moyo_BelialV"
 	},
 	{
-		"abr": "bellossom",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Bellossom"
-	},
-	{
-		"abr": "bellsprout",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Bellsprout"
-	},
-	{
 		"abr": "bfr3000",
 		"price": 3133,
 		"category": "Ranged weapons",
 		"defname": "RK_BFR"
-	},
-	{
-		"abr": "bibarel",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Bibarel"
-	},
-	{
-		"abr": "bidoof",
-		"price": 500,
-		"category": "Animals",
-		"defname": "PW_Bidoof"
 	},
 	{
 		"abr": "bionicmoyotail",
@@ -9989,24 +9773,6 @@
 		"price": 1717,
 		"category": "Bionic",
 		"defname": "RK_BionicTail"
-	},
-	{
-		"abr": "blastoise",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Blastoise"
-	},
-	{
-		"abr": "blaziken",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Blaziken"
-	},
-	{
-		"abr": "blissey",
-		"price": 1083,
-		"category": "Animals",
-		"defname": "PW_Blissey"
 	},
 	{
 		"abr": "bluehaze",
@@ -10027,124 +9793,10 @@
 		"defname": "MoyoMedicine"
 	},
 	{
-		"abr": "bonsly",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Bonsly"
-	},
-	{
-		"abr": "breloom",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Breloom"
-	},
-	{
 		"abr": "bronze",
 		"price": 2,
 		"category": "Raw resources",
 		"defname": "VFEC_Bronze"
-	},
-	{
-		"abr": "bronzong",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Bronzong"
-	},
-	{
-		"abr": "bronzor",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Bronzor"
-	},
-	{
-		"abr": "budew",
-		"price": 500,
-		"category": "Animals",
-		"defname": "PW_Budew"
-	},
-	{
-		"abr": "buizel",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Buizel"
-	},
-	{
-		"abr": "bulbasaur",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Bulbasaur"
-	},
-	{
-		"abr": "buneary",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Buneary"
-	},
-	{
-		"abr": "burmy",
-		"price": 417,
-		"category": "Animals",
-		"defname": "PW_Burmy"
-	},
-	{
-		"abr": "butterfree",
-		"price": 750,
-		"category": "Animals",
-		"defname": "PW_Butterfree"
-	},
-	{
-		"abr": "cacnea",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Cacnea"
-	},
-	{
-		"abr": "cacturne",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Cacturne"
-	},
-	{
-		"abr": "camerupt",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Camerupt"
-	},
-	{
-		"abr": "carnivine",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Carnivine"
-	},
-	{
-		"abr": "carvanha",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Carvanha"
-	},
-	{
-		"abr": "cascoon",
-		"price": 417,
-		"category": "Animals",
-		"defname": "PW_Cascoon"
-	},
-	{
-		"abr": "castform",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Castform"
-	},
-	{
-		"abr": "caterpie",
-		"price": 333,
-		"category": "Animals",
-		"defname": "PW_Caterpie"
-	},
-	{
-		"abr": "celebi",
-		"price": 1167,
-		"category": "Animals",
-		"defname": "PW_Celebi"
 	},
 	{
 		"abr": "centurionarmor",
@@ -10159,136 +9811,10 @@
 		"defname": "VFEC_Apparel_CenturionHelmet"
 	},
 	{
-		"abr": "chansey",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Chansey"
-	},
-	{
-		"abr": "charizard",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Charizard"
-	},
-	{
-		"abr": "charmander",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Charmander"
-	},
-	{
-		"abr": "charmeleon",
-		"price": 750,
-		"category": "Animals",
-		"defname": "PW_Charmeleon"
-	},
-	{
-		"abr": "chatot",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Chatot"
-	},
-	{
-		"abr": "cherrim",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Cherrim"
-	},
-	{
-		"abr": "cherubi",
-		"price": 500,
-		"category": "Animals",
-		"defname": "PW_Cherubi"
-	},
-	{
-		"abr": "chikorita",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Chikorita"
-	},
-	{
-		"abr": "chimchar",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Chimchar"
-	},
-	{
-		"abr": "chimecho",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Chimecho"
-	},
-	{
-		"abr": "chinchou",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Chinchou"
-	},
-	{
-		"abr": "chingling",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Chingling"
-	},
-	{
-		"abr": "clamperl",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Clamperl"
-	},
-	{
-		"abr": "clawfossil",
-		"price": 167,
-		"category": "Fossils",
-		"defname": "PW_ClawFossil"
-	},
-	{
-		"abr": "claydol",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Claydol"
-	},
-	{
-		"abr": "clefable",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Clefable"
-	},
-	{
-		"abr": "clefairy",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Clefairy"
-	},
-	{
-		"abr": "cleffa",
-		"price": 417,
-		"category": "Animals",
-		"defname": "PW_Cleffa"
-	},
-	{
 		"abr": "clens-azure",
 		"price": 117,
 		"category": "Drugs",
 		"defname": "Clensazure"
-	},
-	{
-		"abr": "cloyster",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Cloyster"
-	},
-	{
-		"abr": "combee",
-		"price": 500,
-		"category": "Animals",
-		"defname": "PW_Combee"
-	},
-	{
-		"abr": "combusken",
-		"price": 750,
-		"category": "Animals",
-		"defname": "PW_Combusken"
 	},
 	{
 		"abr": "concreteblocks",
@@ -10297,64 +9823,10 @@
 		"defname": "VFEC_BlocksConcrete"
 	},
 	{
-		"abr": "corphish",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Corphish"
-	},
-	{
-		"abr": "corsola",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Corsola"
-	},
-	{
-		"abr": "cradily",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Cradily"
-	},
-	{
 		"abr": "craftingbench",
 		"price": 191,
 		"category": "Production",
 		"defname": "VFEC_CraftingBench"
-	},
-	{
-		"abr": "cranidos",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Cranidos"
-	},
-	{
-		"abr": "crawdaunt",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Crawdaunt"
-	},
-	{
-		"abr": "cresselia",
-		"price": 1167,
-		"category": "Animals",
-		"defname": "PW_Cresselia"
-	},
-	{
-		"abr": "croagunk",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Croagunk"
-	},
-	{
-		"abr": "crobat",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Crobat"
-	},
-	{
-		"abr": "croconaw",
-		"price": 750,
-		"category": "Animals",
-		"defname": "PW_Croconaw"
 	},
 	{
 		"abr": "crossback",
@@ -10363,28 +9835,10 @@
 		"defname": "RK_CrossBack"
 	},
 	{
-		"abr": "cubone",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Cubone"
-	},
-	{
-		"abr": "cyndaquil",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Cyndaquil"
-	},
-	{
 		"abr": "dagger",
 		"price": 154,
 		"category": "Melee weapons",
 		"defname": "VFEC_MeleeWeapon_Dagger"
-	},
-	{
-		"abr": "darkrai",
-		"price": 1167,
-		"category": "Animals",
-		"defname": "PW_Darkrai"
 	},
 	{
 		"abr": "deepblueserum",
@@ -10399,24 +9853,6 @@
 		"defname": "Moyo_DBS"
 	},
 	{
-		"abr": "delcatty",
-		"price": 750,
-		"category": "Animals",
-		"defname": "PW_Delcatty"
-	},
-	{
-		"abr": "delibird",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Delibird"
-	},
-	{
-		"abr": "deoxys",
-		"price": 1167,
-		"category": "Animals",
-		"defname": "PW_Deoxys"
-	},
-	{
 		"abr": "depthweave",
 		"price": 7,
 		"category": "Textiles",
@@ -10429,220 +9865,10 @@
 		"defname": "DetoxerCobalt"
 	},
 	{
-		"abr": "dewgong",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Dewgong"
-	},
-	{
-		"abr": "dialga",
-		"price": 1333,
-		"category": "Animals",
-		"defname": "PW_Dialga"
-	},
-	{
-		"abr": "diglett",
-		"price": 500,
-		"category": "Animals",
-		"defname": "PW_Diglett"
-	},
-	{
-		"abr": "ditto",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Ditto"
-	},
-	{
-		"abr": "dodrio",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Dodrio"
-	},
-	{
-		"abr": "doduo",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Doduo"
-	},
-	{
-		"abr": "domefossil",
-		"price": 167,
-		"category": "Fossils",
-		"defname": "PW_DomeFossil"
-	},
-	{
-		"abr": "donphan",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Donphan"
-	},
-	{
-		"abr": "dragonair",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Dragonair"
-	},
-	{
-		"abr": "dragonite",
-		"price": 1167,
-		"category": "Animals",
-		"defname": "PW_Dragonite"
-	},
-	{
-		"abr": "drapion",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Drapion"
-	},
-	{
-		"abr": "dratini",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Dratini"
-	},
-	{
-		"abr": "drifblim",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Drifblim"
-	},
-	{
-		"abr": "drifloon",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Drifloon"
-	},
-	{
-		"abr": "drowzee",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Drowzee"
-	},
-	{
-		"abr": "dubiousdisc",
-		"price": 1175,
-		"category": "Other",
-		"defname": "PW_DubiousDisc"
-	},
-	{
-		"abr": "dugtrio",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Dugtrio"
-	},
-	{
-		"abr": "dunsparce",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Dunsparce"
-	},
-	{
-		"abr": "dusclops",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Dusclops"
-	},
-	{
-		"abr": "dusknoir",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Dusknoir"
-	},
-	{
-		"abr": "duskull",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Duskull"
-	},
-	{
-		"abr": "dustox",
-		"price": 750,
-		"category": "Animals",
-		"defname": "PW_Dustox"
-	},
-	{
-		"abr": "eevee",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Eevee"
-	},
-	{
-		"abr": "ekans",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Ekans"
-	},
-	{
-		"abr": "electabuzz",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Electabuzz"
-	},
-	{
-		"abr": "electivire",
-		"price": 1083,
-		"category": "Animals",
-		"defname": "PW_Electivire"
-	},
-	{
-		"abr": "electrike",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Electrike"
-	},
-	{
-		"abr": "electrode",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Electrode"
-	},
-	{
-		"abr": "elekid",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Elekid"
-	},
-	{
 		"abr": "empbomb",
 		"price": 858,
 		"category": "Special",
 		"defname": "RK_EmpBomb"
-	},
-	{
-		"abr": "empoleon",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Empoleon"
-	},
-	{
-		"abr": "entei",
-		"price": 1083,
-		"category": "Animals",
-		"defname": "PW_Entei"
-	},
-	{
-		"abr": "espeon",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Espeon"
-	},
-	{
-		"abr": "exeggcute",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Exeggcute"
-	},
-	{
-		"abr": "exeggutor",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Exeggutor"
-	},
-	{
-		"abr": "exploud",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Exploud"
 	},
 	{
 		"abr": "fakeear",
@@ -10663,222 +9889,6 @@
 		"defname": "RK_FakeTail"
 	},
 	{
-		"abr": "farfetch'd",
-		"price": 750,
-		"category": "Animals",
-		"defname": "PW_Farfetchd"
-	},
-	{
-		"abr": "fearow",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Fearow"
-	},
-	{
-		"abr": "feebas",
-		"price": 417,
-		"category": "Animals",
-		"defname": "PW_Feebas"
-	},
-	{
-		"abr": "feraligatr",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Feraligatr"
-	},
-	{
-		"abr": "finneon",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Finneon"
-	},
-	{
-		"abr": "firestone",
-		"price": 250,
-		"category": "Stones",
-		"defname": "PW_FireStone"
-	},
-	{
-		"abr": "flaaffy",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Flaaffy"
-	},
-	{
-		"abr": "flareon",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Flareon"
-	},
-	{
-		"abr": "floatzel",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Floatzel"
-	},
-	{
-		"abr": "flygon",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Flygon"
-	},
-	{
-		"abr": "forretress",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Forretress"
-	},
-	{
-		"abr": "froslass",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Froslass"
-	},
-	{
-		"abr": "furret",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Furret"
-	},
-	{
-		"abr": "gabite",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Gabite"
-	},
-	{
-		"abr": "gallade",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Gallade"
-	},
-	{
-		"abr": "garchomp",
-		"price": 1167,
-		"category": "Animals",
-		"defname": "PW_Garchomp"
-	},
-	{
-		"abr": "gardevoir",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Gardevoir"
-	},
-	{
-		"abr": "gastly",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Gastly"
-	},
-	{
-		"abr": "gastrodon",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Gastrodon"
-	},
-	{
-		"abr": "gengar",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Gengar"
-	},
-	{
-		"abr": "geodude",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Geodude"
-	},
-	{
-		"abr": "gible",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Gible"
-	},
-	{
-		"abr": "girafarig",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Girafarig"
-	},
-	{
-		"abr": "giratina",
-		"price": 1333,
-		"category": "Animals",
-		"defname": "PW_Giratina"
-	},
-	{
-		"abr": "glaceon",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Glaceon"
-	},
-	{
-		"abr": "glalie",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Glalie"
-	},
-	{
-		"abr": "glameow",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Glameow"
-	},
-	{
-		"abr": "gligar",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Gligar"
-	},
-	{
-		"abr": "gliscor",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Gliscor"
-	},
-	{
-		"abr": "gloom",
-		"price": 750,
-		"category": "Animals",
-		"defname": "PW_Gloom"
-	},
-	{
-		"abr": "golbat",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Golbat"
-	},
-	{
-		"abr": "goldeen",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Goldeen"
-	},
-	{
-		"abr": "golduck",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Golduck"
-	},
-	{
-		"abr": "golem",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Golem"
-	},
-	{
-		"abr": "gorebyss",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Gorebyss"
-	},
-	{
-		"abr": "granbull",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Granbull"
-	},
-	{
 		"abr": "grandabyssalpearlsculpture",
 		"price": 65967,
 		"category": "Art",
@@ -10891,232 +9901,10 @@
 		"defname": "ChunkGranite"
 	},
 	{
-		"abr": "graveler",
-		"price": 750,
-		"category": "Animals",
-		"defname": "PW_Graveler"
-	},
-	{
-		"abr": "greatballbelt",
-		"price": 492,
-		"category": "Poké Ball belts",
-		"defname": "PW_GreatBallBelt"
-	},
-	{
-		"abr": "grimer",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Grimer"
-	},
-	{
-		"abr": "grotle",
-		"price": 750,
-		"category": "Animals",
-		"defname": "PW_Grotle"
-	},
-	{
-		"abr": "groudon",
-		"price": 1333,
-		"category": "Animals",
-		"defname": "PW_Groudon"
-	},
-	{
-		"abr": "grovyle",
-		"price": 750,
-		"category": "Animals",
-		"defname": "PW_Grovyle"
-	},
-	{
-		"abr": "growlithe",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Growlithe"
-	},
-	{
-		"abr": "grumpig",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Grumpig"
-	},
-	{
-		"abr": "gulpin",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Gulpin"
-	},
-	{
-		"abr": "gyarados",
-		"price": 1083,
-		"category": "Animals",
-		"defname": "PW_Gyarados"
-	},
-	{
-		"abr": "happiny",
-		"price": 417,
-		"category": "Animals",
-		"defname": "PW_Happiny"
-	},
-	{
-		"abr": "hariyama",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Hariyama"
-	},
-	{
-		"abr": "haunter",
-		"price": 750,
-		"category": "Animals",
-		"defname": "PW_Haunter"
-	},
-	{
-		"abr": "healpowder",
-		"price": 667,
-		"category": "Healing",
-		"defname": "PW_HealPowder"
-	},
-	{
-		"abr": "heatran",
-		"price": 1167,
-		"category": "Animals",
-		"defname": "PW_Heatran"
-	},
-	{
 		"abr": "heavyshield",
 		"price": 350,
 		"category": "Shields",
 		"defname": "VFEC_Shield_Heavy"
-	},
-	{
-		"abr": "helixfossil",
-		"price": 167,
-		"category": "Fossils",
-		"defname": "PW_HelixFossil"
-	},
-	{
-		"abr": "heracross",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Heracross"
-	},
-	{
-		"abr": "hippopotas",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Hippopotas"
-	},
-	{
-		"abr": "hippowdon",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Hippowdon"
-	},
-	{
-		"abr": "hitmonchan",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Hitmonchan"
-	},
-	{
-		"abr": "hitmonlee",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Hitmonlee"
-	},
-	{
-		"abr": "hitmontop",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Hitmontop"
-	},
-	{
-		"abr": "honchkrow",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Honchkrow"
-	},
-	{
-		"abr": "ho-oh",
-		"price": 1333,
-		"category": "Animals",
-		"defname": "PW_HoOh"
-	},
-	{
-		"abr": "hoothoot",
-		"price": 500,
-		"category": "Animals",
-		"defname": "PW_Hoothoot"
-	},
-	{
-		"abr": "hoppip",
-		"price": 500,
-		"category": "Animals",
-		"defname": "PW_Hoppip"
-	},
-	{
-		"abr": "horsea",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Horsea"
-	},
-	{
-		"abr": "houndoom",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Houndoom"
-	},
-	{
-		"abr": "houndour",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Houndour"
-	},
-	{
-		"abr": "huntail",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Huntail"
-	},
-	{
-		"abr": "hyperpotion",
-		"price": 33,
-		"category": "Healing",
-		"defname": "PW_HyperPotion"
-	},
-	{
-		"abr": "hypno",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Hypno"
-	},
-	{
-		"abr": "icestone",
-		"price": 250,
-		"category": "Stones",
-		"defname": "PW_IceStone"
-	},
-	{
-		"abr": "igglybuff",
-		"price": 417,
-		"category": "Animals",
-		"defname": "PW_Igglybuff"
-	},
-	{
-		"abr": "illumise",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Illumise"
-	},
-	{
-		"abr": "infernape",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Infernape"
-	},
-	{
-		"abr": "ivysaur",
-		"price": 750,
-		"category": "Animals",
-		"defname": "PW_Ivysaur"
 	},
 	{
 		"abr": "javelin",
@@ -11129,72 +9917,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "VFEC_Jerky"
-	},
-	{
-		"abr": "jigglypuff",
-		"price": 500,
-		"category": "Animals",
-		"defname": "PW_Jigglypuff"
-	},
-	{
-		"abr": "jirachi",
-		"price": 1167,
-		"category": "Animals",
-		"defname": "PW_Jirachi"
-	},
-	{
-		"abr": "jolteon",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Jolteon"
-	},
-	{
-		"abr": "jumpluff",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Jumpluff"
-	},
-	{
-		"abr": "jynx",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Jynx"
-	},
-	{
-		"abr": "kabuto",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Kabuto"
-	},
-	{
-		"abr": "kabutops",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Kabutops"
-	},
-	{
-		"abr": "kadabra",
-		"price": 750,
-		"category": "Animals",
-		"defname": "PW_Kadabra"
-	},
-	{
-		"abr": "kakuna",
-		"price": 417,
-		"category": "Animals",
-		"defname": "PW_Kakuna"
-	},
-	{
-		"abr": "kangaskhan",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Kangaskhan"
-	},
-	{
-		"abr": "kecleon",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Kecleon"
 	},
 	{
 		"abr": "kinghamster",
@@ -11221,130 +9943,10 @@
 		"defname": "RK_Wool_KingHamster"
 	},
 	{
-		"abr": "kingdra",
-		"price": 1083,
-		"category": "Animals",
-		"defname": "PW_Kingdra"
-	},
-	{
-		"abr": "kingler",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Kingler"
-	},
-	{
-		"abr": "kingsrock",
-		"price": 250,
-		"category": "Stones",
-		"defname": "PW_KingsRock"
-	},
-	{
-		"abr": "kirlia",
-		"price": 500,
-		"category": "Animals",
-		"defname": "PW_Kirlia"
-	},
-	{
-		"abr": "koffing",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Koffing"
-	},
-	{
-		"abr": "krabby",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Krabby"
-	},
-	{
-		"abr": "kricketot",
-		"price": 333,
-		"category": "Animals",
-		"defname": "PW_Kricketot"
-	},
-	{
-		"abr": "kricketune",
-		"price": 750,
-		"category": "Animals",
-		"defname": "PW_Kricketune"
-	},
-	{
-		"abr": "kyogre",
-		"price": 1333,
-		"category": "Animals",
-		"defname": "PW_Kyogre"
-	},
-	{
-		"abr": "lairon",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Lairon"
-	},
-	{
-		"abr": "lanturn",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Lanturn"
-	},
-	{
-		"abr": "lapras",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Lapras"
-	},
-	{
 		"abr": "largeabyssalpearlsculpture",
 		"price": 16517,
 		"category": "Art",
 		"defname": "PearlSculptureLarge"
-	},
-	{
-		"abr": "larvitar",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Larvitar"
-	},
-	{
-		"abr": "latias",
-		"price": 1167,
-		"category": "Animals",
-		"defname": "PW_Latias"
-	},
-	{
-		"abr": "latios",
-		"price": 1167,
-		"category": "Animals",
-		"defname": "PW_Latios"
-	},
-	{
-		"abr": "leafstone",
-		"price": 250,
-		"category": "Stones",
-		"defname": "PW_LeafStone"
-	},
-	{
-		"abr": "leafeon",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Leafeon"
-	},
-	{
-		"abr": "ledian",
-		"price": 750,
-		"category": "Animals",
-		"defname": "PW_Ledian"
-	},
-	{
-		"abr": "ledyba",
-		"price": 500,
-		"category": "Animals",
-		"defname": "PW_Ledyba"
-	},
-	{
-		"abr": "legendaryleather",
-		"price": 40,
-		"category": "Pokémon leathers",
-		"defname": "PW_Leather_Legendary"
 	},
 	{
 		"abr": "legionnairearmor",
@@ -11359,214 +9961,10 @@
 		"defname": "VFEC_Apparel_LegionnaireHelmet"
 	},
 	{
-		"abr": "lickilicky",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Lickilicky"
-	},
-	{
-		"abr": "lickitung",
-		"price": 750,
-		"category": "Animals",
-		"defname": "PW_Lickitung"
-	},
-	{
-		"abr": "lileep",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Lileep"
-	},
-	{
 		"abr": "limestonechunk",
 		"price": 4,
 		"category": "Stone chunks",
 		"defname": "ChunkLimestone"
-	},
-	{
-		"abr": "linoone",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Linoone"
-	},
-	{
-		"abr": "lombre",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Lombre"
-	},
-	{
-		"abr": "lopunny",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Lopunny"
-	},
-	{
-		"abr": "lotad",
-		"price": 417,
-		"category": "Animals",
-		"defname": "PW_Lotad"
-	},
-	{
-		"abr": "loudred",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Loudred"
-	},
-	{
-		"abr": "lucario",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Lucario"
-	},
-	{
-		"abr": "ludicolo",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Ludicolo"
-	},
-	{
-		"abr": "lugia",
-		"price": 1333,
-		"category": "Animals",
-		"defname": "PW_Lugia"
-	},
-	{
-		"abr": "lumineon",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Lumineon"
-	},
-	{
-		"abr": "lunatone",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Lunatone"
-	},
-	{
-		"abr": "luvdisc",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Luvdisc"
-	},
-	{
-		"abr": "luxio",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Luxio"
-	},
-	{
-		"abr": "luxray",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Luxray"
-	},
-	{
-		"abr": "machamp",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Machamp"
-	},
-	{
-		"abr": "machoke",
-		"price": 750,
-		"category": "Animals",
-		"defname": "PW_Machoke"
-	},
-	{
-		"abr": "machop",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Machop"
-	},
-	{
-		"abr": "magby",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Magby"
-	},
-	{
-		"abr": "magcargo",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Magcargo"
-	},
-	{
-		"abr": "magikarp",
-		"price": 417,
-		"category": "Animals",
-		"defname": "PW_Magikarp"
-	},
-	{
-		"abr": "magmar",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Magmar"
-	},
-	{
-		"abr": "magmortar",
-		"price": 1083,
-		"category": "Animals",
-		"defname": "PW_Magmortar"
-	},
-	{
-		"abr": "magnemite",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Magnemite"
-	},
-	{
-		"abr": "magneton",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Magneton"
-	},
-	{
-		"abr": "magnezone",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Magnezone"
-	},
-	{
-		"abr": "makuhita",
-		"price": 417,
-		"category": "Animals",
-		"defname": "PW_Makuhita"
-	},
-	{
-		"abr": "mamoswine",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Mamoswine"
-	},
-	{
-		"abr": "manaphy",
-		"price": 1167,
-		"category": "Animals",
-		"defname": "PW_Manaphy"
-	},
-	{
-		"abr": "manectric",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Manectric"
-	},
-	{
-		"abr": "mankey",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Mankey"
-	},
-	{
-		"abr": "mantine",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Mantine"
-	},
-	{
-		"abr": "mantyke",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Mantyke"
 	},
 	{
 		"abr": "marblechunk",
@@ -11575,184 +9973,10 @@
 		"defname": "ChunkMarble"
 	},
 	{
-		"abr": "mareep",
-		"price": 500,
-		"category": "Animals",
-		"defname": "PW_Mareep"
-	},
-	{
-		"abr": "marill",
-		"price": 500,
-		"category": "Animals",
-		"defname": "PW_Marill"
-	},
-	{
-		"abr": "marowak",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Marowak"
-	},
-	{
-		"abr": "marshtomp",
-		"price": 750,
-		"category": "Animals",
-		"defname": "PW_Marshtomp"
-	},
-	{
-		"abr": "masquerain",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Masquerain"
-	},
-	{
-		"abr": "masterballbelt",
-		"price": 3000,
-		"category": "Poké Ball belts",
-		"defname": "PW_MasterBallBelt"
-	},
-	{
-		"abr": "mawile",
-		"price": 750,
-		"category": "Animals",
-		"defname": "PW_Mawile"
-	},
-	{
-		"abr": "maxpotion",
-		"price": 67,
-		"category": "Healing",
-		"defname": "PW_MaxPotion"
-	},
-	{
-		"abr": "medicham",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Medicham"
-	},
-	{
-		"abr": "meditite",
-		"price": 500,
-		"category": "Animals",
-		"defname": "PW_Meditite"
-	},
-	{
-		"abr": "meganium",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Meganium"
-	},
-	{
-		"abr": "meowth",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Meowth"
-	},
-	{
-		"abr": "mesprit",
-		"price": 1083,
-		"category": "Animals",
-		"defname": "PW_Mesprit"
-	},
-	{
-		"abr": "metagross",
-		"price": 1167,
-		"category": "Animals",
-		"defname": "PW_Metagross"
-	},
-	{
-		"abr": "metang",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Metang"
-	},
-	{
-		"abr": "metapod",
-		"price": 417,
-		"category": "Animals",
-		"defname": "PW_Metapod"
-	},
-	{
-		"abr": "mew",
-		"price": 1167,
-		"category": "Animals",
-		"defname": "PW_Mew"
-	},
-	{
-		"abr": "mewtwo",
-		"price": 1333,
-		"category": "Animals",
-		"defname": "PW_Mewtwo"
-	},
-	{
-		"abr": "mightyena",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Mightyena"
-	},
-	{
-		"abr": "milotic",
-		"price": 1083,
-		"category": "Animals",
-		"defname": "PW_Milotic"
-	},
-	{
-		"abr": "miltank",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Miltank"
-	},
-	{
-		"abr": "mimejr.",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_MimeJr"
-	},
-	{
-		"abr": "minun",
-		"price": 750,
-		"category": "Animals",
-		"defname": "PW_Minun"
-	},
-	{
-		"abr": "misdreavus",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Misdreavus"
-	},
-	{
-		"abr": "mismagius",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Mismagius"
-	},
-	{
-		"abr": "moltres",
-		"price": 1083,
-		"category": "Animals",
-		"defname": "PW_Moltres"
-	},
-	{
-		"abr": "monferno",
-		"price": 750,
-		"category": "Animals",
-		"defname": "PW_Monferno"
-	},
-	{
-		"abr": "moonstone",
-		"price": 250,
-		"category": "Stones",
-		"defname": "PW_MoonStone"
-	},
-	{
 		"abr": "morphi-blue",
 		"price": 120,
 		"category": "Drugs",
 		"defname": "BlueGo"
-	},
-	{
-		"abr": "mothim",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Mothim"
 	},
 	{
 		"abr": "moyo",
@@ -12049,6 +10273,1848 @@
 		"defname": "Moyo_Wrench"
 	},
 	{
+		"abr": "nutritionpack",
+		"price": 25,
+		"category": "Manufactured",
+		"defname": "Moyo_DBSF"
+	},
+	{
+		"abr": "opium",
+		"price": 20,
+		"category": "Drugs",
+		"defname": "VFEC_Opium"
+	},
+	{
+		"abr": "penoxy-blue",
+		"price": 117,
+		"category": "Drugs",
+		"defname": "PenoxyBlue"
+	},
+	{
+		"abr": "abomasnow",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Abomasnow"
+	},
+	{
+		"abr": "abra",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Abra"
+	},
+	{
+		"abr": "absol",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Absol"
+	},
+	{
+		"abr": "aerodactyl",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Aerodactyl"
+	},
+	{
+		"abr": "aggron",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Aggron"
+	},
+	{
+		"abr": "aipom",
+		"price": 667,
+		"category": "Animals",
+		"defname": "PW_Aipom"
+	},
+	{
+		"abr": "alakazam",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Alakazam"
+	},
+	{
+		"abr": "altaria",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Altaria"
+	},
+	{
+		"abr": "ambipom",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Ambipom"
+	},
+	{
+		"abr": "amethyst",
+		"price": 42,
+		"category": "Gemstones",
+		"defname": "RF_Amethyst"
+	},
+	{
+		"abr": "ampharos",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Ampharos"
+	},
+	{
+		"abr": "anorith",
+		"price": 667,
+		"category": "Animals",
+		"defname": "PW_Anorith"
+	},
+	{
+		"abr": "apricornballbelt",
+		"price": 101,
+		"category": "Poké Ball belts",
+		"defname": "PW_ApricornBallBelt"
+	},
+	{
+		"abr": "aquamarine",
+		"price": 42,
+		"category": "Gemstones",
+		"defname": "RF_Aquamarine"
+	},
+	{
+		"abr": "arbok",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Arbok"
+	},
+	{
+		"abr": "arcanine",
+		"price": 1083,
+		"category": "Animals",
+		"defname": "PW_Arcanine"
+	},
+	{
+		"abr": "arceus",
+		"price": 1417,
+		"category": "Animals",
+		"defname": "PW_Arceus"
+	},
+	{
+		"abr": "ariados",
+		"price": 750,
+		"category": "Animals",
+		"defname": "PW_Ariados"
+	},
+	{
+		"abr": "armaldo",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Armaldo"
+	},
+	{
+		"abr": "armorfossil",
+		"price": 167,
+		"category": "Fossils",
+		"defname": "PW_ArmorFossil"
+	},
+	{
+		"abr": "aron",
+		"price": 667,
+		"category": "Animals",
+		"defname": "PW_Aron"
+	},
+	{
+		"abr": "articuno",
+		"price": 1083,
+		"category": "Animals",
+		"defname": "PW_Articuno"
+	},
+	{
+		"abr": "azelf",
+		"price": 1083,
+		"category": "Animals",
+		"defname": "PW_Azelf"
+	},
+	{
+		"abr": "azumarill",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Azumarill"
+	},
+	{
+		"abr": "azurill",
+		"price": 333,
+		"category": "Animals",
+		"defname": "PW_Azurill"
+	},
+	{
+		"abr": "bagon",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Bagon"
+	},
+	{
+		"abr": "baltoy",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Baltoy"
+	},
+	{
+		"abr": "banette",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Banette"
+	},
+	{
+		"abr": "barboach",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Barboach"
+	},
+	{
+		"abr": "bastiodon",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Bastiodon"
+	},
+	{
+		"abr": "bayleef",
+		"price": 750,
+		"category": "Animals",
+		"defname": "PW_Bayleef"
+	},
+	{
+		"abr": "beautifly",
+		"price": 750,
+		"category": "Animals",
+		"defname": "PW_Beautifly"
+	},
+	{
+		"abr": "beedrill",
+		"price": 750,
+		"category": "Animals",
+		"defname": "PW_Beedrill"
+	},
+	{
+		"abr": "beldum",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Beldum"
+	},
+	{
+		"abr": "bellossom",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Bellossom"
+	},
+	{
+		"abr": "bellsprout",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Bellsprout"
+	},
+	{
+		"abr": "bibarel",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Bibarel"
+	},
+	{
+		"abr": "bidoof",
+		"price": 500,
+		"category": "Animals",
+		"defname": "PW_Bidoof"
+	},
+	{
+		"abr": "blastoise",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Blastoise"
+	},
+	{
+		"abr": "blaziken",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Blaziken"
+	},
+	{
+		"abr": "blissey",
+		"price": 1083,
+		"category": "Animals",
+		"defname": "PW_Blissey"
+	},
+	{
+		"abr": "bonsly",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Bonsly"
+	},
+	{
+		"abr": "breloom",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Breloom"
+	},
+	{
+		"abr": "bronzong",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Bronzong"
+	},
+	{
+		"abr": "bronzor",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Bronzor"
+	},
+	{
+		"abr": "budew",
+		"price": 500,
+		"category": "Animals",
+		"defname": "PW_Budew"
+	},
+	{
+		"abr": "buizel",
+		"price": 667,
+		"category": "Animals",
+		"defname": "PW_Buizel"
+	},
+	{
+		"abr": "bulbasaur",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Bulbasaur"
+	},
+	{
+		"abr": "buneary",
+		"price": 667,
+		"category": "Animals",
+		"defname": "PW_Buneary"
+	},
+	{
+		"abr": "burmy",
+		"price": 417,
+		"category": "Animals",
+		"defname": "PW_Burmy"
+	},
+	{
+		"abr": "butterfree",
+		"price": 750,
+		"category": "Animals",
+		"defname": "PW_Butterfree"
+	},
+	{
+		"abr": "cacnea",
+		"price": 667,
+		"category": "Animals",
+		"defname": "PW_Cacnea"
+	},
+	{
+		"abr": "cacturne",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Cacturne"
+	},
+	{
+		"abr": "camerupt",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Camerupt"
+	},
+	{
+		"abr": "carnelian",
+		"price": 42,
+		"category": "Gemstones",
+		"defname": "RF_Carnelian"
+	},
+	{
+		"abr": "carnivine",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Carnivine"
+	},
+	{
+		"abr": "carvanha",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Carvanha"
+	},
+	{
+		"abr": "cascoon",
+		"price": 417,
+		"category": "Animals",
+		"defname": "PW_Cascoon"
+	},
+	{
+		"abr": "castform",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Castform"
+	},
+	{
+		"abr": "caterpie",
+		"price": 333,
+		"category": "Animals",
+		"defname": "PW_Caterpie"
+	},
+	{
+		"abr": "celebi",
+		"price": 1167,
+		"category": "Animals",
+		"defname": "PW_Celebi"
+	},
+	{
+		"abr": "chansey",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Chansey"
+	},
+	{
+		"abr": "charizard",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Charizard"
+	},
+	{
+		"abr": "charmander",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Charmander"
+	},
+	{
+		"abr": "charmeleon",
+		"price": 750,
+		"category": "Animals",
+		"defname": "PW_Charmeleon"
+	},
+	{
+		"abr": "chatot",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Chatot"
+	},
+	{
+		"abr": "cherrim",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Cherrim"
+	},
+	{
+		"abr": "cherubi",
+		"price": 500,
+		"category": "Animals",
+		"defname": "PW_Cherubi"
+	},
+	{
+		"abr": "chikorita",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Chikorita"
+	},
+	{
+		"abr": "chimchar",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Chimchar"
+	},
+	{
+		"abr": "chimecho",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Chimecho"
+	},
+	{
+		"abr": "chinchou",
+		"price": 667,
+		"category": "Animals",
+		"defname": "PW_Chinchou"
+	},
+	{
+		"abr": "chingling",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Chingling"
+	},
+	{
+		"abr": "citrine",
+		"price": 42,
+		"category": "Gemstones",
+		"defname": "RF_Citrine"
+	},
+	{
+		"abr": "clamperl",
+		"price": 667,
+		"category": "Animals",
+		"defname": "PW_Clamperl"
+	},
+	{
+		"abr": "clawfossil",
+		"price": 167,
+		"category": "Fossils",
+		"defname": "PW_ClawFossil"
+	},
+	{
+		"abr": "claydol",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Claydol"
+	},
+	{
+		"abr": "clefable",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Clefable"
+	},
+	{
+		"abr": "clefairy",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Clefairy"
+	},
+	{
+		"abr": "cleffa",
+		"price": 417,
+		"category": "Animals",
+		"defname": "PW_Cleffa"
+	},
+	{
+		"abr": "cloyster",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Cloyster"
+	},
+	{
+		"abr": "combee",
+		"price": 500,
+		"category": "Animals",
+		"defname": "PW_Combee"
+	},
+	{
+		"abr": "combusken",
+		"price": 750,
+		"category": "Animals",
+		"defname": "PW_Combusken"
+	},
+	{
+		"abr": "corphish",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Corphish"
+	},
+	{
+		"abr": "corsola",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Corsola"
+	},
+	{
+		"abr": "cradily",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Cradily"
+	},
+	{
+		"abr": "cranidos",
+		"price": 667,
+		"category": "Animals",
+		"defname": "PW_Cranidos"
+	},
+	{
+		"abr": "crawdaunt",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Crawdaunt"
+	},
+	{
+		"abr": "cresselia",
+		"price": 1167,
+		"category": "Animals",
+		"defname": "PW_Cresselia"
+	},
+	{
+		"abr": "croagunk",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Croagunk"
+	},
+	{
+		"abr": "crobat",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Crobat"
+	},
+	{
+		"abr": "croconaw",
+		"price": 750,
+		"category": "Animals",
+		"defname": "PW_Croconaw"
+	},
+	{
+		"abr": "cubone",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Cubone"
+	},
+	{
+		"abr": "cyndaquil",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Cyndaquil"
+	},
+	{
+		"abr": "darkrai",
+		"price": 1167,
+		"category": "Animals",
+		"defname": "PW_Darkrai"
+	},
+	{
+		"abr": "delcatty",
+		"price": 750,
+		"category": "Animals",
+		"defname": "PW_Delcatty"
+	},
+	{
+		"abr": "delibird",
+		"price": 667,
+		"category": "Animals",
+		"defname": "PW_Delibird"
+	},
+	{
+		"abr": "deoxys",
+		"price": 1167,
+		"category": "Animals",
+		"defname": "PW_Deoxys"
+	},
+	{
+		"abr": "dewgong",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Dewgong"
+	},
+	{
+		"abr": "dialga",
+		"price": 1333,
+		"category": "Animals",
+		"defname": "PW_Dialga"
+	},
+	{
+		"abr": "diamond",
+		"price": 42,
+		"category": "Gemstones",
+		"defname": "RF_Diamond"
+	},
+	{
+		"abr": "diglett",
+		"price": 500,
+		"category": "Animals",
+		"defname": "PW_Diglett"
+	},
+	{
+		"abr": "ditto",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Ditto"
+	},
+	{
+		"abr": "dodrio",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Dodrio"
+	},
+	{
+		"abr": "doduo",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Doduo"
+	},
+	{
+		"abr": "domefossil",
+		"price": 167,
+		"category": "Fossils",
+		"defname": "PW_DomeFossil"
+	},
+	{
+		"abr": "donphan",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Donphan"
+	},
+	{
+		"abr": "dragonair",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Dragonair"
+	},
+	{
+		"abr": "dragonite",
+		"price": 1167,
+		"category": "Animals",
+		"defname": "PW_Dragonite"
+	},
+	{
+		"abr": "drapion",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Drapion"
+	},
+	{
+		"abr": "dratini",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Dratini"
+	},
+	{
+		"abr": "drifblim",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Drifblim"
+	},
+	{
+		"abr": "drifloon",
+		"price": 667,
+		"category": "Animals",
+		"defname": "PW_Drifloon"
+	},
+	{
+		"abr": "drowzee",
+		"price": 667,
+		"category": "Animals",
+		"defname": "PW_Drowzee"
+	},
+	{
+		"abr": "dubiousdisc",
+		"price": 1175,
+		"category": "Other",
+		"defname": "PW_DubiousDisc"
+	},
+	{
+		"abr": "dugtrio",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Dugtrio"
+	},
+	{
+		"abr": "dunsparce",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Dunsparce"
+	},
+	{
+		"abr": "dusclops",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Dusclops"
+	},
+	{
+		"abr": "dusknoir",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Dusknoir"
+	},
+	{
+		"abr": "duskull",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Duskull"
+	},
+	{
+		"abr": "dustox",
+		"price": 750,
+		"category": "Animals",
+		"defname": "PW_Dustox"
+	},
+	{
+		"abr": "eevee",
+		"price": 667,
+		"category": "Animals",
+		"defname": "PW_Eevee"
+	},
+	{
+		"abr": "ekans",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Ekans"
+	},
+	{
+		"abr": "electabuzz",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Electabuzz"
+	},
+	{
+		"abr": "electivire",
+		"price": 1083,
+		"category": "Animals",
+		"defname": "PW_Electivire"
+	},
+	{
+		"abr": "electrike",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Electrike"
+	},
+	{
+		"abr": "electrode",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Electrode"
+	},
+	{
+		"abr": "elekid",
+		"price": 667,
+		"category": "Animals",
+		"defname": "PW_Elekid"
+	},
+	{
+		"abr": "emerald",
+		"price": 42,
+		"category": "Gemstones",
+		"defname": "RF_Emerald"
+	},
+	{
+		"abr": "empoleon",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Empoleon"
+	},
+	{
+		"abr": "entei",
+		"price": 1083,
+		"category": "Animals",
+		"defname": "PW_Entei"
+	},
+	{
+		"abr": "espeon",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Espeon"
+	},
+	{
+		"abr": "exeggcute",
+		"price": 667,
+		"category": "Animals",
+		"defname": "PW_Exeggcute"
+	},
+	{
+		"abr": "exeggutor",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Exeggutor"
+	},
+	{
+		"abr": "exploud",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Exploud"
+	},
+	{
+		"abr": "farfetch'd",
+		"price": 750,
+		"category": "Animals",
+		"defname": "PW_Farfetchd"
+	},
+	{
+		"abr": "fearow",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Fearow"
+	},
+	{
+		"abr": "feebas",
+		"price": 417,
+		"category": "Animals",
+		"defname": "PW_Feebas"
+	},
+	{
+		"abr": "feraligatr",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Feraligatr"
+	},
+	{
+		"abr": "finneon",
+		"price": 667,
+		"category": "Animals",
+		"defname": "PW_Finneon"
+	},
+	{
+		"abr": "firestone",
+		"price": 250,
+		"category": "Stones",
+		"defname": "PW_FireStone"
+	},
+	{
+		"abr": "flaaffy",
+		"price": 667,
+		"category": "Animals",
+		"defname": "PW_Flaaffy"
+	},
+	{
+		"abr": "flareon",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Flareon"
+	},
+	{
+		"abr": "floatzel",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Floatzel"
+	},
+	{
+		"abr": "flygon",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Flygon"
+	},
+	{
+		"abr": "forretress",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Forretress"
+	},
+	{
+		"abr": "froslass",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Froslass"
+	},
+	{
+		"abr": "furret",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Furret"
+	},
+	{
+		"abr": "gabite",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Gabite"
+	},
+	{
+		"abr": "gallade",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Gallade"
+	},
+	{
+		"abr": "garchomp",
+		"price": 1167,
+		"category": "Animals",
+		"defname": "PW_Garchomp"
+	},
+	{
+		"abr": "gardevoir",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Gardevoir"
+	},
+	{
+		"abr": "gastly",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Gastly"
+	},
+	{
+		"abr": "gastrodon",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Gastrodon"
+	},
+	{
+		"abr": "gemcuttingbench",
+		"price": 185,
+		"category": "Production",
+		"defname": "RF_MedievalGemCuttingBench"
+	},
+	{
+		"abr": "gengar",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Gengar"
+	},
+	{
+		"abr": "geodude",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Geodude"
+	},
+	{
+		"abr": "gible",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Gible"
+	},
+	{
+		"abr": "girafarig",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Girafarig"
+	},
+	{
+		"abr": "giratina",
+		"price": 1333,
+		"category": "Animals",
+		"defname": "PW_Giratina"
+	},
+	{
+		"abr": "glaceon",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Glaceon"
+	},
+	{
+		"abr": "glalie",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Glalie"
+	},
+	{
+		"abr": "glameow",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Glameow"
+	},
+	{
+		"abr": "gligar",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Gligar"
+	},
+	{
+		"abr": "gliscor",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Gliscor"
+	},
+	{
+		"abr": "gloom",
+		"price": 750,
+		"category": "Animals",
+		"defname": "PW_Gloom"
+	},
+	{
+		"abr": "golbat",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Golbat"
+	},
+	{
+		"abr": "goldeen",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Goldeen"
+	},
+	{
+		"abr": "golduck",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Golduck"
+	},
+	{
+		"abr": "golem",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Golem"
+	},
+	{
+		"abr": "gorebyss",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Gorebyss"
+	},
+	{
+		"abr": "granbull",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Granbull"
+	},
+	{
+		"abr": "graveler",
+		"price": 750,
+		"category": "Animals",
+		"defname": "PW_Graveler"
+	},
+	{
+		"abr": "greatballbelt",
+		"price": 492,
+		"category": "Poké Ball belts",
+		"defname": "PW_GreatBallBelt"
+	},
+	{
+		"abr": "grimer",
+		"price": 667,
+		"category": "Animals",
+		"defname": "PW_Grimer"
+	},
+	{
+		"abr": "grotle",
+		"price": 750,
+		"category": "Animals",
+		"defname": "PW_Grotle"
+	},
+	{
+		"abr": "groudon",
+		"price": 1333,
+		"category": "Animals",
+		"defname": "PW_Groudon"
+	},
+	{
+		"abr": "grovyle",
+		"price": 750,
+		"category": "Animals",
+		"defname": "PW_Grovyle"
+	},
+	{
+		"abr": "growlithe",
+		"price": 667,
+		"category": "Animals",
+		"defname": "PW_Growlithe"
+	},
+	{
+		"abr": "grumpig",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Grumpig"
+	},
+	{
+		"abr": "gulpin",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Gulpin"
+	},
+	{
+		"abr": "gyarados",
+		"price": 1083,
+		"category": "Animals",
+		"defname": "PW_Gyarados"
+	},
+	{
+		"abr": "happiny",
+		"price": 417,
+		"category": "Animals",
+		"defname": "PW_Happiny"
+	},
+	{
+		"abr": "hariyama",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Hariyama"
+	},
+	{
+		"abr": "haunter",
+		"price": 750,
+		"category": "Animals",
+		"defname": "PW_Haunter"
+	},
+	{
+		"abr": "healpowder",
+		"price": 667,
+		"category": "Healing",
+		"defname": "PW_HealPowder"
+	},
+	{
+		"abr": "heatran",
+		"price": 1167,
+		"category": "Animals",
+		"defname": "PW_Heatran"
+	},
+	{
+		"abr": "helixfossil",
+		"price": 167,
+		"category": "Fossils",
+		"defname": "PW_HelixFossil"
+	},
+	{
+		"abr": "heracross",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Heracross"
+	},
+	{
+		"abr": "hippopotas",
+		"price": 667,
+		"category": "Animals",
+		"defname": "PW_Hippopotas"
+	},
+	{
+		"abr": "hippowdon",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Hippowdon"
+	},
+	{
+		"abr": "hitmonchan",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Hitmonchan"
+	},
+	{
+		"abr": "hitmonlee",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Hitmonlee"
+	},
+	{
+		"abr": "hitmontop",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Hitmontop"
+	},
+	{
+		"abr": "honchkrow",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Honchkrow"
+	},
+	{
+		"abr": "ho-oh",
+		"price": 1333,
+		"category": "Animals",
+		"defname": "PW_HoOh"
+	},
+	{
+		"abr": "hoothoot",
+		"price": 500,
+		"category": "Animals",
+		"defname": "PW_Hoothoot"
+	},
+	{
+		"abr": "hoppip",
+		"price": 500,
+		"category": "Animals",
+		"defname": "PW_Hoppip"
+	},
+	{
+		"abr": "horsea",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Horsea"
+	},
+	{
+		"abr": "houndoom",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Houndoom"
+	},
+	{
+		"abr": "houndour",
+		"price": 667,
+		"category": "Animals",
+		"defname": "PW_Houndour"
+	},
+	{
+		"abr": "huntail",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Huntail"
+	},
+	{
+		"abr": "hyperpotion",
+		"price": 33,
+		"category": "Healing",
+		"defname": "PW_HyperPotion"
+	},
+	{
+		"abr": "hypno",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Hypno"
+	},
+	{
+		"abr": "icestone",
+		"price": 250,
+		"category": "Stones",
+		"defname": "PW_IceStone"
+	},
+	{
+		"abr": "igglybuff",
+		"price": 417,
+		"category": "Animals",
+		"defname": "PW_Igglybuff"
+	},
+	{
+		"abr": "illumise",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Illumise"
+	},
+	{
+		"abr": "infernape",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Infernape"
+	},
+	{
+		"abr": "ivysaur",
+		"price": 750,
+		"category": "Animals",
+		"defname": "PW_Ivysaur"
+	},
+	{
+		"abr": "jigglypuff",
+		"price": 500,
+		"category": "Animals",
+		"defname": "PW_Jigglypuff"
+	},
+	{
+		"abr": "jirachi",
+		"price": 1167,
+		"category": "Animals",
+		"defname": "PW_Jirachi"
+	},
+	{
+		"abr": "jolteon",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Jolteon"
+	},
+	{
+		"abr": "jumpluff",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Jumpluff"
+	},
+	{
+		"abr": "jynx",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Jynx"
+	},
+	{
+		"abr": "kabuto",
+		"price": 667,
+		"category": "Animals",
+		"defname": "PW_Kabuto"
+	},
+	{
+		"abr": "kabutops",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Kabutops"
+	},
+	{
+		"abr": "kadabra",
+		"price": 750,
+		"category": "Animals",
+		"defname": "PW_Kadabra"
+	},
+	{
+		"abr": "kakuna",
+		"price": 417,
+		"category": "Animals",
+		"defname": "PW_Kakuna"
+	},
+	{
+		"abr": "kangaskhan",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Kangaskhan"
+	},
+	{
+		"abr": "kecleon",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Kecleon"
+	},
+	{
+		"abr": "kingdra",
+		"price": 1083,
+		"category": "Animals",
+		"defname": "PW_Kingdra"
+	},
+	{
+		"abr": "kingler",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Kingler"
+	},
+	{
+		"abr": "kingsrock",
+		"price": 250,
+		"category": "Stones",
+		"defname": "PW_KingsRock"
+	},
+	{
+		"abr": "kirlia",
+		"price": 500,
+		"category": "Animals",
+		"defname": "PW_Kirlia"
+	},
+	{
+		"abr": "koffing",
+		"price": 667,
+		"category": "Animals",
+		"defname": "PW_Koffing"
+	},
+	{
+		"abr": "krabby",
+		"price": 667,
+		"category": "Animals",
+		"defname": "PW_Krabby"
+	},
+	{
+		"abr": "kricketot",
+		"price": 333,
+		"category": "Animals",
+		"defname": "PW_Kricketot"
+	},
+	{
+		"abr": "kricketune",
+		"price": 750,
+		"category": "Animals",
+		"defname": "PW_Kricketune"
+	},
+	{
+		"abr": "kunzite",
+		"price": 42,
+		"category": "Gemstones",
+		"defname": "RF_Kunzite"
+	},
+	{
+		"abr": "kyogre",
+		"price": 1333,
+		"category": "Animals",
+		"defname": "PW_Kyogre"
+	},
+	{
+		"abr": "lairon",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Lairon"
+	},
+	{
+		"abr": "lanturn",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Lanturn"
+	},
+	{
+		"abr": "lapras",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Lapras"
+	},
+	{
+		"abr": "larvitar",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Larvitar"
+	},
+	{
+		"abr": "latias",
+		"price": 1167,
+		"category": "Animals",
+		"defname": "PW_Latias"
+	},
+	{
+		"abr": "latios",
+		"price": 1167,
+		"category": "Animals",
+		"defname": "PW_Latios"
+	},
+	{
+		"abr": "leafstone",
+		"price": 250,
+		"category": "Stones",
+		"defname": "PW_LeafStone"
+	},
+	{
+		"abr": "leafeon",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Leafeon"
+	},
+	{
+		"abr": "ledian",
+		"price": 750,
+		"category": "Animals",
+		"defname": "PW_Ledian"
+	},
+	{
+		"abr": "ledyba",
+		"price": 500,
+		"category": "Animals",
+		"defname": "PW_Ledyba"
+	},
+	{
+		"abr": "legendaryleather",
+		"price": 40,
+		"category": "Pokémon leathers",
+		"defname": "PW_Leather_Legendary"
+	},
+	{
+		"abr": "lickilicky",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Lickilicky"
+	},
+	{
+		"abr": "lickitung",
+		"price": 750,
+		"category": "Animals",
+		"defname": "PW_Lickitung"
+	},
+	{
+		"abr": "lileep",
+		"price": 667,
+		"category": "Animals",
+		"defname": "PW_Lileep"
+	},
+	{
+		"abr": "linoone",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Linoone"
+	},
+	{
+		"abr": "lombre",
+		"price": 667,
+		"category": "Animals",
+		"defname": "PW_Lombre"
+	},
+	{
+		"abr": "lopunny",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Lopunny"
+	},
+	{
+		"abr": "lotad",
+		"price": 417,
+		"category": "Animals",
+		"defname": "PW_Lotad"
+	},
+	{
+		"abr": "loudred",
+		"price": 667,
+		"category": "Animals",
+		"defname": "PW_Loudred"
+	},
+	{
+		"abr": "lucario",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Lucario"
+	},
+	{
+		"abr": "ludicolo",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Ludicolo"
+	},
+	{
+		"abr": "lugia",
+		"price": 1333,
+		"category": "Animals",
+		"defname": "PW_Lugia"
+	},
+	{
+		"abr": "lumineon",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Lumineon"
+	},
+	{
+		"abr": "lunatone",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Lunatone"
+	},
+	{
+		"abr": "luvdisc",
+		"price": 667,
+		"category": "Animals",
+		"defname": "PW_Luvdisc"
+	},
+	{
+		"abr": "luxio",
+		"price": 667,
+		"category": "Animals",
+		"defname": "PW_Luxio"
+	},
+	{
+		"abr": "luxray",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Luxray"
+	},
+	{
+		"abr": "machamp",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Machamp"
+	},
+	{
+		"abr": "machoke",
+		"price": 750,
+		"category": "Animals",
+		"defname": "PW_Machoke"
+	},
+	{
+		"abr": "machop",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Machop"
+	},
+	{
+		"abr": "magby",
+		"price": 667,
+		"category": "Animals",
+		"defname": "PW_Magby"
+	},
+	{
+		"abr": "magcargo",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Magcargo"
+	},
+	{
+		"abr": "magikarp",
+		"price": 417,
+		"category": "Animals",
+		"defname": "PW_Magikarp"
+	},
+	{
+		"abr": "magmar",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Magmar"
+	},
+	{
+		"abr": "magmortar",
+		"price": 1083,
+		"category": "Animals",
+		"defname": "PW_Magmortar"
+	},
+	{
+		"abr": "magnemite",
+		"price": 667,
+		"category": "Animals",
+		"defname": "PW_Magnemite"
+	},
+	{
+		"abr": "magneton",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Magneton"
+	},
+	{
+		"abr": "magnezone",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Magnezone"
+	},
+	{
+		"abr": "makuhita",
+		"price": 417,
+		"category": "Animals",
+		"defname": "PW_Makuhita"
+	},
+	{
+		"abr": "mamoswine",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Mamoswine"
+	},
+	{
+		"abr": "manaphy",
+		"price": 1167,
+		"category": "Animals",
+		"defname": "PW_Manaphy"
+	},
+	{
+		"abr": "manectric",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Manectric"
+	},
+	{
+		"abr": "mankey",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Mankey"
+	},
+	{
+		"abr": "mantine",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Mantine"
+	},
+	{
+		"abr": "mantyke",
+		"price": 667,
+		"category": "Animals",
+		"defname": "PW_Mantyke"
+	},
+	{
+		"abr": "mareep",
+		"price": 500,
+		"category": "Animals",
+		"defname": "PW_Mareep"
+	},
+	{
+		"abr": "marill",
+		"price": 500,
+		"category": "Animals",
+		"defname": "PW_Marill"
+	},
+	{
+		"abr": "marowak",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Marowak"
+	},
+	{
+		"abr": "marshtomp",
+		"price": 750,
+		"category": "Animals",
+		"defname": "PW_Marshtomp"
+	},
+	{
+		"abr": "masquerain",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Masquerain"
+	},
+	{
+		"abr": "masterballbelt",
+		"price": 3000,
+		"category": "Poké Ball belts",
+		"defname": "PW_MasterBallBelt"
+	},
+	{
+		"abr": "mawile",
+		"price": 750,
+		"category": "Animals",
+		"defname": "PW_Mawile"
+	},
+	{
+		"abr": "maxpotion",
+		"price": 67,
+		"category": "Healing",
+		"defname": "PW_MaxPotion"
+	},
+	{
+		"abr": "medicham",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Medicham"
+	},
+	{
+		"abr": "meditite",
+		"price": 500,
+		"category": "Animals",
+		"defname": "PW_Meditite"
+	},
+	{
+		"abr": "meganium",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "PW_Meganium"
+	},
+	{
+		"abr": "meowth",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_Meowth"
+	},
+	{
+		"abr": "mesprit",
+		"price": 1083,
+		"category": "Animals",
+		"defname": "PW_Mesprit"
+	},
+	{
+		"abr": "metagross",
+		"price": 1167,
+		"category": "Animals",
+		"defname": "PW_Metagross"
+	},
+	{
+		"abr": "metang",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Metang"
+	},
+	{
+		"abr": "metapod",
+		"price": 417,
+		"category": "Animals",
+		"defname": "PW_Metapod"
+	},
+	{
+		"abr": "mew",
+		"price": 1167,
+		"category": "Animals",
+		"defname": "PW_Mew"
+	},
+	{
+		"abr": "mewtwo",
+		"price": 1333,
+		"category": "Animals",
+		"defname": "PW_Mewtwo"
+	},
+	{
+		"abr": "mightyena",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Mightyena"
+	},
+	{
+		"abr": "milotic",
+		"price": 1083,
+		"category": "Animals",
+		"defname": "PW_Milotic"
+	},
+	{
+		"abr": "miltank",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Miltank"
+	},
+	{
+		"abr": "mimejr.",
+		"price": 583,
+		"category": "Animals",
+		"defname": "PW_MimeJr"
+	},
+	{
+		"abr": "minun",
+		"price": 750,
+		"category": "Animals",
+		"defname": "PW_Minun"
+	},
+	{
+		"abr": "misdreavus",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Misdreavus"
+	},
+	{
+		"abr": "mismagius",
+		"price": 917,
+		"category": "Animals",
+		"defname": "PW_Mismagius"
+	},
+	{
+		"abr": "moltres",
+		"price": 1083,
+		"category": "Animals",
+		"defname": "PW_Moltres"
+	},
+	{
+		"abr": "monferno",
+		"price": 750,
+		"category": "Animals",
+		"defname": "PW_Monferno"
+	},
+	{
+		"abr": "moonstone",
+		"price": 250,
+		"category": "Stones",
+		"defname": "PW_MoonStone"
+	},
+	{
+		"abr": "mothim",
+		"price": 833,
+		"category": "Animals",
+		"defname": "PW_Mothim"
+	},
+	{
 		"abr": "mr.mime",
 		"price": 917,
 		"category": "Animals",
@@ -12157,12 +12223,6 @@
 		"defname": "PW_Numel"
 	},
 	{
-		"abr": "nutritionpack",
-		"price": 25,
-		"category": "Manufactured",
-		"defname": "Moyo_DBSF"
-	},
-	{
 		"abr": "nuzleaf",
 		"price": 667,
 		"category": "Animals",
@@ -12205,10 +12265,10 @@
 		"defname": "PW_Onix"
 	},
 	{
-		"abr": "opium",
-		"price": 20,
-		"category": "Drugs",
-		"defname": "VFEC_Opium"
+		"abr": "onyx",
+		"price": 42,
+		"category": "Gemstones",
+		"defname": "RF_Onyx"
 	},
 	{
 		"abr": "pachirisu",
@@ -12241,10 +12301,10 @@
 		"defname": "PW_Pelipper"
 	},
 	{
-		"abr": "penoxy-blue",
-		"price": 117,
-		"category": "Drugs",
-		"defname": "PenoxyBlue"
+		"abr": "peridot",
+		"price": 42,
+		"category": "Gemstones",
+		"defname": "RF_Peridot"
 	},
 	{
 		"abr": "persian",
@@ -14335,10 +14395,82 @@
 		"defname": "Meat_Rotti"
 	},
 	{
+		"abr": "roughamethyst",
+		"price": 25,
+		"category": "Rough gemstones",
+		"defname": "RF_RoughAmethyst"
+	},
+	{
+		"abr": "roughaquamarine",
+		"price": 25,
+		"category": "Rough gemstones",
+		"defname": "RF_RoughAquamarine"
+	},
+	{
+		"abr": "roughcarnelian",
+		"price": 25,
+		"category": "Rough gemstones",
+		"defname": "RF_RoughCarnelian"
+	},
+	{
+		"abr": "roughcitrine",
+		"price": 25,
+		"category": "Rough gemstones",
+		"defname": "RF_RoughCitrine"
+	},
+	{
+		"abr": "roughdiamond",
+		"price": 25,
+		"category": "Rough gemstones",
+		"defname": "RF_RoughDiamond"
+	},
+	{
+		"abr": "roughemerald",
+		"price": 25,
+		"category": "Rough gemstones",
+		"defname": "RF_RoughEmerald"
+	},
+	{
+		"abr": "roughkunzite",
+		"price": 25,
+		"category": "Rough gemstones",
+		"defname": "RF_RoughKunzite"
+	},
+	{
+		"abr": "roughonyx",
+		"price": 25,
+		"category": "Rough gemstones",
+		"defname": "RF_RoughOnyx"
+	},
+	{
+		"abr": "roughperidot",
+		"price": 25,
+		"category": "Rough gemstones",
+		"defname": "RF_RoughPeridot"
+	},
+	{
+		"abr": "roughruby",
+		"price": 25,
+		"category": "Rough gemstones",
+		"defname": "RF_RoughRuby"
+	},
+	{
+		"abr": "roughsapphire",
+		"price": 25,
+		"category": "Rough gemstones",
+		"defname": "RF_RoughSapphire"
+	},
+	{
 		"abr": "royalrobe",
 		"price": 458,
 		"category": "Ratkin apparel",
 		"defname": "RK_RoyalRobe"
+	},
+	{
+		"abr": "ruby",
+		"price": 42,
+		"category": "Gemstones",
+		"defname": "RF_Ruby"
 	},
 	{
 		"abr": "sableye",
@@ -14387,6 +14519,12 @@
 		"price": 342,
 		"category": "Ratkin apparel",
 		"defname": "RK_SantaRobe"
+	},
+	{
+		"abr": "sapphire",
+		"price": 42,
+		"category": "Gemstones",
+		"defname": "RF_Sapphire"
 	},
 	{
 		"abr": "sapphiremeth",
@@ -15288,6 +15426,498 @@
 		"category": "Animals",
 		"defname": "PW_Zubat"
 	},
+	{
+		"abr": "amethystbattleaxe",
+		"price": 3308,
+		"category": "Arcane battle axes",
+		"defname": "RF_AmethystBattleAxe"
+	},
+	{
+		"abr": "amethystbow",
+		"price": 3283,
+		"category": "Arcane bows",
+		"defname": "RF_AmethystBow"
+	},
+	{
+		"abr": "amethystgreatsword",
+		"price": 3250,
+		"category": "Arcane greatswords",
+		"defname": "RF_AmethystGreatsword"
+	},
+	{
+		"abr": "amethystlongsword",
+		"price": 3250,
+		"category": "Arcane longswords",
+		"defname": "RF_AmethystLongsword"
+	},
+	{
+		"abr": "amethystspear",
+		"price": 3275,
+		"category": "Arcane spears",
+		"defname": "RF_AmethystSpear"
+	},
+	{
+		"abr": "amethyststaff",
+		"price": 3292,
+		"category": "Arcane staves",
+		"defname": "RF_AmethystStaff"
+	},
+	{
+		"abr": "amethystwand",
+		"price": 3267,
+		"category": "Arcane wands",
+		"defname": "RF_AmethystWand"
+	},
+	{
+		"abr": "amethystwarhammer",
+		"price": 3308,
+		"category": "Arcane war hammers",
+		"defname": "RF_AmethystWarHammer"
+	},
+	{
+		"abr": "animas",
+		"price": 3492,
+		"category": "Special weapons",
+		"defname": "RFA_Animas"
+	},
+	{
+		"abr": "aquamarinebattleaxe",
+		"price": 3308,
+		"category": "Arcane battle axes",
+		"defname": "RF_AquamarineBattleAxe"
+	},
+	{
+		"abr": "aquamarinebow",
+		"price": 3283,
+		"category": "Arcane bows",
+		"defname": "RF_AquamarineBow"
+	},
+	{
+		"abr": "aquamarinegreatsword",
+		"price": 3250,
+		"category": "Arcane greatswords",
+		"defname": "RF_AquamarineGreatsword"
+	},
+	{
+		"abr": "aquamarinelongsword",
+		"price": 3250,
+		"category": "Arcane longswords",
+		"defname": "RF_AquamarineLongsword"
+	},
+	{
+		"abr": "aquamarinespear",
+		"price": 3275,
+		"category": "Arcane spears",
+		"defname": "RF_AquamarineSpear"
+	},
+	{
+		"abr": "aquamarinestaff",
+		"price": 3292,
+		"category": "Arcane staves",
+		"defname": "RF_AquamarineStaff"
+	},
+	{
+		"abr": "aquamarinewand",
+		"price": 3267,
+		"category": "Arcane wands",
+		"defname": "RF_AquamarineWand"
+	},
+	{
+		"abr": "aquamarinewarhammer",
+		"price": 3308,
+		"category": "Arcane war hammers",
+		"defname": "RF_AquamarineWarHammer"
+	},
+	{
+		"abr": "arcanecraftingbench",
+		"price": 185,
+		"category": "Production",
+		"defname": "RF_ArcaneCraftingBench"
+	},
+	{
+		"abr": "azure'ssong",
+		"price": 3492,
+		"category": "Special weapons",
+		"defname": "RFA_AzuresSong"
+	},
+	{
+		"abr": "carnelianbattleaxe",
+		"price": 3308,
+		"category": "Arcane battle axes",
+		"defname": "RF_CarnelianBattleAxe"
+	},
+	{
+		"abr": "carnelianbow",
+		"price": 3283,
+		"category": "Arcane bows",
+		"defname": "RF_CarnelianBow"
+	},
+	{
+		"abr": "carneliangreatsword",
+		"price": 3250,
+		"category": "Arcane greatswords",
+		"defname": "RF_CarnelianGreatsword"
+	},
+	{
+		"abr": "carnelianlongsword",
+		"price": 3250,
+		"category": "Arcane longswords",
+		"defname": "RF_CarnelianLongsword"
+	},
+	{
+		"abr": "carnelianspear",
+		"price": 3275,
+		"category": "Arcane spears",
+		"defname": "RF_CarnelianSpear"
+	},
+	{
+		"abr": "carnelianstaff",
+		"price": 3292,
+		"category": "Arcane staves",
+		"defname": "RF_CarnelianStaff"
+	},
+	{
+		"abr": "carnelianwand",
+		"price": 3267,
+		"category": "Arcane wands",
+		"defname": "RF_CarnelianWand"
+	},
+	{
+		"abr": "carnelianwarhammer",
+		"price": 3308,
+		"category": "Arcane war hammers",
+		"defname": "RF_CarnelianWarHammer"
+	},
+	{
+		"abr": "citrinebattleaxe",
+		"price": 3308,
+		"category": "Arcane battle axes",
+		"defname": "RF_CitrineBattleAxe"
+	},
+	{
+		"abr": "citrinebow",
+		"price": 3283,
+		"category": "Arcane bows",
+		"defname": "RF_CitrineBow"
+	},
+	{
+		"abr": "citrinegreatsword",
+		"price": 3250,
+		"category": "Arcane greatswords",
+		"defname": "RF_CitrineGreatsword"
+	},
+	{
+		"abr": "citrinelongsword",
+		"price": 3250,
+		"category": "Arcane longswords",
+		"defname": "RF_CitrineLongsword"
+	},
+	{
+		"abr": "citrinespear",
+		"price": 3275,
+		"category": "Arcane spears",
+		"defname": "RF_CitrineSpear"
+	},
+	{
+		"abr": "citrinestaff",
+		"price": 3292,
+		"category": "Arcane staves",
+		"defname": "RF_CitrineStaff"
+	},
+	{
+		"abr": "citrinewand",
+		"price": 3267,
+		"category": "Arcane wands",
+		"defname": "RF_CitrineWand"
+	},
+	{
+		"abr": "citrinewarhammer",
+		"price": 3308,
+		"category": "Arcane war hammers",
+		"defname": "RF_CitrineWarHammer"
+	},
+	{
+		"abr": "diamondbattleaxe",
+		"price": 3308,
+		"category": "Arcane battle axes",
+		"defname": "RF_DiamondBattleAxe"
+	},
+	{
+		"abr": "diamondbow",
+		"price": 3283,
+		"category": "Arcane bows",
+		"defname": "RF_DiamondBow"
+	},
+	{
+		"abr": "diamondgreatsword",
+		"price": 3250,
+		"category": "Arcane greatswords",
+		"defname": "RF_DiamondGreatsword"
+	},
+	{
+		"abr": "diamondlongsword",
+		"price": 3250,
+		"category": "Arcane longswords",
+		"defname": "RF_DiamondLongsword"
+	},
+	{
+		"abr": "diamondspear",
+		"price": 3275,
+		"category": "Arcane spears",
+		"defname": "RF_DiamondSpear"
+	},
+	{
+		"abr": "diamondstaff",
+		"price": 3292,
+		"category": "Arcane staves",
+		"defname": "RF_DiamondStaff"
+	},
+	{
+		"abr": "diamondwand",
+		"price": 3267,
+		"category": "Arcane wands",
+		"defname": "RF_DiamondWand"
+	},
+	{
+		"abr": "diamondwarhammer",
+		"price": 3308,
+		"category": "Arcane war hammers",
+		"defname": "RF_DiamondWarHammer"
+	},
+	{
+		"abr": "emeraldbattleaxe",
+		"price": 3308,
+		"category": "Arcane battle axes",
+		"defname": "RF_EmeraldBattleAxe"
+	},
+	{
+		"abr": "emeraldbow",
+		"price": 3283,
+		"category": "Arcane bows",
+		"defname": "RF_EmeraldBow"
+	},
+	{
+		"abr": "emeraldgreatsword",
+		"price": 3250,
+		"category": "Arcane greatswords",
+		"defname": "RF_EmeraldGreatsword"
+	},
+	{
+		"abr": "emeraldlongsword",
+		"price": 3250,
+		"category": "Arcane longswords",
+		"defname": "RF_EmeraldLongsword"
+	},
+	{
+		"abr": "emeraldspear",
+		"price": 3275,
+		"category": "Arcane spears",
+		"defname": "RF_EmeraldSpear"
+	},
+	{
+		"abr": "emeraldstaff",
+		"price": 3292,
+		"category": "Arcane staves",
+		"defname": "RF_EmeraldStaff"
+	},
+	{
+		"abr": "emeraldwand",
+		"price": 3267,
+		"category": "Arcane wands",
+		"defname": "RF_EmeraldWand"
+	},
+	{
+		"abr": "emeraldwarhammer",
+		"price": 3308,
+		"category": "Arcane war hammers",
+		"defname": "RF_EmeraldWarHammer"
+	},
+	{
+		"abr": "evansmana",
+		"price": 3492,
+		"category": "Special weapons",
+		"defname": "RFA_Evansmana"
+	},
+	{
+		"abr": "katakuri",
+		"price": 3492,
+		"category": "Special weapons",
+		"defname": "RFA_Katakuri"
+	},
+	{
+		"abr": "kunzitebattleaxe",
+		"price": 3308,
+		"category": "Arcane battle axes",
+		"defname": "RF_KunziteBattleAxe"
+	},
+	{
+		"abr": "kunzitebow",
+		"price": 3283,
+		"category": "Arcane bows",
+		"defname": "RF_KunziteBow"
+	},
+	{
+		"abr": "kunzitegreatsword",
+		"price": 3250,
+		"category": "Arcane greatswords",
+		"defname": "RF_KunziteGreatsword"
+	},
+	{
+		"abr": "kunzitelongsword",
+		"price": 3250,
+		"category": "Arcane longswords",
+		"defname": "RF_KunziteLongsword"
+	},
+	{
+		"abr": "kunzitespear",
+		"price": 3275,
+		"category": "Arcane spears",
+		"defname": "RF_KunziteSpear"
+	},
+	{
+		"abr": "kunzitestaff",
+		"price": 3292,
+		"category": "Arcane staves",
+		"defname": "RF_KunziteStaff"
+	},
+	{
+		"abr": "kunzitewand",
+		"price": 3267,
+		"category": "Arcane wands",
+		"defname": "RF_KunziteWand"
+	},
+	{
+		"abr": "kunzitewarhammer",
+		"price": 3308,
+		"category": "Arcane war hammers",
+		"defname": "RF_KunziteWarHammer"
+	},
+	{
+		"abr": "onyxbattleaxe",
+		"price": 3308,
+		"category": "Arcane battle axes",
+		"defname": "RF_OnyxBattleAxe"
+	},
+	{
+		"abr": "onyxbow",
+		"price": 3283,
+		"category": "Arcane bows",
+		"defname": "RF_OnyxBow"
+	},
+	{
+		"abr": "onyxgreatsword",
+		"price": 3250,
+		"category": "Arcane greatswords",
+		"defname": "RF_OnyxGreatsword"
+	},
+	{
+		"abr": "onyxlongsword",
+		"price": 3250,
+		"category": "Arcane longswords",
+		"defname": "RF_OnyxLongsword"
+	},
+	{
+		"abr": "onyxspear",
+		"price": 3275,
+		"category": "Arcane spears",
+		"defname": "RF_OnyxSpear"
+	},
+	{
+		"abr": "onyxstaff",
+		"price": 3292,
+		"category": "Arcane staves",
+		"defname": "RF_OnyxStaff"
+	},
+	{
+		"abr": "onyxwand",
+		"price": 3267,
+		"category": "Arcane wands",
+		"defname": "RF_OnyxWand"
+	},
+	{
+		"abr": "onyxwarhammer",
+		"price": 3308,
+		"category": "Arcane war hammers",
+		"defname": "RF_OnyxWarHammer"
+	},
+	{
+		"abr": "peridotbattleaxe",
+		"price": 3308,
+		"category": "Arcane battle axes",
+		"defname": "RF_PeridotBattleAxe"
+	},
+	{
+		"abr": "peridotbow",
+		"price": 3283,
+		"category": "Arcane bows",
+		"defname": "RF_PeridotBow"
+	},
+	{
+		"abr": "peridotgreatsword",
+		"price": 3250,
+		"category": "Arcane greatswords",
+		"defname": "RF_PeridotGreatsword"
+	},
+	{
+		"abr": "peridotlongsword",
+		"price": 3250,
+		"category": "Arcane longswords",
+		"defname": "RF_PeridotLongsword"
+	},
+	{
+		"abr": "peridotspear",
+		"price": 3275,
+		"category": "Arcane spears",
+		"defname": "RF_PeridotSpear"
+	},
+	{
+		"abr": "peridotstaff",
+		"price": 3292,
+		"category": "Arcane staves",
+		"defname": "RF_PeridotStaff"
+	},
+	{
+		"abr": "peridotwand",
+		"price": 3267,
+		"category": "Arcane wands",
+		"defname": "RF_PeridotWand"
+	},
+	{
+		"abr": "peridotwarhammer",
+		"price": 3308,
+		"category": "Arcane war hammers",
+		"defname": "RF_PeridotWarHammer"
+	},
+	{
+		"abr": "raiden",
+		"price": 3492,
+		"category": "Special weapons",
+		"defname": "RFA_Raiden"
+	},
+	{
+		"abr": "rexlapis",
+		"price": 3492,
+		"category": "Special weapons",
+		"defname": "RFA_RexLapis"
+	},
+	{
+		"abr": "rubybattleaxe",
+		"price": 3308,
+		"category": "Arcane battle axes",
+		"defname": "RF_RubyBattleAxe"
+	},
+	{
+		"abr": "rubybow",
+		"price": 3283,
+		"category": "Arcane bows",
+		"defname": "RF_RubyBow"
+	},
+	{
+		"abr": "rubygreatsword",
+		"price": 3250,
+		"category": "Arcane greatswords",
+		"defname": "RF_RubyGreatsword"
+	}
 	],
-	"total": 2576
+	"total": 2666
 }
