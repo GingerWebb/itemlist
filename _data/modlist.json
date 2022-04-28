@@ -642,12 +642,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "Race to the Rim",
-    "steamId": "2325478123",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Roolo and Updated by Ogliss",
     "name": "Dual Wield",
     "steamId": "2537588364",
@@ -664,5 +658,11 @@
     "name": "Quarry",
     "steamId": "2007576583",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "SirKota",
+    "name": "InventoryTab",
+    "steamId": null,
+    "version": null
   }
 ]

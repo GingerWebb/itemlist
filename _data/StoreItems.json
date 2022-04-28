@@ -8911,12 +8911,6 @@
 		"defname": "Meat_Ratkin"
 	},
 	{
-		"abr": "algaelantern",
-		"price": 145,
-		"category": "Furniture",
-		"defname": "RttR_AlgaeLantern"
-	},
-	{
 		"abr": "ambusherskill:ambush",
 		"price": 3000,
 		"category": "Scrolls",
@@ -10063,18 +10057,6 @@
 		"defname": "SpellOf_BulletTime"
 	},
 	{
-		"abr": "deadlynadder",
-		"price": 1667,
-		"category": "Animals",
-		"defname": "RttR_Nadder"
-	},
-	{
-		"abr": "deadlynadderegg(fert.)",
-		"price": 167,
-		"category": "Eggs (fert.)",
-		"defname": "RttR_EggNadderFertilized"
-	},
-	{
 		"abr": "deathknightskill:abyssaldrain",
 		"price": 2667,
 		"category": "Scrolls",
@@ -10217,12 +10199,6 @@
 		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfValiant"
-	},
-	{
-		"abr": "dragonmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RttR_Fury"
 	},
 	{
 		"abr": "dragoonskill:bloodofthedragon",
@@ -10621,48 +10597,6 @@
 		"defname": "TM_FleshGolem"
 	},
 	{
-		"abr": "flightmare",
-		"price": 1667,
-		"category": "Animals",
-		"defname": "RttR_Flightmare"
-	},
-	{
-		"abr": "flightmarealgae",
-		"price": 2,
-		"category": "Manufactured",
-		"defname": "RttR_FlightmareAlgae"
-	},
-	{
-		"abr": "flightmaredragonscales",
-		"price": 8,
-		"category": "Leathers",
-		"defname": "RttR_FlightmareDragonScales"
-	},
-	{
-		"abr": "flightmareegg(fert.)",
-		"price": 167,
-		"category": "Eggs (fert.)",
-		"defname": "RttR_EggFlightmareFertilized"
-	},
-	{
-		"abr": "fury",
-		"price": 1667,
-		"category": "Animals",
-		"defname": "RttR_Fury"
-	},
-	{
-		"abr": "furydragonscales",
-		"price": 8,
-		"category": "Leathers",
-		"defname": "RttR_FuryDragonScales"
-	},
-	{
-		"abr": "furyegg(fert.)",
-		"price": 167,
-		"category": "Eggs (fert.)",
-		"defname": "RttR_EggFuryFertilized"
-	},
-	{
 		"abr": "gadgeteer/minerskill:oldheadlight",
 		"price": 2500,
 		"category": "Scrolls",
@@ -10783,30 +10717,6 @@
 		"defname": "TM_GraniteGolem"
 	},
 	{
-		"abr": "gronckle",
-		"price": 1667,
-		"category": "Animals",
-		"defname": "RttR_Gronckle"
-	},
-	{
-		"abr": "gronckleegg(fert.)",
-		"price": 167,
-		"category": "Eggs (fert.)",
-		"defname": "RttR_EggGronckleFertilized"
-	},
-	{
-		"abr": "gronckleiron",
-		"price": 3,
-		"category": "Raw resources",
-		"defname": "RttR_GronckleIron"
-	},
-	{
-		"abr": "groncklepebbles",
-		"price": 4,
-		"category": "Leathers",
-		"defname": "RttR_GronckleDragonScales"
-	},
-	{
 		"abr": "guardianskill:confiteor",
 		"price": 2667,
 		"category": "Scrolls",
@@ -10921,18 +10831,6 @@
 		"defname": "RoyalHelm"
 	},
 	{
-		"abr": "hideouszippleback",
-		"price": 1667,
-		"category": "Animals",
-		"defname": "RttR_Zippleback"
-	},
-	{
-		"abr": "hideouszipplebackegg(fert.)",
-		"price": 167,
-		"category": "Eggs (fert.)",
-		"defname": "RttR_EggZipplebackFertilized"
-	},
-	{
 		"abr": "hippocraticoath:medic",
 		"price": 4292,
 		"category": "Skill books",
@@ -10985,24 +10883,6 @@
 		"price": 1008,
 		"category": "Magic apparel",
 		"defname": "HoodOfMadness"
-	},
-	{
-		"abr": "hotburple",
-		"price": 1667,
-		"category": "Animals",
-		"defname": "RttR_Hotburple"
-	},
-	{
-		"abr": "hotburpledragonscales",
-		"price": 4,
-		"category": "Leathers",
-		"defname": "RttR_HotburpleDragonScales"
-	},
-	{
-		"abr": "hotburpleegg(fert.)",
-		"price": 167,
-		"category": "Eggs (fert.)",
-		"defname": "RttR_EggHotburpleFertilized"
 	},
 	{
 		"abr": "icespell:alterstorm",
@@ -11467,12 +11347,6 @@
 		"defname": "TM_EStone_wonder_minor"
 	},
 	{
-		"abr": "mixeddragonscales",
-		"price": 3,
-		"category": "Leathers",
-		"defname": "RttR_PatchedDragonScales"
-	},
-	{
 		"abr": "monkskill:serenity",
 		"price": 3000,
 		"category": "Scrolls",
@@ -11489,24 +11363,6 @@
 		"price": 3000,
 		"category": "Scrolls",
 		"defname": "SkillOf_WhistlingWind"
-	},
-	{
-		"abr": "monstrousnightmare",
-		"price": 1667,
-		"category": "Animals",
-		"defname": "RttR_Nightmare"
-	},
-	{
-		"abr": "monstrousnightmaregel",
-		"price": 17,
-		"category": "Manufactured",
-		"defname": "RttR_NightmareGel"
-	},
-	{
-		"abr": "monstruousnightmareegg(fert.)",
-		"price": 167,
-		"category": "Eggs (fert.)",
-		"defname": "RttR_EggNightmareFertilized"
 	},
 	{
 		"abr": "mysterymeat",
@@ -11527,18 +11383,6 @@
 		"defname": "SkillOf_OfudaStorm"
 	},
 	{
-		"abr": "nadderdragonscales",
-		"price": 8,
-		"category": "Leathers",
-		"defname": "RttR_NadderDragonScales"
-	},
-	{
-		"abr": "nadderspikes",
-		"price": 2,
-		"category": "Raw resources",
-		"defname": "RttR_WoodLog"
-	},
-	{
 		"abr": "necromancerspell:lichform",
 		"price": 4292,
 		"category": "Scrolls",
@@ -11549,12 +11393,6 @@
 		"price": 3000,
 		"category": "Magic artifacts",
 		"defname": "TM_Artifact_NecroticOrb"
-	},
-	{
-		"abr": "nightmaredragonscales",
-		"price": 4,
-		"category": "Leathers",
-		"defname": "RttR_NightmareDragonScales"
 	},
 	{
 		"abr": "ninjaspell:doton",
@@ -12001,36 +11839,6 @@
 		"defname": "SkillOf_ThroneOfGluttony"
 	},
 	{
-		"abr": "rawfish",
-		"price": 3,
-		"category": "Meat",
-		"defname": "RttR_RawFish"
-	},
-	{
-		"abr": "razorwhip",
-		"price": 1667,
-		"category": "Animals",
-		"defname": "RttR_Razorwhip"
-	},
-	{
-		"abr": "razorwhipdragonscales",
-		"price": 7,
-		"category": "Leathers",
-		"defname": "RttR_RazorwhipDragonScales"
-	},
-	{
-		"abr": "razorwhipegg(fert.)",
-		"price": 167,
-		"category": "Eggs (fert.)",
-		"defname": "RttR_EggRazorwhipFertilized"
-	},
-	{
-		"abr": "razorwhipspikes",
-		"price": 2,
-		"category": "Manufactured",
-		"defname": "RttR_RazorwhipSpikes"
-	},
-	{
 		"abr": "redmagespell:contresixte",
 		"price": 1833,
 		"category": "Scrolls",
@@ -12235,24 +12043,6 @@
 		"defname": "RF_RubyWarHammer"
 	},
 	{
-		"abr": "rumblehorn",
-		"price": 1417,
-		"category": "Animals",
-		"defname": "RttR_Rumblehorn"
-	},
-	{
-		"abr": "rumblehorndragonscales",
-		"price": 6,
-		"category": "Leathers",
-		"defname": "RttR_RumblehornDragonScales"
-	},
-	{
-		"abr": "rumblehornegg(fert.)",
-		"price": 167,
-		"category": "Eggs (fert.)",
-		"defname": "RttR_EggRumblehornFertilized"
-	},
-	{
 		"abr": "runeknightspell:balefire",
 		"price": 3333,
 		"category": "Scrolls",
@@ -12371,24 +12161,6 @@
 		"price": 3308,
 		"category": "Arcane war hammers",
 		"defname": "RF_SapphireWarHammer"
-	},
-	{
-		"abr": "scauldron",
-		"price": 1667,
-		"category": "Animals",
-		"defname": "RttR_Scauldron"
-	},
-	{
-		"abr": "scauldrondragonscales",
-		"price": 4,
-		"category": "Leathers",
-		"defname": "RttR_ScauldronDragonScales"
-	},
-	{
-		"abr": "scauldronegg(fert.)",
-		"price": 167,
-		"category": "Eggs (fert.)",
-		"defname": "RttR_EggScauldronFertilized"
 	},
 	{
 		"abr": "scholarspell:feyblessing",
@@ -12533,24 +12305,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_TM_SkeletonR"
-	},
-	{
-		"abr": "skrill",
-		"price": 1667,
-		"category": "Animals",
-		"defname": "RttR_Skrill"
-	},
-	{
-		"abr": "skrilldragonscales",
-		"price": 4,
-		"category": "Leathers",
-		"defname": "RttR_SkrillDragonScales"
-	},
-	{
-		"abr": "skrillegg(fert.)",
-		"price": 167,
-		"category": "Eggs (fert.)",
-		"defname": "RttR_EggSkrillFertilized"
 	},
 	{
 		"abr": "slatechunk",
@@ -12727,24 +12481,6 @@
 		"defname": "TM_StoneGolem"
 	},
 	{
-		"abr": "stormcutter",
-		"price": 1500,
-		"category": "Animals",
-		"defname": "RttR_Stormcutter"
-	},
-	{
-		"abr": "stormcutterdragonscales",
-		"price": 3,
-		"category": "Leathers",
-		"defname": "RttR_StormcutterDragonScales"
-	},
-	{
-		"abr": "stormcutteregg(fert.)",
-		"price": 167,
-		"category": "Eggs (fert.)",
-		"defname": "RttR_EggStormcutterFertilized"
-	},
-	{
 		"abr": "strangefinemeal",
 		"price": 47,
 		"category": "Meals",
@@ -12875,24 +12611,6 @@
 		"price": 1667,
 		"category": "Techprints",
 		"defname": "Techprint_BrainWiring"
-	},
-	{
-		"abr": "terribleterror",
-		"price": 250,
-		"category": "Animals",
-		"defname": "RttR_TerribleTerror"
-	},
-	{
-		"abr": "terribleterrordragonscales",
-		"price": 4,
-		"category": "Leathers",
-		"defname": "RttR_TerribleTerrorDragonScales"
-	},
-	{
-		"abr": "terribleterroregg(fert.)",
-		"price": 167,
-		"category": "Eggs (fert.)",
-		"defname": "RttR_EggTerribleTerrorFertilized"
 	},
 	{
 		"abr": "thrumbow",
@@ -13068,288 +12786,6 @@
 		"category": "Skill books",
 		"defname": "Torn_BookOfScholar"
 	},
-	{
-		"abr": "tornscript:shaman",
-		"price": 2917,
-		"category": "Skill books",
-		"defname": "Torn_BookOfShamanism"
-	},
-	{
-		"abr": "tornscript:summoning",
-		"price": 2917,
-		"category": "Skill books",
-		"defname": "Torn_BookOfSummoner"
-	},
-	{
-		"abr": "tornscript:technomancy",
-		"price": 2917,
-		"category": "Skill books",
-		"defname": "Torn_BookOfMagitech"
-	},
-	{
-		"abr": "tornscript:troubadour",
-		"price": 2917,
-		"category": "Skill books",
-		"defname": "Torn_BookOfTroubadour"
-	},
-	{
-		"abr": "tornscript:windmage",
-		"price": 2917,
-		"category": "Skill books",
-		"defname": "Torn_BookOfWindMage"
-	},
-	{
-		"abr": "triplestryke",
-		"price": 1667,
-		"category": "Animals",
-		"defname": "RttR_TripleStryke"
-	},
-	{
-		"abr": "triplestrykechitin",
-		"price": 6,
-		"category": "Leathers",
-		"defname": "RttR_TripleStrykeDragonScales"
-	},
-	{
-		"abr": "triplestrykeegg(fert.)",
-		"price": 167,
-		"category": "Eggs (fert.)",
-		"defname": "RttR_EggTripleStrykeFertilized"
-	},
-	{
-		"abr": "triplestrykevenom",
-		"price": 25,
-		"category": "Manufactured",
-		"defname": "RttR_TripleStrykeVenom"
-	},
-	{
-		"abr": "troubadourskill:apexarrow",
-		"price": 3000,
-		"category": "Scrolls",
-		"defname": "SkillOf_ApexArrow"
-	},
-	{
-		"abr": "troubadourskill:burstshot",
-		"price": 2333,
-		"category": "Scrolls",
-		"defname": "SkillOf_BurstShot"
-	},
-	{
-		"abr": "troubadourskill:empyrealarrow",
-		"price": 1833,
-		"category": "Scrolls",
-		"defname": "SkillOf_EmpyrealArrow"
-	},
-	{
-		"abr": "troubadourskill:misery'send",
-		"price": 2000,
-		"category": "Scrolls",
-		"defname": "SkillOf_MiserysEnd"
-	},
-	{
-		"abr": "troubadourskill:swiftsong",
-		"price": 1833,
-		"category": "Scrolls",
-		"defname": "SkillOf_Swiftsong"
-	},
-	{
-		"abr": "troubadourspell:impromptu",
-		"price": 2167,
-		"category": "Scrolls",
-		"defname": "SpellOf_Impromptu"
-	},
-	{
-		"abr": "troubadourspell:warden'spaean",
-		"price": 2167,
-		"category": "Scrolls",
-		"defname": "SpellOf_WardensPaean"
-	},
-	{
-		"abr": "twistedinspiration:plaguedoctor",
-		"price": 4292,
-		"category": "Skill books",
-		"defname": "BookOfPlaguedoctor"
-	},
-	{
-		"abr": "unfinishedarcanebook",
-		"price": 4392,
-		"category": "Skill books",
-		"defname": "UnfinishedAdvArcane"
-	},
-	{
-		"abr": "unfinishedmartialbook",
-		"price": 3425,
-		"category": "Skill books",
-		"defname": "UnfinishedMartial"
-	},
-	{
-		"abr": "unfinishedtornscript",
-		"price": 2333,
-		"category": "Skill books",
-		"defname": "UnfinishedArcane"
-	},
-	{
-		"abr": "unrefinedmagicyte",
-		"price": 8,
-		"category": "Refined magicyte",
-		"defname": "RawMagicyte"
-	},
-	{
-		"abr": "untouchablemeat",
-		"price": 2,
-		"category": "Raw strange meat",
-		"defname": "ROM_RawCHFood_Meat"
-	},
-	{
-		"abr": "wandoffire",
-		"price": 800,
-		"category": "Magic foci",
-		"defname": "TM_FireWand"
-	},
-	{
-		"abr": "wandofice",
-		"price": 800,
-		"category": "Magic foci",
-		"defname": "TM_IceWand"
-	},
-	{
-		"abr": "wandoflightning",
-		"price": 800,
-		"category": "Magic foci",
-		"defname": "TM_LightningWand"
-	},
-	{
-		"abr": "wandererspell:flight",
-		"price": 1417,
-		"category": "Scrolls",
-		"defname": "SpellOf_FlightW"
-	},
-	{
-		"abr": "wandererspell:luckystar",
-		"price": 583,
-		"category": "Scrolls",
-		"defname": "SpellOf_LuckyStar"
-	},
-	{
-		"abr": "wanderer'scloak",
-		"price": 1375,
-		"category": "Magic apparel",
-		"defname": "TM_MaestersCloak"
-	},
-	{
-		"abr": "wardenspell:churningearth",
-		"price": 3000,
-		"category": "Scrolls",
-		"defname": "SpellOf_ChurningEarth"
-	},
-	{
-		"abr": "wardenspell:eruption",
-		"price": 3000,
-		"category": "Scrolls",
-		"defname": "SpellOf_Eruption"
-	},
-	{
-		"abr": "wardenspell:magneticaura",
-		"price": 2667,
-		"category": "Scrolls",
-		"defname": "SpellOf_MagneticAura"
-	},
-	{
-		"abr": "warlockspell:psychicshock",
-		"price": 3000,
-		"category": "Scrolls",
-		"defname": "SpellOf_PsychicShock"
-	},
-	{
-		"abr": "warriorskill:infuriate",
-		"price": 2667,
-		"category": "Scrolls",
-		"defname": "SkillOf_InfuriateW"
-	},
-	{
-		"abr": "warriorskill:innerchaos",
-		"price": 3000,
-		"category": "Scrolls",
-		"defname": "SkillOf_InnerChaos"
-	},
-	{
-		"abr": "warriorskill:onslaught",
-		"price": 1667,
-		"category": "Scrolls",
-		"defname": "SkillOf_Onslaught"
-	},
-	{
-		"abr": "warriorskill:shakeitoff",
-		"price": 3000,
-		"category": "Scrolls",
-		"defname": "SkillOf_ShakeItOff"
-	},
-	{
-		"abr": "warrior/guardianskill:sheltron",
-		"price": 2167,
-		"category": "Scrolls",
-		"defname": "SkillOf_Sheltron"
-	},
-	{
-		"abr": "wayfarerskill:haste",
-		"price": 833,
-		"category": "Scrolls",
-		"defname": "SkillOf_HasteC"
-	},
-	{
-		"abr": "wayfarerskill:medigel",
-		"price": 1417,
-		"category": "Scrolls",
-		"defname": "SkillOf_MedigelC"
-	},
-	{
-		"abr": "whitecoat",
-		"price": 2600,
-		"category": "Ratkin apparel",
-		"defname": "RK_WhiteCoat"
-	},
-	{
-		"abr": "windmagespell:feywinds",
-		"price": 3000,
-		"category": "Scrolls",
-		"defname": "SpellOf_FeyWindsLearnable"
-	},
-	{
-		"abr": "wizardhat",
-		"price": 392,
-		"category": "Magic apparel",
-		"defname": "TM_WizardHat"
-	},
-	{
-		"abr": "wolfmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_TM_Dire_WolfR"
-	},
-	{
-		"abr": "wyvernammo(normal)",
-		"price": 92,
-		"category": "Manufactured",
-		"defname": "RK_WyvernAmmo_NormalType"
-	},
-	{
-		"abr": "wyvernammo(spread)",
-		"price": 92,
-		"category": "Manufactured",
-		"defname": "RK_WyvernAmmo_SpreadType"
-	},
-	{
-		"abr": "zipplebackdragonscales",
-		"price": 4,
-		"category": "Leathers",
-		"defname": "RttR_ZipplebackDragonScales"
-	},
-	{
-		"abr": "zombrella",
-		"price": 3333,
-		"category": "Misc",
-		"defname": "Zombrella"
-	},
 	],
-	"total": 2227
+	"total": 2173
 }
