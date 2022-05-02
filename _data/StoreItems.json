@@ -12786,6 +12786,306 @@
 		"category": "Skill books",
 		"defname": "Torn_BookOfScholar"
 	},
+	{
+		"abr": "tornscript:shaman",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfShamanism"
+	},
+	{
+		"abr": "tornscript:summoning",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfSummoner"
+	},
+	{
+		"abr": "tornscript:technomancy",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfMagitech"
+	},
+	{
+		"abr": "tornscript:troubadour",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfTroubadour"
+	},
+	{
+		"abr": "tornscript:windmage",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfWindMage"
+	},
+	{
+		"abr": "troubadourskill:apexarrow",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SkillOf_ApexArrow"
+	},
+	{
+		"abr": "troubadourskill:burstshot",
+		"price": 2333,
+		"category": "Scrolls",
+		"defname": "SkillOf_BurstShot"
+	},
+	{
+		"abr": "troubadourskill:empyrealarrow",
+		"price": 1833,
+		"category": "Scrolls",
+		"defname": "SkillOf_EmpyrealArrow"
+	},
+	{
+		"abr": "troubadourskill:misery'send",
+		"price": 2000,
+		"category": "Scrolls",
+		"defname": "SkillOf_MiserysEnd"
+	},
+	{
+		"abr": "troubadourskill:swiftsong",
+		"price": 1833,
+		"category": "Scrolls",
+		"defname": "SkillOf_Swiftsong"
+	},
+	{
+		"abr": "troubadourspell:impromptu",
+		"price": 2167,
+		"category": "Scrolls",
+		"defname": "SpellOf_Impromptu"
+	},
+	{
+		"abr": "troubadourspell:warden'spaean",
+		"price": 2167,
+		"category": "Scrolls",
+		"defname": "SpellOf_WardensPaean"
+	},
+	{
+		"abr": "twistedinspiration:plaguedoctor",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfPlaguedoctor"
+	},
+	{
+		"abr": "unfinishedarcanebook",
+		"price": 4392,
+		"category": "Skill books",
+		"defname": "UnfinishedAdvArcane"
+	},
+	{
+		"abr": "unfinishedmartialbook",
+		"price": 3425,
+		"category": "Skill books",
+		"defname": "UnfinishedMartial"
+	},
+	{
+		"abr": "unfinishedtornscript",
+		"price": 2333,
+		"category": "Skill books",
+		"defname": "UnfinishedArcane"
+	},
+	{
+		"abr": "unrefinedmagicyte",
+		"price": 8,
+		"category": "Refined magicyte",
+		"defname": "RawMagicyte"
+	},
+	{
+		"abr": "untouchablemeat",
+		"price": 2,
+		"category": "Raw strange meat",
+		"defname": "ROM_RawCHFood_Meat"
+	},
+	{
+		"abr": "wandoffire",
+		"price": 800,
+		"category": "Magic foci",
+		"defname": "TM_FireWand"
+	},
+	{
+		"abr": "wandofice",
+		"price": 800,
+		"category": "Magic foci",
+		"defname": "TM_IceWand"
+	},
+	{
+		"abr": "wandoflightning",
+		"price": 800,
+		"category": "Magic foci",
+		"defname": "TM_LightningWand"
+	},
+	{
+		"abr": "wandererspell:flight",
+		"price": 1417,
+		"category": "Scrolls",
+		"defname": "SpellOf_FlightW"
+	},
+	{
+		"abr": "wandererspell:luckystar",
+		"price": 583,
+		"category": "Scrolls",
+		"defname": "SpellOf_LuckyStar"
+	},
+	{
+		"abr": "wanderer'scloak",
+		"price": 1375,
+		"category": "Magic apparel",
+		"defname": "TM_MaestersCloak"
+	},
+	{
+		"abr": "wardenspell:churningearth",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SpellOf_ChurningEarth"
+	},
+	{
+		"abr": "wardenspell:eruption",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SpellOf_Eruption"
+	},
+	{
+		"abr": "wardenspell:magneticaura",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SpellOf_MagneticAura"
+	},
+	{
+		"abr": "warlockspell:psychicshock",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SpellOf_PsychicShock"
+	},
+	{
+		"abr": "warriorskill:infuriate",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SkillOf_InfuriateW"
+	},
+	{
+		"abr": "warriorskill:innerchaos",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SkillOf_InnerChaos"
+	},
+	{
+		"abr": "warriorskill:onslaught",
+		"price": 1667,
+		"category": "Scrolls",
+		"defname": "SkillOf_Onslaught"
+	},
+	{
+		"abr": "warriorskill:shakeitoff",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SkillOf_ShakeItOff"
+	},
+	{
+		"abr": "warrior/guardianskill:sheltron",
+		"price": 2167,
+		"category": "Scrolls",
+		"defname": "SkillOf_Sheltron"
+	},
+	{
+		"abr": "wayfarerskill:haste",
+		"price": 833,
+		"category": "Scrolls",
+		"defname": "SkillOf_HasteC"
+	},
+	{
+		"abr": "wayfarerskill:medigel",
+		"price": 1417,
+		"category": "Scrolls",
+		"defname": "SkillOf_MedigelC"
+	},
+	{
+		"abr": "whitecoat",
+		"price": 2600,
+		"category": "Ratkin apparel",
+		"defname": "RK_WhiteCoat"
+	},
+	{
+		"abr": "windmagespell:feywinds",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SpellOf_FeyWindsLearnable"
+	},
+	{
+		"abr": "wizardhat",
+		"price": 392,
+		"category": "Magic apparel",
+		"defname": "TM_WizardHat"
+	},
+	{
+		"abr": "wolfmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_TM_Dire_WolfR"
+	},
+	{
+		"abr": "wyvernammo(normal)",
+		"price": 92,
+		"category": "Manufactured",
+		"defname": "RK_WyvernAmmo_NormalType"
+	},
+	{
+		"abr": "wyvernammo(spread)",
+		"price": 92,
+		"category": "Manufactured",
+		"defname": "RK_WyvernAmmo_SpreadType"
+	},
+	{
+		"abr": "zombrella",
+		"price": 3333,
+		"category": "Misc",
+		"defname": "Zombrella"
+	},
+	{
+		"abr": "deathkap",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "Deathkap_Race"
+	},
+	{
+		"abr": "deathkapspear",
+		"price": 322,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_FungiSpear"
+	},
+	{
+		"abr": "deathkapvessel",
+		"price": 12,
+		"category": "Manufactured",
+		"defname": "DeathkapVessel"
+	},
+	{
+		"abr": "folia",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "Folia_Race"
+	},
+	{
+		"abr": "folialeather",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "Leather_Folian"
+	},
+	{
+		"abr": "potatoid",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "Potatoid_Race"
+	},
+	{
+		"abr": "potatoidpeel",
+		"price": 4,
+		"category": "Leathers",
+		"defname": "Leather_Potatoid"
+	},
+	{
+		"abr": "potatoidvessel",
+		"price": 12,
+		"category": "Manufactured",
+		"defname": "PotatoidVessel"
+	}
 	],
-	"total": 2173
+	"total": 2181
 }
