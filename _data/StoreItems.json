@@ -1849,12 +1849,6 @@
 		"defname": "Snowhare"
 	},
 	{
-		"abr": "megascarab",
-		"price": 167,
-		"category": "Animals",
-		"defname": "Megascarab"
-	},
-	{
 		"abr": "spelopede",
 		"price": 333,
 		"category": "Animals",
@@ -2186,7 +2180,7 @@
 	},
 	{
 		"abr": "psylinkneuroformer",
-		"price": 4333,
+		"price": 4000,
 		"category": "Archotech",
 		"defname": "PsychicAmplifier"
 	},
@@ -4700,7 +4694,7 @@
 	},
 	{
 		"abr": "psytrainer(chunkskip)",
-		"price": 417,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Chunkskip"
 	},
@@ -5067,7 +5061,7 @@
 	{
 		"abr": "uprightpiano",
 		"price": 908,
-		"category": "Furniture",
+		"category": "Recreation",
 		"defname": "Joy_Piano"
 	},
 	{
@@ -7441,516 +7435,6 @@
 		"defname": "Tent"
 	},
 	{
-		"abr": "bloodoranges",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "BiomesIslands_Oranges"
-	},
-	{
-		"abr": "blubber",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_BiomesIslands_Whale"
-	},
-	{
-		"abr": "bluecrab",
-		"price": 183,
-		"category": "Animals",
-		"defname": "BiomesIslands_BlueCrab"
-	},
-	{
-		"abr": "bluecrabegg(fert.)",
-		"price": 58,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggBlueCrabFertilized"
-	},
-	{
-		"abr": "blueseasnailegg(fert.)",
-		"price": 33,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_BlueSeaSnailFertilized"
-	},
-	{
-		"abr": "boomwhale",
-		"price": 3000,
-		"category": "Animals",
-		"defname": "BiomesIslands_BoomWhale"
-	},
-	{
-		"abr": "cluttercrab",
-		"price": 683,
-		"category": "Animals",
-		"defname": "BiomesIslands_ClutterCrab"
-	},
-	{
-		"abr": "cluttercrabegg(fert.)",
-		"price": 92,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggClutterCrabFertilized"
-	},
-	{
-		"abr": "coralblocks",
-		"price": 2,
-		"category": "Stone blocks",
-		"defname": "BiomesIslands_BlocksCoral"
-	},
-	{
-		"abr": "crabmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_BiomesIslands_RimCrab"
-	},
-	{
-		"abr": "devil'sclawleaves",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "BiomesIslands_Devilsclaw"
-	},
-	{
-		"abr": "fiddlercrab",
-		"price": 183,
-		"category": "Animals",
-		"defname": "BiomesIslands_FiddlerCrab"
-	},
-	{
-		"abr": "fiddlercrabegg(fert.)",
-		"price": 58,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggFiddlerCrabFertilized"
-	},
-	{
-		"abr": "fish",
-		"price": 25,
-		"category": "Animals",
-		"defname": "BiomesIslands_BaitfishBase"
-	},
-	{
-		"abr": "fishfood",
-		"price": 2,
-		"category": "Foods",
-		"defname": "BiomesIslands_FishFood"
-	},
-	{
-		"abr": "fishmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_BiomesIslands_WhiteShark"
-	},
-	{
-		"abr": "fishmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_BMT_GreenEel"
-	},
-	{
-		"abr": "fishskin",
-		"price": 3,
-		"category": "Leathers",
-		"defname": "BiomesIslands_Leather_Fishskin"
-	},
-	{
-		"abr": "galapagostortoise",
-		"price": 583,
-		"category": "Animals",
-		"defname": "BiomesIslands_GalapagosTortoise"
-	},
-	{
-		"abr": "galapagostortoiseegg(fert.)",
-		"price": 55,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggGalapagosTortoiseFertilized"
-	},
-	{
-		"abr": "gigantaconda",
-		"price": 700,
-		"category": "Animals",
-		"defname": "BiomesIslands_Gigantaconda"
-	},
-	{
-		"abr": "gigantacondaegg(fert.)",
-		"price": 147,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggGigantacondaFertilized"
-	},
-	{
-		"abr": "gigantacondameat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_BiomesIslands_Gigantaconda"
-	},
-	{
-		"abr": "greatwhiteshark",
-		"price": 2500,
-		"category": "Animals",
-		"defname": "BiomesIslands_WhiteShark"
-	},
-	{
-		"abr": "greeneel",
-		"price": 333,
-		"category": "Animals",
-		"defname": "BMT_GreenEel"
-	},
-	{
-		"abr": "greengecko",
-		"price": 333,
-		"category": "Animals",
-		"defname": "BiomesIslands_GreenGecko"
-	},
-	{
-		"abr": "greengeckoegg(fert.)",
-		"price": 42,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggGreenGeckoFertilized"
-	},
-	{
-		"abr": "greengeckomeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_BiomesIslands_GreenGecko"
-	},
-	{
-		"abr": "hammerheadshark",
-		"price": 1250,
-		"category": "Animals",
-		"defname": "BiomesIslands_Hammerhead"
-	},
-	{
-		"abr": "hermitcrab",
-		"price": 183,
-		"category": "Animals",
-		"defname": "BiomesIslands_HermitCrab"
-	},
-	{
-		"abr": "hermitcrabegg(fert.)",
-		"price": 58,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggHermitCrabFertilized"
-	},
-	{
-		"abr": "kelpbed",
-		"price": 119,
-		"category": "Furniture",
-		"defname": "BiomesIslands_AquaticKelpBed"
-	},
-	{
-		"abr": "kiwi",
-		"price": 133,
-		"category": "Animals",
-		"defname": "BiomesIslands_KiwiBird"
-	},
-	{
-		"abr": "kiwiegg(fert.)",
-		"price": 42,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggKiwiFertilized"
-	},
-	{
-		"abr": "kiwimeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_BiomesIslands_KiwiBird"
-	},
-	{
-		"abr": "komododragon",
-		"price": 450,
-		"category": "Animals",
-		"defname": "BMT_KomodoDragon"
-	},
-	{
-		"abr": "komododragonegg(fert.)",
-		"price": 32,
-		"category": "Eggs (fert.)",
-		"defname": "BMT_EggKomodoDragonFertilized"
-	},
-	{
-		"abr": "komododragonmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_BMT_KomodoDragon"
-	},
-	{
-		"abr": "leatherbackturtle",
-		"price": 750,
-		"category": "Animals",
-		"defname": "BiomesIslands_LeatherbackTurtle"
-	},
-	{
-		"abr": "leatherbackturtleegg(fert.)",
-		"price": 67,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggLeatherbackTurtleFertilized"
-	},
-	{
-		"abr": "limepeelangelfish",
-		"price": 25,
-		"category": "Animals",
-		"defname": "BiomesIslands_LimepeelAngelfish"
-	},
-	{
-		"abr": "limepeelangelfishegg(fert.)",
-		"price": 17,
-		"category": "Eggs (fert.)",
-		"defname": "EggLimepeelAngelfishFertilized"
-	},
-	{
-		"abr": "mantaray",
-		"price": 2500,
-		"category": "Animals",
-		"defname": "BiomesIslands_MantaRay"
-	},
-	{
-		"abr": "marineiguana",
-		"price": 200,
-		"category": "Animals",
-		"defname": "BiomesIslands_MarineIguana"
-	},
-	{
-		"abr": "marineiguanaegg(fert.)",
-		"price": 42,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggMarineIguanaFertilized"
-	},
-	{
-		"abr": "marineiguanameat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_BiomesIslands_MarineIguana"
-	},
-	{
-		"abr": "megamantis",
-		"price": 167,
-		"category": "Animals",
-		"defname": "BiomesIslands_Megamantis"
-	},
-	{
-		"abr": "megamantisegg(fert.)",
-		"price": 42,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggMegamantisFertilized"
-	},
-	{
-		"abr": "muckfrill",
-		"price": 25,
-		"category": "Animals",
-		"defname": "BMT_Muckfrill"
-	},
-	{
-		"abr": "muckfrillegg(fert.)",
-		"price": 17,
-		"category": "Eggs (fert.)",
-		"defname": "BMT_EggMuckfrillFertilized"
-	},
-	{
-		"abr": "obsidianfin",
-		"price": 25,
-		"category": "Animals",
-		"defname": "BMT_Obsidianfin"
-	},
-	{
-		"abr": "obsidianfinegg(fert.)",
-		"price": 17,
-		"category": "Eggs (fert.)",
-		"defname": "BMT_EggObsidianfinFertilized"
-	},
-	{
-		"abr": "omegadodo",
-		"price": 667,
-		"category": "Animals",
-		"defname": "BiomesIslands_OmegaDodo"
-	},
-	{
-		"abr": "omegadodoegg(fert.)",
-		"price": 83,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggOmegaDodoFertilized"
-	},
-	{
-		"abr": "omegadodoegg(unfert.)",
-		"price": 83,
-		"category": "Eggs (unfert.)",
-		"defname": "BiomesIslands_EggOmegaDodoUnfertilized"
-	},
-	{
-		"abr": "omegadodomeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_BiomesIslands_OmegaDodo"
-	},
-	{
-		"abr": "orangepeelangelfish",
-		"price": 25,
-		"category": "Animals",
-		"defname": "BMT_OrangepeelAngelfish"
-	},
-	{
-		"abr": "orangepeelangelfishegg(fert.)",
-		"price": 17,
-		"category": "Eggs (fert.)",
-		"defname": "BMT_EggOrangepeelAngelfishFertilized"
-	},
-	{
-		"abr": "orchidbasslet",
-		"price": 25,
-		"category": "Animals",
-		"defname": "BMT_OrchidBasslet"
-	},
-	{
-		"abr": "orchidbassletegg(fert.)",
-		"price": 17,
-		"category": "Eggs (fert.)",
-		"defname": "BMT_EggOrchidBassletFertilized"
-	},
-	{
-		"abr": "parrotfish",
-		"price": 200,
-		"category": "Animals",
-		"defname": "BMT_Parrotfish"
-	},
-	{
-		"abr": "parrotfishegg(fert.)",
-		"price": 47,
-		"category": "Eggs (fert.)",
-		"defname": "BMT_EggParrotfishFertilized"
-	},
-	{
-		"abr": "phoebaniarat",
-		"price": 58,
-		"category": "Animals",
-		"defname": "BiomesIslands_PhoebaniaRat"
-	},
-	{
-		"abr": "redsnapper",
-		"price": 500,
-		"category": "Animals",
-		"defname": "BiomesIslands_RedSnapper"
-	},
-	{
-		"abr": "redsnapperegg(fert.)",
-		"price": 58,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggRedSnapperFertilized"
-	},
-	{
-		"abr": "rimcrab",
-		"price": 183,
-		"category": "Animals",
-		"defname": "BiomesIslands_RimCrab"
-	},
-	{
-		"abr": "rimcrabegg(fert.)",
-		"price": 58,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggRimCrabFertilized"
-	},
-	{
-		"abr": "sardine",
-		"price": 25,
-		"category": "Animals",
-		"defname": "BiomesIslands_Sardine"
-	},
-	{
-		"abr": "sardineegg(fert.)",
-		"price": 17,
-		"category": "Eggs (fert.)",
-		"defname": "EggSardineFertilized"
-	},
-	{
-		"abr": "seaotter",
-		"price": 417,
-		"category": "Animals",
-		"defname": "BMT_SeaOtter"
-	},
-	{
-		"abr": "seaottermeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_BMT_SeaOtter"
-	},
-	{
-		"abr": "seasnail",
-		"price": 167,
-		"category": "Animals",
-		"defname": "BiomesIslands_BlueSeaSnail"
-	},
-	{
-		"abr": "seaturtle",
-		"price": 1250,
-		"category": "Animals",
-		"defname": "BiomesIslands_SeaTurtle"
-	},
-	{
-		"abr": "seaturtleegg(fert.)",
-		"price": 58,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggSeaTurtleFertilized"
-	},
-	{
-		"abr": "seaturtlemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_BiomesIslands_SeaTurtle"
-	},
-	{
-		"abr": "seagull",
-		"price": 158,
-		"category": "Animals",
-		"defname": "BiomesIslands_Seagull"
-	},
-	{
-		"abr": "seagullegg(fert.)",
-		"price": 47,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggSeagullFertilized"
-	},
-	{
-		"abr": "seagullmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_BiomesIslands_Seagull"
-	},
-	{
-		"abr": "sharkskin",
-		"price": 9,
-		"category": "Leathers",
-		"defname": "BiomesIslands_Leather_Sharkskin"
-	},
-	{
-		"abr": "shetlandpony",
-		"price": 917,
-		"category": "Animals",
-		"defname": "BiomesIslands_ShetlandPony"
-	},
-	{
-		"abr": "snailmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_BiomesIslands_BlueSeaSnail"
-	},
-	{
-		"abr": "spineappleslices",
-		"price": 5,
-		"category": "Vegetarian",
-		"defname": "BiomesIslands_Pineapples"
-	},
-	{
-		"abr": "sugarbananas",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "BiomesIslands_Bananas"
-	},
-	{
-		"abr": "sunfinangelfish",
-		"price": 25,
-		"category": "Animals",
-		"defname": "BMT_SunfinAngelfish"
-	},
-	{
-		"abr": "sunfinangelfishegg(fert.)",
-		"price": 17,
-		"category": "Eggs (fert.)",
-		"defname": "BMT_EggSunfinAngelfishFertilized"
-	},
-	{
 		"abr": "thickalienleather",
 		"price": 8,
 		"category": "Leathers",
@@ -7961,30 +7445,6 @@
 		"price": -10,
 		"category": "Animal",
 		"defname": "O21_FR_Tiefling"
-	},
-	{
-		"abr": "trout",
-		"price": 200,
-		"category": "Animals",
-		"defname": "BiomesIslands_Trout"
-	},
-	{
-		"abr": "troutegg(fert.)",
-		"price": 47,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggTroutFertilized"
-	},
-	{
-		"abr": "tuna",
-		"price": 500,
-		"category": "Animals",
-		"defname": "BiomesIslands_Tuna"
-	},
-	{
-		"abr": "tunaegg(fert.)",
-		"price": 58,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggTunaFertilized"
 	},
 	{
 		"abr": "vikingtent",
@@ -8003,18 +7463,6 @@
 		"price": -10,
 		"category": "Animal",
 		"defname": "O21_FR_Warforged"
-	},
-	{
-		"abr": "whale",
-		"price": 3000,
-		"category": "Animals",
-		"defname": "BiomesIslands_Whale"
-	},
-	{
-		"abr": "whaleskin",
-		"price": 7,
-		"category": "Leathers",
-		"defname": "BiomesIslands_Leather_Whaleskin"
 	},
 	{
 		"abr": "woodelf",
@@ -8222,7 +7670,7 @@
 	},
 	{
 		"abr": "granitechunk",
-		"price": 4,
+		"price": -10,
 		"category": "Stone chunks",
 		"defname": "ChunkGranite"
 	},
@@ -8258,13 +7706,13 @@
 	},
 	{
 		"abr": "limestonechunk",
-		"price": 4,
+		"price": -10,
 		"category": "Stone chunks",
 		"defname": "ChunkLimestone"
 	},
 	{
 		"abr": "marblechunk",
-		"price": 4,
+		"price": -10,
 		"category": "Stone chunks",
 		"defname": "ChunkMarble"
 	},
@@ -12074,7 +11522,7 @@
 	},
 	{
 		"abr": "sandstonechunk",
-		"price": 4,
+		"price": -10,
 		"category": "Stone chunks",
 		"defname": "ChunkSandstone"
 	},
@@ -12308,7 +11756,7 @@
 	},
 	{
 		"abr": "slatechunk",
-		"price": 4,
+		"price": -10,
 		"category": "Stone chunks",
 		"defname": "ChunkSlate"
 	},
@@ -13040,7 +12488,7 @@
 	},
 	{
 		"abr": "deathkap",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Deathkap_Race"
 	},
@@ -13058,7 +12506,7 @@
 	},
 	{
 		"abr": "folia",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Folia_Race"
 	},
@@ -13070,7 +12518,7 @@
 	},
 	{
 		"abr": "potatoid",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Potatoid_Race"
 	},
@@ -13085,7 +12533,517 @@
 		"price": 12,
 		"category": "Manufactured",
 		"defname": "PotatoidVessel"
-	}
+	},
+	{
+		"abr": "megascarab",
+		"price": 167,
+		"category": "Animals",
+		"defname": "Megascarab"
+	},
+	{
+		"abr": "advancedbattery",
+		"price": 750,
+		"category": "Power",
+		"defname": "VFE_AdvancedBattery"
+	},
+	{
+		"abr": "almonds",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawAlmonds"
+	},
+	{
+		"abr": "ambrandy(awful)",
+		"price": 500,
+		"category": "Drugs",
+		"defname": "VBE_AmbrandyAwful"
+	},
+	{
+		"abr": "ambrandy(excellent)",
+		"price": 2000,
+		"category": "Drugs",
+		"defname": "VBE_AmbrandyExcellent"
+	},
+	{
+		"abr": "ambrandy(good)",
+		"price": 1500,
+		"category": "Drugs",
+		"defname": "VBE_AmbrandyGood"
+	},
+	{
+		"abr": "ambrandy(legendary)",
+		"price": 4167,
+		"category": "Drugs",
+		"defname": "VBE_AmbrandyLegendary"
+	},
+	{
+		"abr": "ambrandy(masterwork)",
+		"price": 2833,
+		"category": "Drugs",
+		"defname": "VBE_AmbrandyMasterwork"
+	},
+	{
+		"abr": "ambrandy(normal)",
+		"price": 1000,
+		"category": "Drugs",
+		"defname": "VBE_AmbrandyNormal"
+	},
+	{
+		"abr": "ambrandy(poor)",
+		"price": 750,
+		"category": "Drugs",
+		"defname": "VBE_AmbrandyPoor"
+	},
+	{
+		"abr": "ambrandydistillery",
+		"price": 1050,
+		"category": "Production",
+		"defname": "VBE_AmbrandyDistillery"
+	},
+	{
+		"abr": "ambrandymust",
+		"price": 4,
+		"category": "Musts and syrups",
+		"defname": "VBE_AmbrandyMust"
+	},
+	{
+		"abr": "ambrosiamush",
+		"price": 4,
+		"category": "Musts and syrups",
+		"defname": "VBE_AmbrandyMush"
+	},
+	{
+		"abr": "animalfeeder",
+		"price": 87,
+		"category": "Furniture",
+		"defname": "VFE_AnimalFeeder"
+	},
+	{
+		"abr": "archerytarget",
+		"price": 41,
+		"category": "Recreation",
+		"defname": "VFEM_ArcheryTarget"
+	},
+	{
+		"abr": "archotechsculpture",
+		"price": 5000,
+		"category": "Art",
+		"defname": "VFE_ArchotechSculpture"
+	},
+	{
+		"abr": "archotechviolencegenerator",
+		"price": 5667,
+		"category": "Special",
+		"defname": "VPE_ArchotechViolenceGenerator"
+	},
+	{
+		"abr": "avocados",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawAvocado"
+	},
+	{
+		"abr": "bar",
+		"price": 717,
+		"category": "Production",
+		"defname": "VBE_Bar"
+	},
+	{
+		"abr": "barber'stable",
+		"price": 328,
+		"category": "Misc",
+		"defname": "VHE_TableBarber"
+	},
+	{
+		"abr": "blueberries",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawBlueberries"
+	},
+	{
+		"abr": "brusselssprouts",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawBrusselsSprouts"
+	},
+	{
+		"abr": "buckwheat",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawBuckwheat"
+	},
+	{
+		"abr": "butternutsquashes",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawButternutSquash"
+	},
+	{
+		"abr": "candle",
+		"price": 1,
+		"category": "Furniture",
+		"defname": "VFEM_Candle"
+	},
+	{
+		"abr": "canolaflowers",
+		"price": 3,
+		"category": "Plant matter",
+		"defname": "VCE_RawCanola"
+	},
+	{
+		"abr": "carrots",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawCarrot"
+	},
+	{
+		"abr": "carving",
+		"price": 342,
+		"category": "Art",
+		"defname": "VFE_Carving"
+	},
+	{
+		"abr": "cassavas",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawCassava"
+	},
+	{
+		"abr": "cavemoss",
+		"price": 1,
+		"category": "Foods",
+		"defname": "VCE_RawMoss"
+	},
+	{
+		"abr": "celery",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawCelery"
+	},
+	{
+		"abr": "chickpeas",
+		"price": 0,
+		"category": "Vegetarian",
+		"defname": "VCE_RawChickpeas"
+	},
+	{
+		"abr": "cider",
+		"price": 20,
+		"category": "Drugs",
+		"defname": "VBE_Cider"
+	},
+	{
+		"abr": "cigarettes",
+		"price": 13,
+		"category": "Drugs",
+		"defname": "VBE_Cigarettes"
+	},
+	{
+		"abr": "cigars",
+		"price": 100,
+		"category": "Drugs",
+		"defname": "VBE_Cigars"
+	},
+	{
+		"abr": "claymore",
+		"price": 442,
+		"category": "Melee weapons",
+		"defname": "VFEM_MeleeWeapon_Claymore"
+	},
+	{
+		"abr": "coconuts",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawCoconut"
+	},
+	{
+		"abr": "coffee",
+		"price": 13,
+		"category": "Drugs",
+		"defname": "VBE_HotCoffee"
+	},
+	{
+		"abr": "coffeebeans",
+		"price": 2,
+		"category": "Plant matter",
+		"defname": "VBE_RawCoffee"
+	},
+	{
+		"abr": "cryptosleepsuspender",
+		"price": 733,
+		"category": "Furniture",
+		"defname": "Bed_CryptoBed"
+	},
+	{
+		"abr": "cucumbers",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawCucumber"
+	},
+	{
+		"abr": "damedress",
+		"price": 259,
+		"category": "Apparel",
+		"defname": "VFEM_Apparel_DameDress"
+	},
+	{
+		"abr": "damehat",
+		"price": 127,
+		"category": "Headgear",
+		"defname": "VFEM_Apparel_DameHat"
+	},
+	{
+		"abr": "darkcandle",
+		"price": 1,
+		"category": "Furniture",
+		"defname": "VFEM_DarkCandle"
+	},
+	{
+		"abr": "darklampendtable",
+		"price": 169,
+		"category": "Furniture",
+		"defname": "Table_DarkLightEndTable"
+	},
+	{
+		"abr": "decorativeplantpot",
+		"price": 143,
+		"category": "Art",
+		"defname": "VFE_DecorativePlantPot"
+	},
+	{
+		"abr": "double-agedwhiskey",
+		"price": 100,
+		"category": "Drugs",
+		"defname": "VBE_DoubleWhiskey"
+	},
+	{
+		"abr": "drugcabinet",
+		"price": 700,
+		"category": "Misc",
+		"defname": "VFE_DrugCabinet"
+	},
+	{
+		"abr": "electricbutcher",
+		"price": 492,
+		"category": "Production",
+		"defname": "VFE_TableButcherElectric"
+	},
+	{
+		"abr": "electricdruglab",
+		"price": 1292,
+		"category": "Production",
+		"defname": "VFE_TableDrugLabElectric"
+	},
+	{
+		"abr": "electricstonecutter'stable",
+		"price": 1033,
+		"category": "Production",
+		"defname": "VFE_TableStonecutterElectric"
+	},
+	{
+		"abr": "energydrink",
+		"price": 22,
+		"category": "Drugs",
+		"defname": "VBE_EnergyDrink"
+	},
+	{
+		"abr": "fabricationcabinet",
+		"price": 433,
+		"category": "Misc",
+		"defname": "VFE_FabricationCabinet"
+	},
+	{
+		"abr": "finecocktail",
+		"price": 33,
+		"category": "Meals",
+		"defname": "VBE_FineCocktail"
+	},
+	{
+		"abr": "fueledsmelter",
+		"price": 550,
+		"category": "Production",
+		"defname": "VFE_FueledSmelter"
+	},
+	{
+		"abr": "garliccloves",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawGarlic"
+	},
+	{
+		"abr": "gasfloodlight",
+		"price": 255,
+		"category": "Furniture",
+		"defname": "VPE_GasFloodlight"
+	},
+	{
+		"abr": "gasheater",
+		"price": 218,
+		"category": "Temperature",
+		"defname": "VPE_GasHeater"
+	},
+	{
+		"abr": "gaspoweredexcavator",
+		"price": 483,
+		"category": "Production",
+		"defname": "VPE_GasDrill"
+	},
+	{
+		"abr": "gassunlamp",
+		"price": 160,
+		"category": "Furniture",
+		"defname": "VPE_GasSunLamp"
+	},
+	{
+		"abr": "gastank",
+		"price": 321,
+		"category": "Power",
+		"defname": "VPE_GasTank"
+	},
+	{
+		"abr": "gaswalldarklight",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "VPE_GasWallDarkLight"
+	},
+	{
+		"abr": "gaswalllight",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "VPE_GasWallLight"
+	},
+	{
+		"abr": "gin",
+		"price": 20,
+		"category": "Drugs",
+		"defname": "VBE_Gin"
+	},
+	{
+		"abr": "ginmush",
+		"price": 4,
+		"category": "Musts and syrups",
+		"defname": "VBE_GinMush"
+	},
+	{
+		"abr": "ginstill",
+		"price": 183,
+		"category": "Production",
+		"defname": "VBE_GinStill"
+	},
+	{
+		"abr": "go-juicestock",
+		"price": 150,
+		"category": "Condiments",
+		"defname": "VBE_GoJuiceStock"
+	},
+	{
+		"abr": "gourmetcocktail",
+		"price": 125,
+		"category": "Meals",
+		"defname": "VBE_GourmetCocktail"
+	},
+	{
+		"abr": "grandrug",
+		"price": 883,
+		"category": "Art",
+		"defname": "VFE_RugGrand"
+	},
+	{
+		"abr": "grandstatue",
+		"price": 1125,
+		"category": "Art",
+		"defname": "VFE_StatueGrand"
+	},
+	{
+		"abr": "grapemust",
+		"price": 4,
+		"category": "Manufactured",
+		"defname": "VFEM_Must"
+	},
+	{
+		"abr": "grapes",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VFEM_RawGrapes"
+	},
+	{
+		"abr": "greenbeans",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawBeans"
+	},
+	{
+		"abr": "heatershield",
+		"price": 367,
+		"category": "Shields",
+		"defname": "VFEM_Shield_Heater"
+	},
+	{
+		"abr": "heavycrossbow",
+		"price": 417,
+		"category": "Ranged weapons",
+		"defname": "VFEM_Bow_HeavyCrossbow"
+	},
+	{
+		"abr": "heavymace",
+		"price": 289,
+		"category": "Melee weapons",
+		"defname": "VFEM_MeleeWeapon_HeavyMace"
+	},
+	{
+		"abr": "heavyplatearmor",
+		"price": 1158,
+		"category": "Armor",
+		"defname": "VFEM_Apparel_PlateArmorHeavy"
+	},
+	{
+		"abr": "heavyplatehelmet",
+		"price": 305,
+		"category": "Headgear",
+		"defname": "VFEM_Apparel_PlateHelmetHeavy"
+	},
+	{
+		"abr": "helixiengassmelter",
+		"price": 667,
+		"category": "Production",
+		"defname": "VPE_GasSmelter"
+	},
+	{
+		"abr": "helixiengassmithy",
+		"price": 492,
+		"category": "Production",
+		"defname": "VPE_GasSmithy"
+	},
+	{
+		"abr": "helixiengasstove",
+		"price": 375,
+		"category": "Production",
+		"defname": "VPE_GasStove"
+	},
+	{
+		"abr": "hologrambase",
+		"price": 467,
+		"category": "Art",
+		"defname": "HologramBase"
+	},
+	{
+		"abr": "icedcoffee",
+		"price": 15,
+		"category": "Drugs",
+		"defname": "VBE_IceCoffee"
+	},
+	{
+		"abr": "intravenousdripstand",
+		"price": 296,
+		"category": "Misc",
+		"defname": "Facility_IVDrip"
+	},
+	{
+		"abr": "jesterhat",
+		"price": 111,
+		"category": "Headgear",
+		"defname": "VFEM_Apparel_JesterHat"
+	},
 	],
-	"total": 2181
+	"total": 2259
 }
