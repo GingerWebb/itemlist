@@ -534,12 +534,6 @@
     "version": null
   },
   {
-    "author": "SalmonToastie",
-    "name": "Forgotten Realms - Minotaur",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "miyamiya",
     "name": "Compressed Raid",
     "steamId": "2377478084",
@@ -790,5 +784,41 @@
     "name": "HD Pawn Rendering",
     "steamId": "2538746878",
     "version": "1.0.0"
+  },
+  {
+    "author": "Tasty Lollipop",
+    "name": "Open World",
+    "steamId": "2768146099",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SalmonToastie",
+    "name": "Forgotten Realms - Minotaur",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AOBA",
+    "name": "Moyo-Light in the Abyss",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson and  AFriend",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitPolls",
+    "steamId": "2435838514",
+    "version": "1.1.1.6"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitResearch",
+    "steamId": "2312827542",
+    "version": "1.0.3.2"
   }
 ]
