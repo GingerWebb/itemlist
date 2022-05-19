@@ -3911,66 +3911,6 @@
       "degree": 0
     },
     {
-      "description": "Timmy has made an unbreakable contract. he will return from the dead to serve the King in Yellow that rules the lost city of Carcosa.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Call of Cthulhu - Cults",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Cults_OathtakerHastur",
-      "name": "oathtaker",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1,
-      "degree": 0
-    },
-    {
-      "description": "Timmy has risen from the dead to serve once again.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Call of Cthulhu - Cults",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Cults_OathtakerHastur2",
-      "name": "reanimated",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1,
-      "degree": 0
-    },
-    {
       "description": "Timmy is the descendant of a designer mate. Though most of his ancestral traits are diluted, he is still extremely beautiful and cheerful.",
       "stats": [
         "+3.0 beauty"
@@ -50195,31 +50135,6 @@
     {
       "data": {
         "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+$0 Market value",
-          "+3.50 Move speed",
-          "+0% Psychic sensitivity",
-          "-10.0% Armor - Blunt",
-          "-15.0% Armor - Sharp",
-          "-180.0F Minimum comfortable temperature",
-          "+180.0F Maximum comfortable temperature",
-          "+20 Leather amount",
-          "+0 Meat amount"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Whether due to scientific experimentation, occult interference, or comic fluke, these are poor souls for whom death has been abjured.",
-      "defName": "ReanimatedCorpse",
-      "enabled": false,
-      "name": "reanimatedcorpse",
-      "price": 2000
-    },
-    {
-      "data": {
-        "stats": [
           "+35.00 Mass",
           "+10% Flammability",
           "+$1500 Market value",
@@ -50267,31 +50182,6 @@
       "defName": "FR_Alien_Squamata",
       "enabled": true,
       "name": "Squamata",
-      "price": 2000
-    },
-    {
-      "data": {
-        "stats": [
-          "+55.00 Mass",
-          "+10% Flammability",
-          "+$1800 Market value",
-          "+4.10 Move speed",
-          "+9.0F Minimum comfortable temperature",
-          "+99.0F Maximum comfortable temperature",
-          "+40 Leather amount",
-          "+30.0% Armor - Blunt",
-          "+10.0% Armor - Sharp",
-          "+100% Psychic sensitivity",
-          "+110% Mining speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Loxos are a large humanoid crossed with elephants with trunks and bluish-gray skin. Peaceful in nature, Loxos are mostly an isolationist race and most of the time refused contact with other sentient races.",
-      "defName": "FR_Alien_Loxo",
-      "enabled": true,
-      "name": "Loxo",
       "price": 2000
     },
     {
@@ -51105,7 +50995,7 @@
       "defName": "Alien_Moyo",
       "enabled": true,
       "name": "Moyo",
-      "price": 3000
+      "price": 2000
     },
     {
       "data": {
@@ -51215,7 +51105,7 @@
       "defName": "Deathkap_Race",
       "enabled": true,
       "name": "Deathkap",
-      "price": 3333
+      "price": 2000
     },
     {
       "data": {
@@ -51242,7 +51132,7 @@
       "defName": "Folia_Race",
       "enabled": true,
       "name": "Folia",
-      "price": 3333
+      "price": 2000
     },
     {
       "data": {
@@ -51271,7 +51161,7 @@
       "defName": "Potatoid_Race",
       "enabled": true,
       "name": "Potatoid",
-      "price": 3333
+      "price": 2000
     },
     {
       "data": {
