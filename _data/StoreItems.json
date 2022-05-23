@@ -70,19 +70,19 @@
       "abr": "archotecheye",
       "category": "Archotech",
       "defname": "ArchotechEye",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "archotecharm",
       "category": "Archotech",
       "defname": "ArchotechArm",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "archotechleg",
       "category": "Archotech",
       "defname": "ArchotechLeg",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "bioniceye",
@@ -124,7 +124,7 @@
       "abr": "deathacidifier",
       "category": "Bionic",
       "defname": "DeathAcidifier",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "bionicear",
@@ -196,7 +196,7 @@
       "abr": "joywire",
       "category": "Prosthetic",
       "defname": "Joywire",
-      "price": 367
+      "price": -10
     },
     {
       "abr": "painstopper",
@@ -1534,7 +1534,7 @@
       "abr": "incendiarylauncher",
       "category": "Ranged weapons",
       "defname": "Gun_IncendiaryLauncher",
-      "price": 567
+      "price": -10
     },
     {
       "abr": "smokelauncher",
@@ -1642,13 +1642,13 @@
       "abr": "chargerifle",
       "category": "Ranged weapons",
       "defname": "Gun_ChargeRifle",
-      "price": 1683
+      "price": -10
     },
     {
       "abr": "chargelance",
       "category": "Ranged weapons",
       "defname": "Gun_ChargeLance",
-      "price": 2258
+      "price": -10
     },
     {
       "abr": "orbitalbombardmenttargeter",
@@ -2146,13 +2146,13 @@
       "abr": "circadianassistant",
       "category": "Bionic",
       "defname": "CircadianAssistant",
-      "price": 1717
+      "price": -10
     },
     {
       "abr": "circadianhalf-cycler",
       "category": "Bionic",
       "defname": "CircadianHalfCycler",
-      "price": 1717
+      "price": -10
     },
     {
       "abr": "mindscrew",
@@ -2410,73 +2410,73 @@
       "abr": "prestigereconarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorReconPrestige",
-      "price": 3292
+      "price": -10
     },
     {
       "abr": "prestigereconhelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetReconPrestige",
-      "price": 1192
+      "price": -10
     },
     {
       "abr": "prestigemarinearmor",
       "category": "Armor",
       "defname": "Apparel_ArmorMarinePrestige",
-      "price": 4217
+      "price": -10
     },
     {
       "abr": "prestigemarinehelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorMarineHelmetPrestige",
-      "price": 1417
+      "price": -10
     },
     {
       "abr": "cataphractarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorCataphract",
-      "price": 5200
+      "price": -10
     },
     {
       "abr": "cataphracthelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetCataphract",
-      "price": 1242
+      "price": -10
     },
     {
       "abr": "prestigecataphractarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorCataphractPrestige",
-      "price": 6550
+      "price": -10
     },
     {
       "abr": "prestigecataphracthelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetCataphractPrestige",
-      "price": 1925
+      "price": -10
     },
     {
       "abr": "locustarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorLocust",
-      "price": 3717
+      "price": -10
     },
     {
       "abr": "grenadierarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorMarineGrenadier",
-      "price": 3842
+      "price": -10
     },
     {
       "abr": "phoenixarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorCataphractPhoenix",
-      "price": 5800
+      "price": -10
     },
     {
       "abr": "gunlink",
       "category": "Headgear",
       "defname": "Apparel_Gunlink",
-      "price": 575
+      "price": -10
     },
     {
       "abr": "personamonosword",
@@ -2524,7 +2524,7 @@
       "abr": "plasmasword",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_PlasmaSword",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "orbitalmechclustertargeter",
@@ -2872,7 +2872,7 @@
       "abr": "hilt",
       "category": "Inert relics",
       "defname": "RelicInertSwordHandle",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "ark",
@@ -4006,13 +4006,13 @@
       "abr": "thrumboaxe",
       "category": "Melee",
       "defname": "TM_ThrumboAxe",
-      "price": 7750
+      "price": -10
     },
     {
       "abr": "thrumbosaber",
       "category": "Melee",
       "defname": "TM_ThrumboSaber",
-      "price": 5833
+      "price": -10
     },
     {
       "abr": "glorymaul",
@@ -5308,7 +5308,7 @@
       "abr": "smarttoilet",
       "category": "Hygiene",
       "defname": "ToiletAdvStuff",
-      "price": 182
+      "price": -10
     },
     {
       "abr": "bathmat",
@@ -5338,7 +5338,7 @@
       "abr": "powershower",
       "category": "Hygiene",
       "defname": "ShowerAdvStuff",
-      "price": 170
+      "price": -10
     },
     {
       "abr": "hottub",
@@ -7108,13 +7108,13 @@
       "abr": "triplerocketlauncher",
       "category": "Ranged weapons",
       "defname": "Gun_TripleRocket",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "doomsdayrocketlauncher",
       "category": "Ranged weapons",
       "defname": "Gun_DoomsdayRocket",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "rocketlauncher",
@@ -7150,13 +7150,13 @@
       "abr": "grenadelauncher",
       "category": "Ranged weapons",
       "defname": "VWE_Gun_GrenadeLauncher",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "flamethrower",
       "category": "Ranged weapons",
       "defname": "VWE_Gun_Flamethrower",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "fireextinguisher",
@@ -7192,7 +7192,7 @@
       "abr": "hmg",
       "category": "Ranged weapons",
       "defname": "VWE_Gun_HMG",
-      "price": 800
+      "price": -10
     },
     {
       "abr": "servicerifle",
@@ -7222,7 +7222,7 @@
       "abr": "anti-materialrifle",
       "category": "Ranged weapons",
       "defname": "VWE_Gun_AntiMaterialRifle",
-      "price": 1717
+      "price": -10
     },
     {
       "abr": "crossbow",
@@ -7270,43 +7270,43 @@
       "abr": "chargepistol",
       "category": "Ranged weapons",
       "defname": "VWE_Gun_ChargePistol",
-      "price": 1008
+      "price": -10
     },
     {
       "abr": "chargeshotgun",
       "category": "Ranged weapons",
       "defname": "VWE_Gun_ChargeShotgun",
-      "price": 1683
+      "price": -10
     },
     {
       "abr": "chargesmg",
       "category": "Ranged weapons",
       "defname": "VWE_Gun_ChargeSMG",
-      "price": 1508
+      "price": -10
     },
     {
       "abr": "chargelmg",
       "category": "Ranged weapons",
       "defname": "VWE_Gun_ChargeLMG",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "chargesniperrifle",
       "category": "Ranged weapons",
       "defname": "VWE_Gun_ChargeSniperRifle",
-      "price": 2050
+      "price": -10
     },
     {
       "abr": "chargeminigun",
       "category": "Ranged weapons",
       "defname": "VWE_Gun_ChargeMinigun",
-      "price": 5458
+      "price": -10
     },
     {
       "abr": "chargerocketlauncher",
       "category": "Ranged weapons",
       "defname": "VWE_Gun_ChargeRocketLauncher",
-      "price": 11667
+      "price": -10
     },
     {
       "abr": "barber'stable",
@@ -8386,7 +8386,7 @@
       "abr": "archotechnagatail",
       "category": "Archotech",
       "defname": "ArchotechNagaTail",
-      "price": 9333
+      "price": -10
     },
     {
       "abr": "simplemeal(meat)",
@@ -8416,7 +8416,7 @@
       "abr": "plasmashotgun",
       "category": "Ranged weapons",
       "defname": "Gun_NagaShotgun",
-      "price": 592
+      "price": -10
     },
     {
       "abr": "plasmarifle",
@@ -8668,7 +8668,7 @@
       "abr": "abysstechheart",
       "category": "Bionic",
       "defname": "Moyo_AdvancedHeart",
-      "price": 3708
+      "price": -10
     },
     {
       "abr": "abyssteel",
@@ -8704,7 +8704,7 @@
       "abr": "moyopiledriver",
       "category": "Moyo melee weapons",
       "defname": "Moyo_Piledriver",
-      "price": 717
+      "price": -10
     },
     {
       "abr": "moyobattleaxe",
@@ -8722,7 +8722,7 @@
       "abr": "moyoroyalbattleaxe",
       "category": "Moyo ranged weapons",
       "defname": "Moyo_GDSpear",
-      "price": 2867
+      "price": -10
     },
     {
       "abr": "moyoroyalpowerfist",
@@ -8758,37 +8758,37 @@
       "abr": "moyobalista",
       "category": "Moyo ranged weapons",
       "defname": "Moyo_BoltCaster",
-      "price": 2783
+      "price": -10
     },
     {
       "abr": "moyoautocannon",
       "category": "Moyo ranged weapons",
       "defname": "Moyo_AutoCannon",
-      "price": 2900
+      "price": -10
     },
     {
       "abr": "moyoroyalchargerifle",
       "category": "Moyo ranged weapons",
       "defname": "Moyo_HeavyChargeRifle",
-      "price": 2683
+      "price": -10
     },
     {
       "abr": "moyoroyalautocannon",
       "category": "Moyo ranged weapons",
       "defname": "Moyo_HeavyAutoCannon",
-      "price": 3717
+      "price": -10
     },
     {
       "abr": "moyoroyalbalista",
       "category": "Moyo ranged weapons",
       "defname": "Moyo_HeavyBoltCaster",
-      "price": 3717
+      "price": -10
     },
     {
       "abr": "moyocryoblaster",
       "category": "Moyo ranged weapons",
       "defname": "Moyo_CryoBlaster",
-      "price": 2783
+      "price": -10
     },
     {
       "abr": "deepbluestation",
@@ -8944,7 +8944,7 @@
       "abr": "deathkapspear",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_FungiSpear",
-      "price": 322
+      "price": -10
     },
     {
       "abr": "folialeather",
@@ -8992,7 +8992,7 @@
       "abr": "prosthetictentacle",
       "category": "Prosthetic",
       "defname": "SimpleProstheticTentacle",
-      "price": 433
+      "price": -10
     },
     {
       "abr": "moonjellybell",
@@ -9670,7 +9670,7 @@
       "abr": "last-wish",
       "category": "Drugs",
       "defname": "USH_LastWish",
-      "price": 275
+      "price": -10
     },
     {
       "abr": "lifter",
@@ -9934,7 +9934,7 @@
       "abr": "archotechviolencegenerator",
       "category": "Special",
       "defname": "VPE_ArchotechViolenceGenerator",
-      "price": 5667
+      "price": -10
     },
     {
       "abr": "walrustusk",
@@ -11170,7 +11170,7 @@
       "abr": "psytrainer(chunkskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Chunkskip",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "skilltrainer(shooting)",
@@ -11398,7 +11398,7 @@
       "abr": "moyochargeaccelerator",
       "category": "Moyo ranged weapons",
       "defname": "RedMoyo_MilitaryHeavyRifle",
-      "price": 3200
+      "price": -10
     },
     {
       "abr": "moyocivilrifle",
@@ -11428,7 +11428,7 @@
       "abr": "moyoharpoon",
       "category": "Moyo melee weapons",
       "defname": "RedMoyo_AlloyHarpoon",
-      "price": 858
+      "price": -10
     },
     {
       "abr": "moyohelmet",
@@ -11446,7 +11446,7 @@
       "abr": "moyokineticclamp",
       "category": "Moyo melee weapons",
       "defname": "RedMoyo_KineticClamp",
-      "price": 717
+      "price": -10
     },
     {
       "abr": "moyomilitaryprecisionrifle",
