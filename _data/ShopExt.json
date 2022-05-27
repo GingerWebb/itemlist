@@ -13595,12 +13595,12 @@
         ],
         "mod": "Unknown",
         "karmaType": null,
-        "customName": false
+        "customName": true
       },
       "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
       "defName": "Skrix",
       "enabled": true,
-      "name": "Skrix",
+      "name": "skrix(worker)",
       "price": 2000
     },
     {
@@ -13636,12 +13636,12 @@
         ],
         "mod": "Unknown",
         "karmaType": null,
-        "customName": false
+        "customName": true
       },
       "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
       "defName": "Skrix_Noble",
       "enabled": false,
-      "name": "Skrix",
+      "name": "skrix(noble)",
       "price": 2000
     },
     {
@@ -13677,12 +13677,12 @@
         ],
         "mod": "Unknown",
         "karmaType": null,
-        "customName": false
+        "customName": true
       },
       "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
       "defName": "Skrix_Soldier",
       "enabled": false,
-      "name": "Skrix",
+      "name": "skrix(solider)",
       "price": 2000
     },
     {
@@ -13718,12 +13718,12 @@
         ],
         "mod": "Unknown",
         "karmaType": null,
-        "customName": false
+        "customName": true
       },
       "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
       "defName": "Skrix_Royal",
       "enabled": false,
-      "name": "Skrix",
+      "name": "skrix(royal)",
       "price": 2000
     },
     {
