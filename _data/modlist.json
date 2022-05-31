@@ -634,5 +634,23 @@
     "name": "Zoltan race",
     "steamId": "2032477436",
     "version": "0.15.1.0"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Storytellers Expanded - Maynard Medieval",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vanilla Expanded team",
+    "name": "Vanilla Factions Expanded - Vikings",
+    "steamId": "2231295285",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Orpheusly",
+    "name": "Rimsential - Homebound",
+    "steamId": null,
+    "version": null
   }
 ]
