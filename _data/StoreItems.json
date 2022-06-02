@@ -3944,7 +3944,7 @@
 	},
 	{
 		"abr": "fermentedrottingmound",
-		"price": 2,
+		"price": -10,
 		"category": "Vegetarian",
 		"defname": "AA_RottingMoundItem"
 	},
@@ -6649,12 +6649,6 @@
 		"defname": "MeleeWeapon_PlasmaSword"
 	},
 	{
-		"abr": "plasmorph",
-		"price": 250,
-		"category": "Animals",
-		"defname": "AA_Plasmorph"
-	},
-	{
 		"abr": "plasteel",
 		"price": 15,
 		"category": "Raw resources",
@@ -6764,37 +6758,37 @@
 	},
 	{
 		"abr": "ancientbarrel",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientBarrel"
 	},
 	{
 		"abr": "ancientbed",
-		"price": 5,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientBed"
 	},
 	{
 		"abr": "ancientcentipedeshell",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientCentipedeShell"
 	},
 	{
 		"abr": "ancientcontainer",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientContainer"
 	},
 	{
 		"abr": "ancientcrate",
-		"price": 2,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientCrate"
 	},
 	{
 		"abr": "ancientdisplaybank",
-		"price": 9,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientDisplayBank"
 	},
@@ -6806,7 +6800,7 @@
 	},
 	{
 		"abr": "ancientequipmentblocks",
-		"price": 12,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientEquipmentBlocks"
 	},
@@ -6818,7 +6812,7 @@
 	},
 	{
 		"abr": "ancientgenerator",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientGenerator"
 	},
@@ -6848,7 +6842,7 @@
 	},
 	{
 		"abr": "ancientlockerbank",
-		"price": 5,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientLockerBank"
 	},
@@ -6860,7 +6854,7 @@
 	},
 	{
 		"abr": "ancientmachine",
-		"price": 18,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientMachine"
 	},
@@ -6872,25 +6866,25 @@
 	},
 	{
 		"abr": "ancientmechdropbeacon",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientMechDropBeacon"
 	},
 	{
 		"abr": "ancientmechanoidshell",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientMechanoidShell"
 	},
 	{
 		"abr": "ancientmega-cannonbarrel",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientMegaCannonBarrel"
 	},
 	{
 		"abr": "ancientmega-cannonplatform",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientMegaCannonTripod"
 	},
@@ -6902,19 +6896,19 @@
 	},
 	{
 		"abr": "ancientmilitarycrate",
-		"price": 2,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientMilitaryCrate"
 	},
 	{
 		"abr": "ancientnavbeacon",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientShipBeacon"
 	},
 	{
 		"abr": "ancientoperatingtable",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientOperatingTable"
 	},
@@ -6926,7 +6920,7 @@
 	},
 	{
 		"abr": "ancientpipes",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientPipes"
 	},
@@ -6938,7 +6932,7 @@
 	},
 	{
 		"abr": "ancientrazorwire",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientRazorWire"
 	},
@@ -6950,7 +6944,7 @@
 	},
 	{
 		"abr": "ancientsecurityturret",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientSecurityTurret"
 	},
@@ -6968,19 +6962,19 @@
 	},
 	{
 		"abr": "ancientspacejunk",
-		"price": 2,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientSpaceJunk"
 	},
 	{
 		"abr": "ancientspacercrate",
-		"price": 2,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientSpacerCrate"
 	},
 	{
 		"abr": "ancientstoragecylinder",
-		"price": 12,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientStorageCylinder"
 	},
@@ -6992,13 +6986,13 @@
 	},
 	{
 		"abr": "ancientsystemrack",
-		"price": 9,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientSystemRack"
 	},
 	{
 		"abr": "ancienttanktrap",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientTankTrap"
 	},
@@ -7099,12 +7093,6 @@
 		"defname": "RF_ArcaneCraftingBench"
 	},
 	{
-		"abr": "awakenedbarkskindryad",
-		"price": 500,
-		"category": "Animals",
-		"defname": "VDE_AwakenedDryad_Barkskin"
-	},
-	{
 		"abr": "awakenedberrymakerdryad",
 		"price": 500,
 		"category": "Animals",
@@ -7115,12 +7103,6 @@
 		"price": 500,
 		"category": "Animals",
 		"defname": "VDE_AwakenedDryad_Carrier"
-	},
-	{
-		"abr": "awakenedclawerdryad",
-		"price": 500,
-		"category": "Animals",
-		"defname": "VDE_AwakenedDryad_Clawer"
 	},
 	{
 		"abr": "awakenedgaubricmakerdryad",
@@ -7139,12 +7121,6 @@
 		"price": 500,
 		"category": "Animals",
 		"defname": "VDE_AwakenedDryad_Nectarmaker"
-	},
-	{
-		"abr": "awakenedspitterdryad",
-		"price": 500,
-		"category": "Animals",
-		"defname": "VDE_AwakenedDryad_Spitter"
 	},
 	{
 		"abr": "awakenedstonediggerdryad",
@@ -7310,7 +7286,7 @@
 	},
 	{
 		"abr": "deathkapvessel",
-		"price": 12,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "DeathkapVessel"
 	},
@@ -8054,7 +8030,7 @@
 	},
 	{
 		"abr": "potatoidvessel",
-		"price": 12,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "PotatoidVessel"
 	},
@@ -8833,18 +8809,6 @@
 		"defname": "Meat_Raccoon"
 	},
 	{
-		"abr": "advancedbattery",
-		"price": 725,
-		"category": "Power",
-		"defname": "ZoltanT1Battery"
-	},
-	{
-		"abr": "perfectedbattery",
-		"price": 1083,
-		"category": "Power",
-		"defname": "ZoltanT2Battery"
-	},
-	{
 		"abr": "radiator",
 		"price": 85,
 		"category": "Hygiene",
@@ -9428,7 +9392,7 @@
 	},
 	{
 		"abr": "sandstonechunk",
-		"price": 4,
+		"price": -10,
 		"category": "Stone chunks",
 		"defname": "ChunkSandstone"
 	},
@@ -9673,12 +9637,6 @@
 		"defname": "Apparel_ShieldBelt"
 	},
 	{
-		"abr": "shieldbench",
-		"price": 2300,
-		"category": "Production",
-		"defname": "LTF_ShieldBench"
-	},
-	{
 		"abr": "shieldcore",
 		"price": 583,
 		"category": "Items",
@@ -9689,12 +9647,6 @@
 		"price": 207,
 		"category": "Utility",
 		"defname": "Apparel_NagaShieldEmitter"
-	},
-	{
-		"abr": "shieldmet",
-		"price": 1858,
-		"category": "Headgear",
-		"defname": "LTF_shieldmet"
 	},
 	{
 		"abr": "shih-tzu",
@@ -10040,7 +9992,7 @@
 	},
 	{
 		"abr": "slatechunk",
-		"price": 4,
+		"price": -10,
 		"category": "Stone chunks",
 		"defname": "ChunkSlate"
 	},
@@ -10376,7 +10328,7 @@
 	},
 	{
 		"abr": "steel",
-		"price": 3,
+		"price": 1,
 		"category": "Raw resources",
 		"defname": "Steel"
 	},
@@ -11767,18 +11719,6 @@
 		"defname": "MeleeWeapon_Zeushammer"
 	},
 	{
-		"abr": "zoltan",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Alien_Zoltan"
-	},
-	{
-		"abr": "zoltanbattery",
-		"price": 550,
-		"category": "Power",
-		"defname": "ZoltanBattery"
-	},
-	{
 		"abr": "apiary",
 		"price": 318,
 		"category": "Misc",
@@ -11863,22 +11803,10 @@
 		"defname": "VFEV_Shield_Crypto"
 	},
 	{
-		"abr": "crystallizer",
-		"price": 1967,
-		"category": "Production",
-		"defname": "PS_Crystallizer"
-	},
-	{
 		"abr": "daneaxe",
 		"price": 450,
 		"category": "Melee weapons",
 		"defname": "VFE_MeleeWeapon_DaneAxe"
-	},
-	{
-		"abr": "digitizerfabricator",
-		"price": 1967,
-		"category": "Production",
-		"defname": "PS_DigitizerFabricator"
 	},
 	{
 		"abr": "doublefurbed",
@@ -12025,12 +11953,6 @@
 		"defname": "VFEV_MooseHeaddress"
 	},
 	{
-		"abr": "mysteriousgem",
-		"price": 333,
-		"category": "Items",
-		"defname": "PS_PawnCrystal"
-	},
-	{
 		"abr": "njorun",
 		"price": 11667,
 		"category": "Animals",
@@ -12053,24 +11975,6 @@
 		"price": 433,
 		"category": "Apparel",
 		"defname": "VFEV_Apparel_RoyalFurCoat"
-	},
-	{
-		"abr": "pawnstorage™disc",
-		"price": 333,
-		"category": "Items",
-		"defname": "PS_PawnDisc"
-	},
-	{
-		"abr": "pawnstorage™platform",
-		"price": 1967,
-		"category": "Production",
-		"defname": "PS_DigitizerPlatform"
-	},
-	{
-		"abr": "peculiarstand",
-		"price": 170,
-		"category": "Art",
-		"defname": "PS_PawnStatue"
 	},
 	{
 		"abr": "psychiccornucopia",
@@ -12150,6 +12054,216 @@
 		"category": "Meat",
 		"defname": "Meat_VFEV_Wolfhound"
 	},
+	{
+		"abr": "woolycow",
+		"price": 767,
+		"category": "Animals",
+		"defname": "VFEV_WoolyCow"
+	},
+	{
+		"abr": "animaldatabase",
+		"price": 154,
+		"category": "Misc",
+		"defname": "AM_AnimalDatabase"
+	},
+	{
+		"abr": "awakenedbarkskindryad",
+		"price": 500,
+		"category": "Animals",
+		"defname": "VDE_AwakenedDryad_Barkskin"
+	},
+	{
+		"abr": "awakenedclawerdryad",
+		"price": 500,
+		"category": "Animals",
+		"defname": "VDE_AwakenedDryad_Clawer"
+	},
+	{
+		"abr": "awakenedspitterdryad",
+		"price": 500,
+		"category": "Animals",
+		"defname": "VDE_AwakenedDryad_Spitter"
+	},
+	{
+		"abr": "blunttrap",
+		"price": 112,
+		"category": "Security",
+		"defname": "AM_TrapBlunt"
+	},
+	{
+		"abr": "buddhistslab(broad)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "AM_BuddhistSlab_Broad"
+	},
+	{
+		"abr": "buddhistslab(medium)",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "AM_BuddhistSlab_Medium"
+	},
+	{
+		"abr": "christianslab(broad)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "AM_ChristianSlab_Broad"
+	},
+	{
+		"abr": "christianslab(medium)",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "AM_ChristianSlab_Medium"
+	},
+	{
+		"abr": "corsairslab(broad)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "AM_CorsairSlab_Broad"
+	},
+	{
+		"abr": "corsairslab(medium)",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "AM_CorsairSlab_Medium"
+	},
+	{
+		"abr": "crudestonetable(1x2)",
+		"price": 98,
+		"category": "Furniture",
+		"defname": "AM_Neolithic_StoneTable_1x2c"
+	},
+	{
+		"abr": "crudestonetable(2x2)",
+		"price": 176,
+		"category": "Furniture",
+		"defname": "AM_Neolithic_StoneTable_2x2c"
+	},
+	{
+		"abr": "crudestonetable(2x4)",
+		"price": 333,
+		"category": "Furniture",
+		"defname": "AM_Neolithic_StoneTable_2x4c"
+	},
+	{
+		"abr": "crudestonetable(3x3)",
+		"price": 350,
+		"category": "Furniture",
+		"defname": "AM_Neolithic_StoneTable_3x3c"
+	},
+	{
+		"abr": "crudewoodentable(1x2)",
+		"price": 98,
+		"category": "Furniture",
+		"defname": "AM_Neolithic_WoodenTable_1x2c"
+	},
+	{
+		"abr": "crudewoodentable(2x2)",
+		"price": 176,
+		"category": "Furniture",
+		"defname": "AM_Neolithic_WoodenTable_2x2c"
+	},
+	{
+		"abr": "crudewoodentable(2x4)",
+		"price": 333,
+		"category": "Furniture",
+		"defname": "AM_Neolithic_WoodenTable_2x4c"
+	},
+	{
+		"abr": "crudewoodentable(3x3)",
+		"price": 350,
+		"category": "Furniture",
+		"defname": "AM_Neolithic_WoodenTable_3x3c"
+	},
+	{
+		"abr": "hinduslab(broad)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "AM_HinduSlab_Broad"
+	},
+	{
+		"abr": "hinduslab(medium)",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "AM_HinduSlab_Medium"
+	},
+	{
+		"abr": "islamicslab(broad)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "AM_IslamicSlab_Broad"
+	},
+	{
+		"abr": "islamicslab(medium)",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "AM_IslamicSlab_Medium"
+	},
+	{
+		"abr": "jainslab(broad)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "AM_JainSlab_Broad"
+	},
+	{
+		"abr": "jainslab(medium)",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "AM_JainSlab_Medium"
+	},
+	{
+		"abr": "jewishslab(broad)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "AM_JewishSlab_Broad"
+	},
+	{
+		"abr": "jewishslab(medium)",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "AM_JewishSlab_Medium"
+	},
+	{
+		"abr": "kemeticslab(broad)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "AM_KemeticSlab_Broad"
+	},
+	{
+		"abr": "kemeticslab(medium)",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "AM_KemeticSlab_Medium"
+	},
+	{
+		"abr": "megalith",
+		"price": 3033,
+		"category": "Misc",
+		"defname": "AM_Megalith"
+	},
+	{
+		"abr": "plasmorph",
+		"price": 250,
+		"category": "Animals",
+		"defname": "AA_Plasmorph"
+	},
+	{
+		"abr": "pristinelimestoneblocks",
+		"price": 2,
+		"category": "Stone blocks",
+		"defname": "AM_BlocksPristineLimestone"
+	},
+	{
+		"abr": "pyramid",
+		"price": 4800,
+		"category": "Art",
+		"defname": "AM_Pyramid"
+	},
+	{
+		"abr": "sikhslab(broad)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "AM_SikhSlab_Broad"
+	},
 	],
-	"total": 2026
+	"total": 2050
 }

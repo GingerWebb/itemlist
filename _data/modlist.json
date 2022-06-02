@@ -6,6 +6,12 @@
     "version": "1.3.0.0"
   },
   {
+    "author": "Samboy063",
+    "name": "BetterLoading",
+    "steamId": "1999454301",
+    "version": "3.3.0.0"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -16,12 +22,6 @@
     "name": "ToolkitCore",
     "steamId": "2018368654",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitRaids",
-    "steamId": "2091359241",
-    "version": "1.0.5.0"
   },
   {
     "author": "hodlhodl",
@@ -46,6 +46,18 @@
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "6.2.0.5"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitRaids",
+    "steamId": "2091359241",
+    "version": "1.0.5.0"
+  },
+  {
+    "author": "saschahi",
+    "name": "ToolkitAddon - More Stuff",
+    "steamId": "2594931182",
+    "version": "1.1.9"
   },
   {
     "author": "swemoney",
@@ -630,12 +642,6 @@
     "version": null
   },
   {
-    "author": "Gouda quiche",
-    "name": "Zoltan race",
-    "steamId": "2032477436",
-    "version": "0.15.1.0"
-  },
-  {
     "author": "Oskar Potocki",
     "name": "Vanilla Storytellers Expanded - Maynard Medieval",
     "steamId": null,
@@ -648,9 +654,9 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Orpheusly",
-    "name": "Rimsential - Homebound",
-    "steamId": null,
-    "version": null
+    "author": "Sarg Bjornson,  Helixien,  Cassie and  Luizi",
+    "name": "Alpha Memes",
+    "steamId": "2661356814",
+    "version": "1.0.0.0"
   }
 ]
