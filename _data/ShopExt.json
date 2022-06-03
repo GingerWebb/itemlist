@@ -12836,7 +12836,7 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": false,
+      "enabled": true,
       "name": "human",
       "price": 2000
     },
@@ -12871,7 +12871,7 @@
       },
       "description": "The Naga are a technologically advanced race without a functional goverment or law enforcement since their homeworld has become inhabitable.  This means they can be found mostly on space stations and ships and occassionally on Rimworlds as well.\n\nThey tend to work as mercenaries for the highest bidder and offer their superior skills with guns. Not just as excellent shooters, but also as weapon manufacturers. Their plasma technology is only rivaled by the charge weapons of glitterworlds. Naga are also known for their regenerative abilities and proficiency at disassembling mechanoids.\n\nDespite this their way of life does not go well with others and thus they struggle to find allies among other races.\n\nGood at: Shooting, Butchering, Mechanoid Disassembly, Psychics, Quality Crafting/Construction\nBad at: Melee, Plants, Animals, Enduring Pain",
       "defName": "Naga",
-      "enabled": false,
+      "enabled": true,
       "name": "naga",
       "price": 2000
     },
@@ -12903,7 +12903,7 @@
       },
       "description": "The violent and hostile Mantis appear, to Humans anyway, to resemble man-sized Praying Mantises, although they are much more aggressive than their namesakes. Whereas praying mantises kill prey merely to survive, the much larger and more intelligent Mantis race kill remorselessly to suit their own personal agendas- usually without survival as a concern, making for a pitiless and brutal insectoid warrior species.\n\nWhile humans and most other species have manufactured handheld weaponry to utilize in combat, the Mantis usually default to their agility, and sharpened exoskeletal appendages to tear through their enemies, and their skill as warriors goes almost unchallenged in 1v1 combat even against the rock species. The Mantis also possess extremely acidic saliva which can burn through flesh and melt most metal alloys.\n\nWhile Mantis excel at combat, especially personal combat, they are the least adept of all the races at technical repairs. They have overcome this problem by frequently taking Engi slaves. Engi slaves can be found on a majority of their bases and ships. Though some individual Mantises have been known to work with the Galactic Federation, the race as a whole tends to be deceptive, opportunistic and untrustworthy, and can commonly be found piloting their signature style of well armed spacecraft, hunting down weaker enemies in pursuit of their belongings. Human children are told tales of their red ships, and of the Mantis invasion of Earth.\n\n- 115% Speed\n- 130% Melee hit chance / 125% Shooting hit chance\n- 120% sharp damage / 105% Melee evasion\n- 75% Construction / 75% Drug production\n- 85% Mining / 90% Smelting Smithing Tailoring\n- Claws",
       "defName": "Alien_Mantis",
-      "enabled": false,
+      "enabled": true,
       "name": "Mantis",
       "price": 2000
     },
@@ -12939,7 +12939,7 @@
       },
       "description": "An Angel. These people are humans that got resurrected as angels by a special power that works in mysterious ways. These people are kind and full of love.",
       "defName": "Sandy_Angel",
-      "enabled": false,
+      "enabled": true,
       "name": "Angel",
       "price": 2000
     },
@@ -12977,7 +12977,7 @@
       },
       "description": "A Devil. These people are humans that got resurrected as devils by a special power that works in mysterious ways. These people are psychopaths and full of malice.",
       "defName": "Sandy_Devil",
-      "enabled": false,
+      "enabled": true,
       "name": "Devil",
       "price": 2000
     },
@@ -13010,7 +13010,7 @@
       },
       "description": "A humanoid race living in cities under the sea. Having traits similar to sea creatures, their blood contains substances that can be used for various medical uses.\n\nDescendants of glitterworld explorers who settled in the deep sea, generations of body modifications has led to their current form. Spreading far and wide into the rim, they built many cities and prospered. Until now.",
       "defName": "Alien_Moyo",
-      "enabled": false,
+      "enabled": true,
       "name": "Moyo",
       "price": 2000
     },
@@ -13167,7 +13167,7 @@
       },
       "description": "A subspecies of the Moyo race, usually babies born after a Moyo is fertilized by a creature infected with the deep-sea virus. And because the symbiotic virus affects, most of them have strange personalities, but not intrinsically bad.",
       "defName": "Alien_RedMoyo",
-      "enabled": false,
+      "enabled": true,
       "name": "Red Moyo",
       "price": 2000
     },
@@ -13190,7 +13190,7 @@
       },
       "description": "Minotaurs are giant humanoids with fur-covered bodies and bull-like heads. Minotaurs are surprisingly carnivores. They love to dwell within maze-like caverns or ruins, where their innate sense of direction prevented them from getting lost. They lure travelers into their ruins where they have an advantage over their unfortunate victims.",
       "defName": "FR_Alien_Minotaur",
-      "enabled": false,
+      "enabled": true,
       "name": "Minotaur",
       "price": 2000
     },
@@ -13215,7 +13215,7 @@
       },
       "description": "A race of humanoids that resemble spiders and are typically found in the Underdark.",
       "defName": "O21_FR_Chitine",
-      "enabled": false,
+      "enabled": true,
       "name": "Chitine",
       "price": 2000
     },
@@ -13239,7 +13239,7 @@
       },
       "description": "Drow, also known as dark elves, deep elves, night elves, or sometimes \"The Ones Who Went Below\" on the surface, were a dark-skinned sub-race of elves that predominantly lived in the Underdark. They were hated and feared due to their cruelty, though some non-evil and an even smaller number of good drow existed.",
       "defName": "O21_FR_DarkElf",
-      "enabled": false,
+      "enabled": true,
       "name": "Dark Elf",
       "price": 2000
     },
@@ -13262,7 +13262,7 @@
       },
       "description": "Dwarves, sometimes called the Stout Folk, were a natural humanoid race common throughout parts of Toril as well as Abeir. Dwarves were a tough, tradition-abiding folk known for their strong martial traditions and beautiful craftsmanship.",
       "defName": "O21_FR_Dwarf",
-      "enabled": false,
+      "enabled": true,
       "name": "Dwarf",
       "price": 2000
     },
@@ -13287,7 +13287,7 @@
       },
       "description": "A race of reclusive giant-kin, usually they prefer to avoid contact with other sentient races making them a very rare sight.",
       "defName": "O21_FR_Firbolg",
-      "enabled": false,
+      "enabled": true,
       "name": "Firbolg",
       "price": 2000
     },
@@ -13310,7 +13310,7 @@
       },
       "description": "The gith were a race of humanoids who had been enslaved by mind flayers for countless generations. Some sages claimed that they were once descended from humans, while others maintained that their original race was in fact unknown. After breaking free from their enslavement, philosophical differences led to a bitter internal conflict, which divided the gith into two main different races at constant odds with each other: the githyanki and the githzerai.",
       "defName": "O21_FR_Gith",
-      "enabled": false,
+      "enabled": true,
       "name": "Gith",
       "price": 2000
     },
@@ -13334,7 +13334,7 @@
       },
       "description": "Goblins were a race of small and numerous goblinoids common throughout Toril, often living in underground caverns near the surface known as lairs. The race was often, though not always, dominated by other goblinoids, most commonly hobgoblins. Goblins may have, in fact, been initially created by this related race to serve as scouts and infiltrators.",
       "defName": "O21_FR_Goblin",
-      "enabled": false,
+      "enabled": true,
       "name": "Goblin",
       "price": 2000
     },
@@ -13358,7 +13358,7 @@
       },
       "description": "Also known as Hin, or the \"quick folk\" amongst themselves, Halflings are small humanoid creatures, very similar in appearance to Humans, but around half their size.",
       "defName": "O21_FR_Halfling",
-      "enabled": false,
+      "enabled": true,
       "name": "Halfling",
       "price": 2000
     },
@@ -13381,7 +13381,7 @@
       },
       "description": "Half-orcs were humanoids born of both human and orc ancestry by a multitude of means. Having the combined physical power of their orcish ancestors with the agility of their humans ones, half-orcs were formidable individuals. Though they were often shunned in both human and orcish society for different reasons, half-orcs have proven themselves from time to time as worthy heroes and dangerous villains. Their existence implied an interesting backstory that most would not like to dwell on.",
       "defName": "O21_FR_HalfOrc",
-      "enabled": false,
+      "enabled": true,
       "name": "Half-Orc",
       "price": 2000
     },
@@ -13405,7 +13405,7 @@
       },
       "description": "Hobgoblins are a larger, stronger, smarter, and more menacing form of goblinoids than goblins, but not as powerful as bugbears. It is believed they may have created the latter two races.",
       "defName": "O21_FR_Hobgoblin",
-      "enabled": false,
+      "enabled": true,
       "name": "Hobgoblin",
       "price": 2000
     },
@@ -13429,7 +13429,7 @@
       },
       "description": "Illithids or \"Mind Flayers\" were humanoid in appearance but with an octopus-like, ridged head with four tentacles surrounding a lamprey-like mouth. They were warm-blooded amphibians, whose blood had a silvery-white color.\n\nTheir hands had long, reddish fingers and lacked the index finger, and their feet were two-toed and webbed. Illithid eyes were extremely sensitive to bright light, and they considered it painful, a characteristic that some githyanki scholars attributed to the fact that their alien anatomy focused light in a strange way. Their vision was also more sensitive to the recognition of geometric patterns than that of other humanoids.",
       "defName": "O21_FR_Illithid",
-      "enabled": false,
+      "enabled": true,
       "name": "Illithid",
       "price": 3333
     },
@@ -13452,7 +13452,7 @@
       },
       "description": "Killoren were a relatively new and uncommon race of fey. It was unknown whether they were created by a deity or were spontaneously created by nature itself.",
       "defName": "O21_FR_Killoren",
-      "enabled": false,
+      "enabled": true,
       "name": "Killoren",
       "price": 2000
     },
@@ -13479,7 +13479,7 @@
       },
       "description": "Aggressive, xenophobic, yet industrious small humanoid creatures, kobolds are noted for their skill at building traps and preparing ambushes.",
       "defName": "O21_FR_Kobold",
-      "enabled": false,
+      "enabled": true,
       "name": "Kobold",
       "price": 2000
     },
@@ -13503,7 +13503,7 @@
       },
       "description": "Moon elves, also known as Teu-tel-quessir in the elven language or as silver elves, were the most common of all the elven subraces. More tolerant of humans than other elves, moon elves were the ancestors of most half-elves.",
       "defName": "O21_FR_MoonElf",
-      "enabled": false,
+      "enabled": true,
       "name": "Moon Elf",
       "price": 2000
     },
@@ -13525,7 +13525,7 @@
       },
       "description": "Orcs were a race of humanoids that had been a threat to the civilized cultures of Toril, particularly Faerûn, for as long as any could remember. This changed somewhat in the years preceding and immediately after the Spellplague, when a horde of mountain orcs under the command of King Obould Many-Arrows unified into a single kingdom, one that was remarkably civilized.",
       "defName": "O21_FR_Orc",
-      "enabled": false,
+      "enabled": true,
       "name": "Orc",
       "price": 2000
     },
@@ -13552,7 +13552,7 @@
       },
       "description": "The sun elves, also sometimes known as gold elves, sometimes as high elves due to their stereotypically elitist ways, and Ar-tel-quessir in their own language were a subrace of high elves historically rare in Faerûn due to the Retreat, in which the majority abandoned the continent for Evermeet, although during the Era of Upheaval they began returning to the mainland. Haughty and arrogant, sun elves typically felt themselves superior to most other races, including other Tel-quessir.",
       "defName": "O21_FR_SunElf",
-      "enabled": false,
+      "enabled": true,
       "name": "Sun Elf",
       "price": 2000
     },
@@ -13575,7 +13575,7 @@
       },
       "description": "Tabaxi also known as jaguar people or cat-men, were a race of feline humanoids native to the jungles of Maztica.",
       "defName": "O21_FR_Tabaxi",
-      "enabled": false,
+      "enabled": true,
       "name": "Tabaxi",
       "price": 2000
     },
@@ -13600,7 +13600,7 @@
       },
       "description": "Tieflings were human-based planetouched, native outsiders that were infused with the touch of the fiendish planes, most often through descent from fiends—demons, Yugoloths, devils, evil deities, and others who had bred with humans. Tieflings were known for their cunning and personal allure, which made them excellent deceivers as well as inspiring leaders when prejudices were laid aside.",
       "defName": "O21_FR_Tiefling",
-      "enabled": false,
+      "enabled": true,
       "name": "Tiefling",
       "price": 2000
     },
@@ -13630,7 +13630,7 @@
       },
       "description": "The warforged were built to fight in the Last War. The first warforged were mindless automatons, but House Cannith devoted vast resources to improving these steel soldiers. An unexpected breakthrough produced fully sentient soldiers, blending organic and inorganic materials. Warforged are made from wood and metal, but they can feel pain and emotion. Built as weapons, they must now find a purpose beyond the war. A warforged can be a steadfast ally, a cold-hearted killing machine, or a visionary in search of purpose and meaning.",
       "defName": "O21_FR_Warforged",
-      "enabled": false,
+      "enabled": true,
       "name": "Warforged",
       "price": 2000
     },
@@ -13654,7 +13654,7 @@
       },
       "description": "Wood elves, also known as copper elves, or Or-tel-quessir were the most populous of the elven races. Wood elves saw themselves as guardians of the Tel-quessir forest homes that were largely abandoned after the Crown Wars and before the Retreat, but unlike most elves they did not view themselves as a people apart from the rest of Faerûn.",
       "defName": "O21_FR_WoodElf",
-      "enabled": false,
+      "enabled": true,
       "name": "Wood Elf",
       "price": 2000
     },
@@ -13695,8 +13695,8 @@
       },
       "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
       "defName": "Skrix",
-      "enabled": false,
-      "name": "skrix(worker)",
+      "enabled": true,
+      "name": "skrix",
       "price": 2000
     },
     {
@@ -13736,8 +13736,8 @@
       },
       "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
       "defName": "Skrix_Noble",
-      "enabled": false,
-      "name": "skrix(noble)",
+      "enabled": true,
+      "name": "skrix",
       "price": 4000
     },
     {
@@ -13777,8 +13777,8 @@
       },
       "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
       "defName": "Skrix_Soldier",
-      "enabled": false,
-      "name": "skrix(solider)",
+      "enabled": true,
+      "name": "skrix",
       "price": 3000
     },
     {
@@ -13818,8 +13818,8 @@
       },
       "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
       "defName": "Skrix_Royal",
-      "enabled": false,
-      "name": "skrix(royal)",
+      "enabled": true,
+      "name": "skrix",
       "price": 5000
     }
   ]

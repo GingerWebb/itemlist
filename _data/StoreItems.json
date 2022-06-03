@@ -3445,12 +3445,6 @@
 		"defname": "AA_AngelMothLarva"
 	},
 	{
-		"abr": "animacolossus",
-		"price": 1083,
-		"category": "Animals",
-		"defname": "AA_AnimaColossus"
-	},
-	{
 		"abr": "animalisk",
 		"price": 833,
 		"category": "Animals",
@@ -3623,12 +3617,6 @@
 		"price": 583,
 		"category": "Animals",
 		"defname": "AA_BoulderMit"
-	},
-	{
-		"abr": "bumbledrone",
-		"price": 583,
-		"category": "Animals",
-		"defname": "AA_Bumbledrone"
 	},
 	{
 		"abr": "bumbledroneegg(fert.)",
@@ -4361,12 +4349,6 @@
 		"price": 2,
 		"category": "Raw fish",
 		"defname": "VCEF_RawMackerel"
-	},
-	{
-		"abr": "mammothworm",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "AA_MammothWorm"
 	},
 	{
 		"abr": "mammothwormegg(fert.)",
@@ -5113,12 +5095,6 @@
 		"defname": "Light_ModernLamp"
 	},
 	{
-		"abr": "moribundgallatross",
-		"price": 1667,
-		"category": "Animals",
-		"defname": "AA_GallatrossMoribund"
-	},
-	{
 		"abr": "mothsilk",
 		"price": 9,
 		"category": "Textiles",
@@ -5336,7 +5312,7 @@
 	},
 	{
 		"abr": "ocularjelly",
-		"price": 417,
+		"price": -10,
 		"category": "Animals",
 		"defname": "AA_OcularJelly"
 	},
@@ -5441,12 +5417,6 @@
 		"price": 128,
 		"category": "Furniture",
 		"defname": "Light_Streetlamp"
-	},
-	{
-		"abr": "overgrowncolossus",
-		"price": 917,
-		"category": "Animals",
-		"defname": "AA_OvergrownColossus"
 	},
 	{
 		"abr": "overgrowncolossusmeat",
@@ -8942,7 +8912,7 @@
 	},
 	{
 		"abr": "redspore",
-		"price": 417,
+		"price": -10,
 		"category": "Animals",
 		"defname": "AA_RedSpore"
 	},
@@ -12264,6 +12234,132 @@
 		"category": "Furniture",
 		"defname": "AM_SikhSlab_Broad"
 	},
+	{
+		"abr": "sikhslab(medium)",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "AM_SikhSlab_Medium"
+	},
+	{
+		"abr": "steampunkslab(broad)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "AM_SteampunkSlab_Broad"
+	},
+	{
+		"abr": "steampunkslab(medium)",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "AM_SteampunkSlab_Medium"
+	},
+	{
+		"abr": "stone-framedbedroll",
+		"price": 159,
+		"category": "Furniture",
+		"defname": "AM_StoneBedroll"
+	},
+	{
+		"abr": "unshackleddryad",
+		"price": 417,
+		"category": "Animals",
+		"defname": "AM_UnshackledDryad"
+	},
+	{
+		"abr": "zombrella",
+		"price": 3333,
+		"category": "Misc",
+		"defname": "Zombrella"
+	},
+	{
+		"abr": "bumbledrone",
+		"price": 583,
+		"category": "Animals",
+		"defname": "AA_Bumbledrone"
+	},
+	{
+		"abr": "animacolossus",
+		"price": 1083,
+		"category": "Animals",
+		"defname": "AA_AnimaColossus"
+	},
+	{
+		"abr": "mammothworm",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "AA_MammothWorm"
+	},
+	{
+		"abr": "moribundgallatross",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "AA_GallatrossMoribund"
+	},
+	{
+		"abr": "overgrowncolossus",
+		"price": 917,
+		"category": "Animals",
+		"defname": "AA_OvergrownColossus"
+	},
+	{
+		"abr": "ammopack",
+		"price": 176,
+		"category": "Utility",
+		"defname": "VAEA_Apparel_AmmoPack"
+	},
+	{
+		"abr": "backpack",
+		"price": 181,
+		"category": "Utility",
+		"defname": "VAEA_Apparel_Backpack"
+	},
+	{
+		"abr": "battlebanner",
+		"price": 93,
+		"category": "Utility",
+		"defname": "VAEA_Apparel_BattleBanner"
+	},
+	{
+		"abr": "explosivebelt",
+		"price": 203,
+		"category": "Utility",
+		"defname": "VAEA_Apparel_ExplosiveBelt"
+	},
+	{
+		"abr": "medicbag",
+		"price": 132,
+		"category": "Utility",
+		"defname": "VAEA_Apparel_MedicBag"
+	},
+	{
+		"abr": "mini-turretpack",
+		"price": 194,
+		"category": "Utility",
+		"defname": "VAEA_Apparel_MiniTurretPack"
+	},
+	{
+		"abr": "quiver",
+		"price": 14,
+		"category": "Utility",
+		"defname": "VAEA_Apparel_Quiver"
+	},
+	{
+		"abr": "rangedshieldbelt",
+		"price": 650,
+		"category": "Utility",
+		"defname": "VAEA_Apparel_RangedShieldBelt"
+	},
+	{
+		"abr": "ressurectorbelt",
+		"price": 2833,
+		"category": "Utility",
+		"defname": "VAEA_Apparel_RessurectorBelt"
+	},
+	{
+		"abr": "toolbelt",
+		"price": 166,
+		"category": "Utility",
+		"defname": "VAEA_Apparel_ToolBelt"
+	}
 	],
-	"total": 2050
+	"total": 2060
 }
