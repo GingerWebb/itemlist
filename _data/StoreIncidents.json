@@ -82,7 +82,7 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 10000,
+		"price": 6500,
 		"karmatype": "Doom"
 	},
 	{
@@ -312,7 +312,7 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 20000,
+		"price": 22664,
 		"karmatype": "Good"
 	},
 	{
@@ -322,17 +322,12 @@
 	},
 	{
 		"abr": "healall",
-		"price": 15000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healanypawn",
-		"price": 2000,
+		"price": 20000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healme",
-		"price": 1500,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -412,7 +407,7 @@
 	},
 	{
 		"abr": "sanctuary",
-		"price": 25000,
+		"price": 20000,
 		"karmatype": "Good"
 	},
 	{
@@ -571,5 +566,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 114
+	"total": 113
 }

@@ -12836,7 +12836,7 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": true,
+      "enabled": false,
       "name": "human",
       "price": 2000
     },
@@ -12871,7 +12871,7 @@
       },
       "description": "The Naga are a technologically advanced race without a functional goverment or law enforcement since their homeworld has become inhabitable.  This means they can be found mostly on space stations and ships and occassionally on Rimworlds as well.\n\nThey tend to work as mercenaries for the highest bidder and offer their superior skills with guns. Not just as excellent shooters, but also as weapon manufacturers. Their plasma technology is only rivaled by the charge weapons of glitterworlds. Naga are also known for their regenerative abilities and proficiency at disassembling mechanoids.\n\nDespite this their way of life does not go well with others and thus they struggle to find allies among other races.\n\nGood at: Shooting, Butchering, Mechanoid Disassembly, Psychics, Quality Crafting/Construction\nBad at: Melee, Plants, Animals, Enduring Pain",
       "defName": "Naga",
-      "enabled": true,
+      "enabled": false,
       "name": "naga",
       "price": 2000
     },
@@ -12939,7 +12939,7 @@
       },
       "description": "An Angel. These people are humans that got resurrected as angels by a special power that works in mysterious ways. These people are kind and full of love.",
       "defName": "Sandy_Angel",
-      "enabled": true,
+      "enabled": false,
       "name": "Angel",
       "price": 2000
     },
@@ -12977,7 +12977,7 @@
       },
       "description": "A Devil. These people are humans that got resurrected as devils by a special power that works in mysterious ways. These people are psychopaths and full of malice.",
       "defName": "Sandy_Devil",
-      "enabled": true,
+      "enabled": false,
       "name": "Devil",
       "price": 2000
     },
@@ -13010,7 +13010,7 @@
       },
       "description": "A humanoid race living in cities under the sea. Having traits similar to sea creatures, their blood contains substances that can be used for various medical uses.\n\nDescendants of glitterworld explorers who settled in the deep sea, generations of body modifications has led to their current form. Spreading far and wide into the rim, they built many cities and prospered. Until now.",
       "defName": "Alien_Moyo",
-      "enabled": true,
+      "enabled": false,
       "name": "Moyo",
       "price": 2000
     },
@@ -13042,7 +13042,7 @@
       },
       "description": "A small friendly gelatinous being.\nMoonjellies are quick and nimble, and exceptionally skilled with medicine.\nBut be warned, their delicate bodies make them poor combatants and very vulnerable to danger.",
       "defName": "Moonjelly_Race",
-      "enabled": true,
+      "enabled": false,
       "name": "Moonjelly",
       "price": 2000
     },
@@ -13077,7 +13077,7 @@
       },
       "description": "A vat-grown underling created by the Folia to act as guards and raiders.\nVery combat proficient, these fungal organisms' toxic touch lets them defeat even strong foes in hand-to-hand combat.\nTheir skill in any other labor, however, leave much to be desired.\n+ Shooting Accuracy and Speed \n+Dodge Change\n+ No food debuffs\n+ Fast injury recovery\n- very slow worker",
       "defName": "Deathkap_Race",
-      "enabled": true,
+      "enabled": false,
       "name": "Deathkap",
       "price": 2000
     },
@@ -13104,7 +13104,7 @@
       },
       "description": "One of the regal and imposing Folia. Their plant-infused DNA lets them thrive in harsh temperatures and suppliment their diet with sunlight.\nThese xenohumans deign to involve themselves in hard labour, preferring to delegate tasks to their vat-grown underlings.\n+ Great at trade deals\n+ Low food needs\n+ Access to tech to grow worker units\n~ Huge social imapact\n- often unwilling to do many work types",
       "defName": "Folia_Race",
-      "enabled": true,
+      "enabled": false,
       "name": "Folia",
       "price": 2000
     },
@@ -13133,7 +13133,7 @@
       },
       "description": "A vat-grown underling created by the Folia to perform menial tasks.\nSlow learning, yet hard working and hardy, these plant-based grunts are effective workers.\n+ Bonus work speed\n+ low break threshold\n- Slow learning\n- Dumb",
       "defName": "Potatoid_Race",
-      "enabled": true,
+      "enabled": false,
       "name": "Potatoid",
       "price": 2000
     },
@@ -13167,7 +13167,7 @@
       },
       "description": "A subspecies of the Moyo race, usually babies born after a Moyo is fertilized by a creature infected with the deep-sea virus. And because the symbiotic virus affects, most of them have strange personalities, but not intrinsically bad.",
       "defName": "Alien_RedMoyo",
-      "enabled": true,
+      "enabled": false,
       "name": "Red Moyo",
       "price": 2000
     },
@@ -13216,7 +13216,7 @@
       },
       "description": "Drow, also known as dark elves, deep elves, night elves, or sometimes \"The Ones Who Went Below\" on the surface, were a dark-skinned sub-race of elves that predominantly lived in the Underdark. They were hated and feared due to their cruelty, though some non-evil and an even smaller number of good drow existed.",
       "defName": "O21_FR_DarkElf",
-      "enabled": true,
+      "enabled": false,
       "name": "Dark Elf",
       "price": 2000
     },
@@ -13239,7 +13239,7 @@
       },
       "description": "Dwarves, sometimes called the Stout Folk, were a natural humanoid race common throughout parts of Toril as well as Abeir. Dwarves were a tough, tradition-abiding folk known for their strong martial traditions and beautiful craftsmanship.",
       "defName": "O21_FR_Dwarf",
-      "enabled": true,
+      "enabled": false,
       "name": "Dwarf",
       "price": 2000
     },
@@ -13264,7 +13264,7 @@
       },
       "description": "A race of reclusive giant-kin, usually they prefer to avoid contact with other sentient races making them a very rare sight.",
       "defName": "O21_FR_Firbolg",
-      "enabled": true,
+      "enabled": false,
       "name": "Firbolg",
       "price": 2000
     },
@@ -13287,7 +13287,7 @@
       },
       "description": "The gith were a race of humanoids who had been enslaved by mind flayers for countless generations. Some sages claimed that they were once descended from humans, while others maintained that their original race was in fact unknown. After breaking free from their enslavement, philosophical differences led to a bitter internal conflict, which divided the gith into two main different races at constant odds with each other: the githyanki and the githzerai.",
       "defName": "O21_FR_Gith",
-      "enabled": true,
+      "enabled": false,
       "name": "Gith",
       "price": 2000
     },
@@ -13311,7 +13311,7 @@
       },
       "description": "Goblins were a race of small and numerous goblinoids common throughout Toril, often living in underground caverns near the surface known as lairs. The race was often, though not always, dominated by other goblinoids, most commonly hobgoblins. Goblins may have, in fact, been initially created by this related race to serve as scouts and infiltrators.",
       "defName": "O21_FR_Goblin",
-      "enabled": true,
+      "enabled": false,
       "name": "Goblin",
       "price": 2000
     },
@@ -13335,7 +13335,7 @@
       },
       "description": "Also known as Hin, or the \"quick folk\" amongst themselves, Halflings are small humanoid creatures, very similar in appearance to Humans, but around half their size.",
       "defName": "O21_FR_Halfling",
-      "enabled": true,
+      "enabled": false,
       "name": "Halfling",
       "price": 2000
     },
@@ -13358,7 +13358,7 @@
       },
       "description": "Half-orcs were humanoids born of both human and orc ancestry by a multitude of means. Having the combined physical power of their orcish ancestors with the agility of their humans ones, half-orcs were formidable individuals. Though they were often shunned in both human and orcish society for different reasons, half-orcs have proven themselves from time to time as worthy heroes and dangerous villains. Their existence implied an interesting backstory that most would not like to dwell on.",
       "defName": "O21_FR_HalfOrc",
-      "enabled": true,
+      "enabled": false,
       "name": "Half-Orc",
       "price": 2000
     },
@@ -13382,7 +13382,7 @@
       },
       "description": "Hobgoblins are a larger, stronger, smarter, and more menacing form of goblinoids than goblins, but not as powerful as bugbears. It is believed they may have created the latter two races.",
       "defName": "O21_FR_Hobgoblin",
-      "enabled": true,
+      "enabled": false,
       "name": "Hobgoblin",
       "price": 2000
     },
@@ -13406,7 +13406,7 @@
       },
       "description": "Illithids or \"Mind Flayers\" were humanoid in appearance but with an octopus-like, ridged head with four tentacles surrounding a lamprey-like mouth. They were warm-blooded amphibians, whose blood had a silvery-white color.\n\nTheir hands had long, reddish fingers and lacked the index finger, and their feet were two-toed and webbed. Illithid eyes were extremely sensitive to bright light, and they considered it painful, a characteristic that some githyanki scholars attributed to the fact that their alien anatomy focused light in a strange way. Their vision was also more sensitive to the recognition of geometric patterns than that of other humanoids.",
       "defName": "O21_FR_Illithid",
-      "enabled": true,
+      "enabled": false,
       "name": "Illithid",
       "price": 3333
     },
@@ -13429,7 +13429,7 @@
       },
       "description": "Killoren were a relatively new and uncommon race of fey. It was unknown whether they were created by a deity or were spontaneously created by nature itself.",
       "defName": "O21_FR_Killoren",
-      "enabled": true,
+      "enabled": false,
       "name": "Killoren",
       "price": 2000
     },
@@ -13456,7 +13456,7 @@
       },
       "description": "Aggressive, xenophobic, yet industrious small humanoid creatures, kobolds are noted for their skill at building traps and preparing ambushes.",
       "defName": "O21_FR_Kobold",
-      "enabled": true,
+      "enabled": false,
       "name": "Kobold",
       "price": 2000
     },
@@ -13480,7 +13480,7 @@
       },
       "description": "Moon elves, also known as Teu-tel-quessir in the elven language or as silver elves, were the most common of all the elven subraces. More tolerant of humans than other elves, moon elves were the ancestors of most half-elves.",
       "defName": "O21_FR_MoonElf",
-      "enabled": true,
+      "enabled": false,
       "name": "Moon Elf",
       "price": 2000
     },
@@ -13502,7 +13502,7 @@
       },
       "description": "Orcs were a race of humanoids that had been a threat to the civilized cultures of Toril, particularly Faerûn, for as long as any could remember. This changed somewhat in the years preceding and immediately after the Spellplague, when a horde of mountain orcs under the command of King Obould Many-Arrows unified into a single kingdom, one that was remarkably civilized.",
       "defName": "O21_FR_Orc",
-      "enabled": true,
+      "enabled": false,
       "name": "Orc",
       "price": 2000
     },
@@ -13529,7 +13529,7 @@
       },
       "description": "The sun elves, also sometimes known as gold elves, sometimes as high elves due to their stereotypically elitist ways, and Ar-tel-quessir in their own language were a subrace of high elves historically rare in Faerûn due to the Retreat, in which the majority abandoned the continent for Evermeet, although during the Era of Upheaval they began returning to the mainland. Haughty and arrogant, sun elves typically felt themselves superior to most other races, including other Tel-quessir.",
       "defName": "O21_FR_SunElf",
-      "enabled": true,
+      "enabled": false,
       "name": "Sun Elf",
       "price": 2000
     },
@@ -13552,7 +13552,7 @@
       },
       "description": "Tabaxi also known as jaguar people or cat-men, were a race of feline humanoids native to the jungles of Maztica.",
       "defName": "O21_FR_Tabaxi",
-      "enabled": true,
+      "enabled": false,
       "name": "Tabaxi",
       "price": 2000
     },
@@ -13577,7 +13577,7 @@
       },
       "description": "Tieflings were human-based planetouched, native outsiders that were infused with the touch of the fiendish planes, most often through descent from fiends—demons, Yugoloths, devils, evil deities, and others who had bred with humans. Tieflings were known for their cunning and personal allure, which made them excellent deceivers as well as inspiring leaders when prejudices were laid aside.",
       "defName": "O21_FR_Tiefling",
-      "enabled": true,
+      "enabled": false,
       "name": "Tiefling",
       "price": 2000
     },
@@ -13607,7 +13607,7 @@
       },
       "description": "The warforged were built to fight in the Last War. The first warforged were mindless automatons, but House Cannith devoted vast resources to improving these steel soldiers. An unexpected breakthrough produced fully sentient soldiers, blending organic and inorganic materials. Warforged are made from wood and metal, but they can feel pain and emotion. Built as weapons, they must now find a purpose beyond the war. A warforged can be a steadfast ally, a cold-hearted killing machine, or a visionary in search of purpose and meaning.",
       "defName": "O21_FR_Warforged",
-      "enabled": true,
+      "enabled": false,
       "name": "Warforged",
       "price": 2000
     },
@@ -13631,7 +13631,7 @@
       },
       "description": "Wood elves, also known as copper elves, or Or-tel-quessir were the most populous of the elven races. Wood elves saw themselves as guardians of the Tel-quessir forest homes that were largely abandoned after the Crown Wars and before the Retreat, but unlike most elves they did not view themselves as a people apart from the rest of Faerûn.",
       "defName": "O21_FR_WoodElf",
-      "enabled": true,
+      "enabled": false,
       "name": "Wood Elf",
       "price": 2000
     },
@@ -13798,6 +13798,29 @@
       "enabled": true,
       "name": "skrix",
       "price": 5000
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+10% Flammability",
+          "+$2150 Market value",
+          "+4.10 Move speed",
+          "-18.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+100% Psychic sensitivity",
+          "+110% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Minotaurs are giant humanoids with fur-covered bodies and bull-like heads. Minotaurs are surprisingly carnivores. They love to dwell within maze-like caverns or ruins, where their innate sense of direction prevented them from getting lost. They lure travelers into their ruins where they have an advantage over their unfortunate victims.",
+      "defName": "FR_Alien_Minotaur",
+      "enabled": true,
+      "name": "Minotaur",
+      "price": 3583
     }
   ]
 }

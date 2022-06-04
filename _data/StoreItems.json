@@ -11801,7 +11801,565 @@
 		"price": 917,
 		"category": "Animals",
 		"defname": "AA_OvergrownColossus"
+	},
+	{
+		"abr": "advancedbattery",
+		"price": 750,
+		"category": "Power",
+		"defname": "VFE_AdvancedBattery"
+	},
+	{
+		"abr": "ammopack",
+		"price": 176,
+		"category": "Utility",
+		"defname": "VAEA_Apparel_AmmoPack"
+	},
+	{
+		"abr": "animalfeeder",
+		"price": 87,
+		"category": "Furniture",
+		"defname": "VFE_AnimalFeeder"
+	},
+	{
+		"abr": "arcademachine",
+		"price": 650,
+		"category": "Recreation",
+		"defname": "Joy_Arcade"
+	},
+	{
+		"abr": "archotechviolencegenerator",
+		"price": 5667,
+		"category": "Special",
+		"defname": "VPE_ArchotechViolenceGenerator"
+	},
+	{
+		"abr": "backpack",
+		"price": 181,
+		"category": "Utility",
+		"defname": "VAEA_Apparel_Backpack"
+	},
+	{
+		"abr": "barber'stable",
+		"price": 328,
+		"category": "Misc",
+		"defname": "VHE_TableBarber"
+	},
+	{
+		"abr": "battlebanner",
+		"price": 93,
+		"category": "Utility",
+		"defname": "VAEA_Apparel_BattleBanner"
+	},
+	{
+		"abr": "bench",
+		"price": 86,
+		"category": "Furniture",
+		"defname": "Seat_Bench"
+	},
+	{
+		"abr": "countertop",
+		"price": 53,
+		"category": "Furniture",
+		"defname": "Table_Counter"
+	},
+	{
+		"abr": "cryptosleepsuspender",
+		"price": 733,
+		"category": "Furniture",
+		"defname": "Bed_CryptoBed"
+	},
+	{
+		"abr": "darklampendtable",
+		"price": 169,
+		"category": "Furniture",
+		"defname": "Table_DarkLightEndTable"
+	},
+	{
+		"abr": "dartsboard",
+		"price": 174,
+		"category": "Furniture",
+		"defname": "Joy_DartsBoard"
+	},
+	{
+		"abr": "drugcabinet",
+		"price": 700,
+		"category": "Misc",
+		"defname": "VFE_DrugCabinet"
+	},
+	{
+		"abr": "electricbutcher",
+		"price": 492,
+		"category": "Production",
+		"defname": "VFE_TableButcherElectric"
+	},
+	{
+		"abr": "electricdruglab",
+		"price": 1292,
+		"category": "Production",
+		"defname": "VFE_TableDrugLabElectric"
+	},
+	{
+		"abr": "electricstonecutter'stable",
+		"price": 1033,
+		"category": "Production",
+		"defname": "VFE_TableStonecutterElectric"
+	},
+	{
+		"abr": "ergonomicbed",
+		"price": 450,
+		"category": "Furniture",
+		"defname": "Bed_Ergonomic"
+	},
+	{
+		"abr": "ergonomicchair",
+		"price": 858,
+		"category": "Furniture",
+		"defname": "Seat_ModernChair"
+	},
+	{
+		"abr": "ergonomicdoublebed",
+		"price": 867,
+		"category": "Furniture",
+		"defname": "Bed_DoubleErgonomic"
+	},
+	{
+		"abr": "explosivebelt",
+		"price": 203,
+		"category": "Utility",
+		"defname": "VAEA_Apparel_ExplosiveBelt"
+	},
+	{
+		"abr": "fabricationcabinet",
+		"price": 433,
+		"category": "Misc",
+		"defname": "VFE_FabricationCabinet"
+	},
+	{
+		"abr": "filecabinet",
+		"price": 93,
+		"category": "Furniture",
+		"defname": "Misc_FileCabinet"
+	},
+	{
+		"abr": "fueledsmelter",
+		"price": 550,
+		"category": "Production",
+		"defname": "VFE_FueledSmelter"
+	},
+	{
+		"abr": "gasfloodlight",
+		"price": 255,
+		"category": "Furniture",
+		"defname": "VPE_GasFloodlight"
+	},
+	{
+		"abr": "gasheater",
+		"price": 218,
+		"category": "Temperature",
+		"defname": "VPE_GasHeater"
+	},
+	{
+		"abr": "gaspoweredexcavator",
+		"price": 483,
+		"category": "Production",
+		"defname": "VPE_GasDrill"
+	},
+	{
+		"abr": "gassunlamp",
+		"price": 160,
+		"category": "Furniture",
+		"defname": "VPE_GasSunLamp"
+	},
+	{
+		"abr": "gastank",
+		"price": 321,
+		"category": "Power",
+		"defname": "VPE_GasTank"
+	},
+	{
+		"abr": "gaswalldarklight",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "VPE_GasWallDarkLight"
+	},
+	{
+		"abr": "gaswalllight",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "VPE_GasWallLight"
+	},
+	{
+		"abr": "helixiengassmelter",
+		"price": 667,
+		"category": "Production",
+		"defname": "VPE_GasSmelter"
+	},
+	{
+		"abr": "helixiengassmithy",
+		"price": 492,
+		"category": "Production",
+		"defname": "VPE_GasSmithy"
+	},
+	{
+		"abr": "helixiengasstove",
+		"price": 375,
+		"category": "Production",
+		"defname": "VPE_GasStove"
+	},
+	{
+		"abr": "industrialradio",
+		"price": 433,
+		"category": "Recreation",
+		"defname": "Radio_Industrial"
+	},
+	{
+		"abr": "intravenousdripstand",
+		"price": 296,
+		"category": "Misc",
+		"defname": "Facility_IVDrip"
+	},
+	{
+		"abr": "kitchensinkcabinet",
+		"price": 327,
+		"category": "Misc",
+		"defname": "VFE_KitchenSinkCabinet"
+	},
+	{
+		"abr": "lampendtable",
+		"price": 169,
+		"category": "Furniture",
+		"defname": "Table_LightEndTable"
+	},
+	{
+		"abr": "largeadvancedbattery",
+		"price": 1467,
+		"category": "Power",
+		"defname": "VFE_LargeAdvancedBattery"
+	},
+	{
+		"abr": "largebattery",
+		"price": 667,
+		"category": "Power",
+		"defname": "VFE_LargeBattery"
+	},
+	{
+		"abr": "largebin",
+		"price": 305,
+		"category": "Furniture",
+		"defname": "Bin_Large"
+	},
+	{
+		"abr": "largevanometricpowercell",
+		"price": 4000,
+		"category": "Special",
+		"defname": "VFE_LargeVanometricPowerCell"
+	},
+	{
+		"abr": "lightningrod",
+		"price": 667,
+		"category": "Special",
+		"defname": "VPE_LightningRod"
+	},
+	{
+		"abr": "longwaveradio",
+		"price": 1033,
+		"category": "Recreation",
+		"defname": "Radio_Spacer"
+	},
+	{
+		"abr": "machiningcabinet",
+		"price": 483,
+		"category": "Misc",
+		"defname": "VFE_MachiningCabinet"
+	},
+	{
+		"abr": "medicbag",
+		"price": 132,
+		"category": "Utility",
+		"defname": "VAEA_Apparel_MedicBag"
+	},
+	{
+		"abr": "mini-turretpack",
+		"price": 194,
+		"category": "Utility",
+		"defname": "VAEA_Apparel_MiniTurretPack"
+	},
+	{
+		"abr": "minotaur",
+		"price": 3583,
+		"category": "Animal",
+		"defname": "FR_Alien_Minotaur"
+	},
+	{
+		"abr": "minotaurleather",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "Leather_Minotaur"
+	},
+	{
+		"abr": "minotaurmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_FR_Alien_Minotaur"
+	},
+	{
+		"abr": "moderncomputer",
+		"price": 1100,
+		"category": "Recreation",
+		"defname": "Joy_ModernComputer"
+	},
+	{
+		"abr": "moderndarklamp",
+		"price": 129,
+		"category": "Furniture",
+		"defname": "Light_ModernDarkLamp"
+	},
+	{
+		"abr": "modernlamp",
+		"price": 129,
+		"category": "Furniture",
+		"defname": "Light_ModernLamp"
+	},
+	{
+		"abr": "oldcomputer",
+		"price": 517,
+		"category": "Recreation",
+		"defname": "Joy_InudstrialComputer"
+	},
+	{
+		"abr": "operatingtable",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "Bed_OperatingTable"
+	},
+	{
+		"abr": "outdoorlamp",
+		"price": 128,
+		"category": "Furniture",
+		"defname": "Light_Streetlamp"
+	},
+	{
+		"abr": "outdoorlamp",
+		"price": 128,
+		"category": "Furniture",
+		"defname": "Light_OutdoorDarkLamp"
+	},
+	{
+		"abr": "portablechemfuelpoweredgenerator",
+		"price": 242,
+		"category": "Power",
+		"defname": "VFE_PortableChemfuelPoweredGenerator"
+	},
+	{
+		"abr": "portablewood-firedgenerator",
+		"price": 189,
+		"category": "Power",
+		"defname": "VFE_PortableWoodFiredGenerator"
+	},
+	{
+		"abr": "punchingbag",
+		"price": 375,
+		"category": "Furniture",
+		"defname": "Joy_PunchingBag"
+	},
+	{
+		"abr": "quiver",
+		"price": 14,
+		"category": "Utility",
+		"defname": "VAEA_Apparel_Quiver"
+	},
+	{
+		"abr": "rangedshieldbelt",
+		"price": 650,
+		"category": "Utility",
+		"defname": "VAEA_Apparel_RangedShieldBelt"
+	},
+	{
+		"abr": "ressurectorbelt",
+		"price": 2833,
+		"category": "Utility",
+		"defname": "VAEA_Apparel_RessurectorBelt"
+	},
+	{
+		"abr": "roulettetable",
+		"price": 708,
+		"category": "Furniture",
+		"defname": "Joy_RouletteTable"
+	},
+	{
+		"abr": "royalarmchair",
+		"price": 1583,
+		"category": "Furniture",
+		"defname": "Seat_RoyalArmchair"
+	},
+	{
+		"abr": "royalchair",
+		"price": 908,
+		"category": "Furniture",
+		"defname": "Seat_RoyalChair"
+	},
+	{
+		"abr": "royaldresser",
+		"price": 1175,
+		"category": "Furniture",
+		"defname": "Table_RoyalDresser"
+	},
+	{
+		"abr": "royalendtable",
+		"price": 742,
+		"category": "Furniture",
+		"defname": "Table_RoyalEndTable"
+	},
+	{
+		"abr": "royalposterbed",
+		"price": 2008,
+		"category": "Furniture",
+		"defname": "Bed_Kingsize"
+	},
+	{
+		"abr": "royaltable(1x1)",
+		"price": 280,
+		"category": "Furniture",
+		"defname": "Table_Royal1x1c"
+	},
+	{
+		"abr": "royaltable(1x2)",
+		"price": 542,
+		"category": "Furniture",
+		"defname": "Table_Royal1x2c"
+	},
+	{
+		"abr": "royaltable(2x2)",
+		"price": 1092,
+		"category": "Furniture",
+		"defname": "Table_Royal2x2c"
+	},
+	{
+		"abr": "royaltable(2x4)",
+		"price": 1475,
+		"category": "Furniture",
+		"defname": "Table_Royal2x4c"
+	},
+	{
+		"abr": "royaltable(3x3)",
+		"price": 1617,
+		"category": "Furniture",
+		"defname": "Table_Royal3x3c"
+	},
+	{
+		"abr": "scarecrow",
+		"price": 129,
+		"category": "Misc",
+		"defname": "VFE_Scarecrow"
+	},
+	{
+		"abr": "shelf(1x1)",
+		"price": 52,
+		"category": "Furniture",
+		"defname": "Shelf_1x1c"
+	},
+	{
+		"abr": "simplebed",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "Bed_Simple"
+	},
+	{
+		"abr": "sittingcushion",
+		"price": 86,
+		"category": "Furniture",
+		"defname": "Seat_Cushion"
+	},
+	{
+		"abr": "slabbed",
+		"price": 111,
+		"category": "Furniture",
+		"defname": "Bed_StoneSlab"
+	},
+	{
+		"abr": "smallbattery",
+		"price": 182,
+		"category": "Power",
+		"defname": "VFE_SmallBattery"
+	},
+	{
+		"abr": "smallbin",
+		"price": 136,
+		"category": "Furniture",
+		"defname": "Bin_Small"
+	},
+	{
+		"abr": "smallvanometricpowercell",
+		"price": 667,
+		"category": "Special",
+		"defname": "VFE_SmallVanometricPowerCell"
+	},
+	{
+		"abr": "smithingcabinet",
+		"price": 483,
+		"category": "Misc",
+		"defname": "VFE_SmithyCabinet"
+	},
+	{
+		"abr": "sprinkler",
+		"price": 182,
+		"category": "Misc",
+		"defname": "VFE_Sprinkler"
+	},
+	{
+		"abr": "squarechair",
+		"price": 198,
+		"category": "Furniture",
+		"defname": "Seat_SquareChair"
+	},
+	{
+		"abr": "standinggaslamp",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "VPE_GasLamp"
+	},
+	{
+		"abr": "table(1x1)",
+		"price": 70,
+		"category": "Furniture",
+		"defname": "Table_1x1c"
+	},
+	{
+		"abr": "tailorcabinet",
+		"price": 327,
+		"category": "Misc",
+		"defname": "VFE_TailorCabinet"
+	},
+	{
+		"abr": "toolbelt",
+		"price": 166,
+		"category": "Utility",
+		"defname": "VAEA_Apparel_ToolBelt"
+	},
+	{
+		"abr": "uprightpiano",
+		"price": 908,
+		"category": "Recreation",
+		"defname": "Joy_Piano"
+	},
+	{
+		"abr": "vitalscentre",
+		"price": 1125,
+		"category": "Misc",
+		"defname": "Facility_VitalsCentre"
+	},
+	{
+		"abr": "wardrobe",
+		"price": 285,
+		"category": "Furniture",
+		"defname": "Table_Wardrobe"
+	},
+	{
+		"abr": "weaponrack",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "Shelf_WeaponRack"
 	}
 	],
-	"total": 1967
+	"total": 2060
 }

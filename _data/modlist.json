@@ -486,6 +486,12 @@
     "version": null
   },
   {
+    "author": "OskarPotocki,  Atlas and  Kikohi",
+    "name": "Vanilla Furniture Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Densevoid",
     "name": "One bed to sleep with all",
     "steamId": "2572109781",
@@ -586,5 +592,83 @@
     "name": "Dual Wield",
     "steamId": "1628211313",
     "version": "0.5.0.0"
+  },
+  {
+    "author": "OskarPotocki,  Atlas and  Kikohi",
+    "name": "Vanilla Furniture Expanded - Medical Module",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Trunken",
+    "name": "Vanilla Furniture Expanded - Production",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  XeoNovaDan and  erdelf",
+    "name": "Vanilla Hair Expanded",
+    "steamId": "1888705256",
+    "version": "1.0.3"
+  },
+  {
+    "author": "Oskar Potocki,  dninemfive and  Kikohi",
+    "name": "Vanilla Furniture Expanded - Farming",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lanilor",
+    "name": "Simply More Bridges (Continued)",
+    "steamId": "2012484790",
+    "version": "1.3.4"
+  },
+  {
+    "author": "Oskar Potocki,  Helixien,  Erin,  Luizi,  ISOREX and  erdelf",
+    "name": "Vanilla Textures Expanded",
+    "steamId": "2016436324",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Rainbeau Flambe - troopersmith1",
+    "name": "[RF] Advanced Bridges Continued [1.0+]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Deon",
+    "name": "Royalty Textures Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
+    "steamId": "2062943477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SalmonToastie",
+    "name": "Forgotten Realms - Minotaur",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  xrushha and  SmashPhil",
+    "name": "Vanilla Apparel Expanded — Accessories",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  xrushha,  legodude17 and  ISOREX",
+    "name": "Vanilla Furniture Expanded - Architect",
+    "steamId": "2608762624",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Tidal",
+    "name": "More Vanilla Textures",
+    "steamId": null,
+    "version": null
   }
 ]
