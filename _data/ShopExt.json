@@ -13673,7 +13673,7 @@
       "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
       "defName": "Skrix",
       "enabled": true,
-      "name": "skrix",
+      "name": "workerskrix",
       "price": 2000
     },
     {
@@ -13714,7 +13714,7 @@
       "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
       "defName": "Skrix_Noble",
       "enabled": true,
-      "name": "skrix",
+      "name": "nobleskrix",
       "price": 4000
     },
     {
@@ -13755,7 +13755,7 @@
       "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
       "defName": "Skrix_Soldier",
       "enabled": true,
-      "name": "skrix",
+      "name": "soldierskrix",
       "price": 3000
     },
     {
@@ -13796,7 +13796,7 @@
       "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
       "defName": "Skrix_Royal",
       "enabled": true,
-      "name": "skrix",
+      "name": "royalskrix",
       "price": 5000
     },
     {
@@ -13818,7 +13818,7 @@
       },
       "description": "Minotaurs are giant humanoids with fur-covered bodies and bull-like heads. Minotaurs are surprisingly carnivores. They love to dwell within maze-like caverns or ruins, where their innate sense of direction prevented them from getting lost. They lure travelers into their ruins where they have an advantage over their unfortunate victims.",
       "defName": "FR_Alien_Minotaur",
-      "enabled": true,
+      "enabled": false,
       "name": "Minotaur",
       "price": 3583
     }
