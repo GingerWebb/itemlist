@@ -36,12 +36,6 @@
     "version": "1.3.0.4"
   },
   {
-    "author": "Torann",
-    "name": "A RimWorld of Magic",
-    "steamId": "1201382956",
-    "version": "2.5.7.4"
-  },
-  {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
@@ -158,12 +152,6 @@
   {
     "author": "Telkir",
     "name": "[T] MoreFloors",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "WexMan",
-    "name": "Mines",
     "steamId": null,
     "version": null
   },
@@ -294,12 +282,6 @@
     "version": "0.7.5"
   },
   {
-    "author": "Syrchalis",
-    "name": "[SYR] Naga",
-    "steamId": "1539971494",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Razor 2.3",
     "name": "Auto-Cut Blight",
     "steamId": null,
@@ -324,12 +306,6 @@
     "version": "1.3.7862.41411"
   },
   {
-    "author": "Gouda quiche",
-    "name": "Mantis race",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "The Biomes Mod Team",
     "name": "Biomes! Core",
     "steamId": "2038000893",
@@ -345,12 +321,6 @@
     "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sarg Bjornson and  AFriend",
-    "name": "Alpha Animals",
-    "steamId": "1541721856",
     "version": "1.0.0.0"
   },
   {
@@ -408,12 +378,6 @@
     "version": "1.3.3"
   },
   {
-    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
-    "name": "Vanilla Brewing Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki and  Kikohi",
     "name": "Vanilla Expanded - Ideology Patches",
     "steamId": null,
@@ -422,12 +386,6 @@
   {
     "author": "Oskar Potocki and  Kikohi",
     "name": "Vanilla Expanded - Royalty Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sarg Bjornson,  Chowder and  Trahspanda",
-    "name": "Vanilla Brewing Expanded - Coffees and Teas",
     "steamId": null,
     "version": null
   },
@@ -472,18 +430,6 @@
     "name": "Vanilla Social Interactions Expanded",
     "steamId": "2439736083",
     "version": "1.0.0.1"
-  },
-  {
-    "author": "Benji // Steam: Cute Twink",
-    "name": "Moonjelly Race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Benji // Steam: Cute Twink",
-    "name": "Folia Race",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "OskarPotocki,  Atlas and  Kikohi",
@@ -540,32 +486,8 @@
     "version": null
   },
   {
-    "author": "Ushanka",
-    "name": "Ushankas Luciferium Expansion",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "[O21] Toolbox",
-    "steamId": "1660622094",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Neronix17",
-    "name": "[O21] Forgotten Realms",
-    "steamId": "2184183669",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Smash Phil",
     "name": "Trade Ships Drop Spot",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Razar1",
-    "name": "Skrix - An Insect-like Race",
     "steamId": null,
     "version": null
   },
@@ -618,42 +540,6 @@
     "version": null
   },
   {
-    "author": "Lanilor",
-    "name": "Simply More Bridges (Continued)",
-    "steamId": "2012484790",
-    "version": "1.3.4"
-  },
-  {
-    "author": "Oskar Potocki,  Helixien,  Erin,  Luizi,  ISOREX and  erdelf",
-    "name": "Vanilla Textures Expanded",
-    "steamId": "2016436324",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Rainbeau Flambe - troopersmith1",
-    "name": "[RF] Advanced Bridges Continued [1.0+]",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Deon",
-    "name": "Royalty Textures Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "Vanilla Furniture Expanded - Power",
-    "steamId": "2062943477",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "SalmonToastie",
-    "name": "Forgotten Realms - Minotaur",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki,  xrushha and  SmashPhil",
     "name": "Vanilla Apparel Expanded — Accessories",
     "steamId": null,
@@ -666,8 +552,56 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Tidal",
-    "name": "More Vanilla Textures",
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
+    "steamId": "2062943477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Rainbeau Flambe - troopersmith1",
+    "name": "[RF] Advanced Bridges Continued [1.0+]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kosaro",
+    "name": "Fahrenheit and Celsius",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Vanilla Textures Expanded - Variations",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
+    "name": "Vanilla Cooking Expanded - Stews",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  LimeTreeSnake and  Kikohi",
+    "name": "Vanilla Factions Expanded - Settlers",
+    "steamId": "2052918119",
+    "version": "1.2.0.0"
+  },
+  {
+    "author": "legodudee17 and  Oskar Potocki",
+    "name": "Vanilla Backgrounds Expanded",
+    "steamId": "2775017012",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "AveryTheKitty,  Erin and Ravenholme",
+    "name": "Xenohumans - Anthromorphs",
+    "steamId": "2349467636",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ruPal",
+    "name": "RimPy Mod Manager Database",
     "steamId": null,
     "version": null
   }
